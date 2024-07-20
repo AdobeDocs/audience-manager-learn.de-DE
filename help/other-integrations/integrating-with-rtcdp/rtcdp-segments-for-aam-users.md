@@ -11,7 +11,7 @@ kt: 7205
 exl-id: a3255af9-372e-4c2e-b3e6-3b71b3616bfa
 source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '148'
 ht-degree: 1%
 
 ---
@@ -30,4 +30,4 @@ Im Folgenden finden Sie einige Videos und Tutorials, die Ihnen dabei helfen, meh
 * [Erstellen von Datensätzen](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=en#permissions-required)
 * [Segmente erstellen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
 * [Dynamische Segmente erstellen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-dynamic-segments.html?lang=en#segments)
-* [Segmente mit mehreren Entitäten erstellen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-multi-entity-segments.html?lang=en#segments)
+* [Erstellen von Segmenten mit mehreren Entitäten](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-multi-entity-segments.html?lang=en#segments)

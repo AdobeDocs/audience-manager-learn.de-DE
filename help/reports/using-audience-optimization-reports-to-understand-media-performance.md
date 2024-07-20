@@ -1,7 +1,7 @@
 ---
 title: Verwenden von Audience Optimization-Berichten zum Verständnis der Medienleistung
-description: Erfahren Sie, wie Sie mit den Kampagnenberichten Ihre Audience Optimizationen verbessern können und wo Sie Ihre Marketinggelder investieren und wo Sie nicht mehr investieren müssen. Erfahren Sie außerdem, wie Sie in diesen Berichten optimale Frequenzlimitierung ermitteln und weitere Edelsteine finden.
-feature: Berichte zur Zielgruppenoptimierung
+description: Erfahren Sie, wie Sie mit den Audience Optimization-Berichten Ihre Kampagnen verbessern können und wo Sie Ihre Marketinggelder investieren und wo Sie nicht mehr investieren müssen. Erfahren Sie außerdem, wie Sie in diesen Berichten optimale Frequenzlimitierung ermitteln und weitere Edelsteine finden.
+feature: Audience Optimization Reports
 topics: null
 activity: use
 doc-type: feature video
@@ -13,14 +13,14 @@ level: Intermediate
 exl-id: 620d4ef6-05ec-4d96-842e-919c6ec402d9
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 2%
+source-wordcount: '102'
+ht-degree: 0%
 
 ---
 
 # Verwenden von Audience Optimization-Berichten zum Verständnis der Medienleistung
 
-Erfahren Sie, wie Sie mit den Kampagnenberichten Ihre Audience Optimizationen verbessern können und wo Sie Ihre Marketinggelder investieren und wo Sie nicht mehr investieren müssen. Erfahren Sie außerdem, wie Sie in diesen Berichten optimale Frequenzlimitierung ermitteln und weitere Edelsteine finden.
+Erfahren Sie, wie Sie mit den Audience Optimization-Berichten Ihre Kampagnen verbessern können und wo Sie Ihre Marketinggelder investieren und wo Sie nicht mehr investieren müssen. Erfahren Sie außerdem, wie Sie in diesen Berichten optimale Frequenzlimitierung ermitteln und weitere Edelsteine finden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330401/?quality=12&learn=on)
 

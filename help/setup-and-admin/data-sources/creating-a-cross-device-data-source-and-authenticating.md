@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Geräteübergreifende Datenquelle erstellen und authentifizieren
 
-Wenn Sie Ihre Erstanbieter-CRM-Daten in Audience Manager integrieren möchten, um Ihre Kunden besser ansprechen zu können, müssen Sie zunächst eine geräteübergreifende Datenquelle erstellen, um die CRM-IDs und Daten zu speichern. Hier erfahren Sie, wie Sie dies durchführen und die `setCustomerIDs()` -Methode in Experience Platform-Tags für Anmeldungen verwendet.
+Wenn Sie Ihre Erstanbieter-CRM-Daten in Audience Manager integrieren möchten, um Ihre Kunden besser ansprechen zu können, müssen Sie zunächst eine geräteübergreifende Datenquelle erstellen, um die CRM-IDs und Daten zu speichern. Hier erfahren Sie, wie Sie dies tun und die `setCustomerIDs()` -Methode in Experience Platform-Tags für Anmeldungen einrichten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331006/?quality=12&learn=on)

@@ -10,14 +10,14 @@ level: Beginner
 exl-id: 903f8329-a434-4938-b190-600fc03b571d
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
 # Grundlegendes zur Match Rate-Oberfläche in Audience Manager
 
-Dieses Video führt Sie durch die [!UICONTROL Destination] -Schnittstelle, in der die Zahlen für Übereinstimmungsraten und adressierbare Zielgruppen angezeigt und erläutert werden.
+Dieses Video führt Sie durch die Oberfläche von [!UICONTROL Destination], zeigt die Zahlen und erklärt sie im Zusammenhang mit Übereinstimmungsraten und adressierbaren Zielgruppen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 

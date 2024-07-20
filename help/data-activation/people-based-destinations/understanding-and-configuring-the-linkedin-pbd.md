@@ -13,17 +13,17 @@ level: Beginner
 exl-id: 1cb80961-c3e2-4a33-a09c-f84cbfed19bd
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Grundlagen und Konfiguration der [!DNL LinkedIn] [!UICONTROL People-Based Destination]
+# Die [!DNL LinkedIn] [!UICONTROL People-Based Destination] verstehen und konfigurieren
 
-Dieses Video führt Sie durch die Konzepte und Schritte zum Erstellen einer [!UICONTROL People-Based Destination] nach [!DNL LinkedIn]. Er baut auf den zusätzlichen Videos und der Dokumentation zu People-basierten Zielen auf.
+Dieses Video führt Sie durch die Konzepte und Schritte zum Erstellen von [!UICONTROL People-Based Destination] zu [!DNL LinkedIn]. Er baut auf den zusätzlichen Videos und der Dokumentation zu People-basierten Zielen auf.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-Weitere Informationen finden Sie unter [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
 
-Weitere Videos zu People-basierten Zielen finden Sie auch unter [HIER](https://adobe.ly/aamlearnpbd).
+Weitere Videos zu People-basierten Zielen [HERE](https://adobe.ly/aamlearnpbd) finden Sie ebenfalls.

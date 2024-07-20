@@ -1,6 +1,6 @@
 ---
 title: Überwachung und Berichterstellung zur Aktivitätsnutzung
-description: In diesem Video erfahren Sie, wie Sie den Bericht zur Aktivitätsnutzung verwenden, einschließlich Anzeige- und Download-Optionen.
+description: In diesem Video erfahren Sie, wie Sie den Bericht zur Aktivitätsnutzung verwenden, einschließlich der Anzeige- und Download-Optionen.
 feature: Usage and Billing
 topics: null
 activity: use
@@ -13,15 +13,15 @@ level: Beginner
 exl-id: 1a71ad6e-6583-4228-8a40-59501cb414b0
 source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
 # Überwachung und Berichterstellung zur Aktivitätsnutzung
 
-In diesem Video werden wir durch die Verwendung des [!UICONTROL Activity Usage Report], einschließlich Anzeige- und Download-Optionen.
+In diesem Video werden wir durch die Verwendung von [!UICONTROL Activity Usage Report], einschließlich der Anzeige- und Download-Optionen, gehen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-Weitere Informationen finden Sie unter [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html).

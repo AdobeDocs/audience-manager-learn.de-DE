@@ -13,7 +13,7 @@ level: Beginner
 exl-id: a9515255-8e3e-4fb8-b467-be68a56c412b
 source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,6 @@ Wenn Sie Ihre Erstanbieter in Audience Manager einbringen, um Ihre Kunden besser
 
 >[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
 
-Ein Video zum Benennen und Importieren von Dateien finden Sie unter [HIER](steps-for-ingesting-file-based-data.md).
+Für ein Video zum Benennen und Importieren von Dateien klicken Sie auf [HERE](steps-for-ingesting-file-based-data.md).
 
-Weitere Informationen finden Sie im [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).

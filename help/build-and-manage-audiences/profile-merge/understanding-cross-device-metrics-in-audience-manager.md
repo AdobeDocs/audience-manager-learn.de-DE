@@ -1,5 +1,5 @@
 ---
-title: Geräteübergreifende Metriken in Audience Manager
+title: Geräteübergreifende Metriken in Audience Manager verstehen
 description: Erfahren Sie mehr über den Unterschied zwischen Geräteprofilen und geräteübergreifenden Profilen und darüber, wo die Zahlen in der Benutzeroberfläche mit diesen verschiedenen Profiltypen übereinstimmen.
 feature: Profile Merge
 topics: null

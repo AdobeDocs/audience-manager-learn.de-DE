@@ -1,6 +1,6 @@
 ---
 title: Datenquelle beim Erstellen von Eigenschaften auswählen
-description: Eines der wichtigen Felder, die beim Erstellen von Eigenschaften ausgefüllt werden müssen, ist das Feld Datenquelle . Hier erhalten Sie Tipps zur Auswahl der richtigen Datenquelle für regelbasierte und integrierte Eigenschaften.
+description: Eines der wichtigen Felder, die beim Erstellen von Eigenschaften ausgefüllt werden müssen, ist das Feld Data Source . Hier erhalten Sie Tipps zur Auswahl der richtigen Datenquelle für regelbasierte und integrierte Eigenschaften.
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Datenquelle beim Erstellen von Eigenschaften auswählen
 
-Eines der wichtigen Felder, die beim Erstellen von Eigenschaften ausgefüllt werden müssen, ist die [!UICONTROL Data Source] -Feld. Hier erhalten Sie Tipps zur Auswahl der richtigen Datenquelle für regelbasierte und integrierte Eigenschaften.
+Eines der wichtigen Felder, die beim Erstellen von Eigenschaften ausgefüllt werden müssen, ist das Feld [!UICONTROL Data Source] . Hier erhalten Sie Tipps zur Auswahl der richtigen Datenquelle für regelbasierte und integrierte Eigenschaften.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326660/?quality=12&learn=on)

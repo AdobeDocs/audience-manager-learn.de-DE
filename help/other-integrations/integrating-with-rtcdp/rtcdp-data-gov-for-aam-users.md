@@ -11,8 +11,8 @@ kt: 7337
 exl-id: 1d99c786-8d64-4877-a4e7-7026a5966d8c
 source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 0%
+source-wordcount: '167'
+ht-degree: 1%
 
 ---
 
@@ -28,5 +28,5 @@ Im Folgenden finden Sie einige Videos und Tutorials, die Ihnen dabei helfen, meh
 
 * [Data Governance - Übersicht](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=en#data-governance)
 * [Daten mithilfe von Governance-Beschriftungen klassifizieren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=en#data-governance)
-* [Datennutzungsrichtlinien erstellen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=en#data-governance)
-* [Durchsetzen von Datennutzungsrichtlinien in Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=en#data-governance)
+* [Erstellen von Datennutzungsrichtlinien](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=en#data-governance)
+* [Erzwingen von Datennutzungsrichtlinien in Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=en#data-governance)

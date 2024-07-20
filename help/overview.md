@@ -18,11 +18,11 @@ ht-degree: 0%
 
 # Audience Manager-Tutorials
 
-Willkommen auf der Audience Manager-Tutorials-Site. Verwenden dieser Tutorials zusammen mit dem [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) erhalten Sie ein besseres Verständnis dafür, wie Sie mit Adobe Audience Manager Zielgruppen erstellen und aktivieren können, indem Sie Adobe am besten nutzen. [!DNL data management platform].
+Willkommen auf der Audience Manager-Tutorials-Site. Durch die Verwendung dieser Tutorials zusammen mit der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) erhalten Sie ein besseres Verständnis dafür, wie Sie mit Adobe Audience Manager Zielgruppen erstellen und aktivieren können, die sich auf einem beliebigen Kanal oder Gerät befinden, indem Sie die bewährte Adobe-Lösung [!DNL data management platform] verwenden.
 
 * **Mitarbeiterauswahl** hebt einige unserer bevorzugten Inhalte hervor
-* Inhalt nach Thema und Unterthema im **linke Navigation**
-* Verwenden Sie die **suchen** oben auf der Seite ein, wenn Sie wissen, wonach Sie suchen
+* Inhalt nach Thema und Unterthema in der **linken Navigation** durchsuchen
+* Verwenden Sie das Feld **search** oben auf der Seite, wenn Sie wissen, wonach Sie suchen
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -56,7 +56,7 @@ Willkommen auf der Audience Manager-Tutorials-Site. Verwenden dieser Tutorials z
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
-    <strong>Segmente in der Echtzeit-Kundendatenplattform für Audience Manager - Grundlagen</strong>
+    <strong>Grundlegendes zu Segmenten in der Echtzeit-Kundendatenplattform für Audience Manager</strong>
     </a>
     </div>
     <p>
@@ -69,7 +69,7 @@ Willkommen auf der Audience Manager-Tutorials-Site. Verwenden dieser Tutorials z
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
-    <strong>Konfigurieren von und Berichten über Predictive Audiences in Audience Manager</strong>
+    <strong>Konfigurieren von und Berichten über vorausschauende Zielgruppen in Audience Manager</strong>
     </a>
     </div>
     <p>

@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Konfigurieren [!UICONTROL Profile Merge Rules] für benutzerbasierte Ziele
+# Konfigurieren von [!UICONTROL Profile Merge Rules] für personenbasierte Ziele
 
-In diesem Video erfahren Sie, wie Sie eine [!UICONTROL Profile Merge Rule] zur Verwendung für personenbasierte Ziele, einschließlich der Verwendung einer brandneuen geräteübergreifenden Option.
+In diesem Video erfahren Sie, wie Sie eine [!UICONTROL Profile Merge Rule] für personenbasierte Ziele einrichten, einschließlich der Verwendung einer brandneuen geräteübergreifenden Option.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)

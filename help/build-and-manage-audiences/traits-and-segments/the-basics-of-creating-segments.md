@@ -13,7 +13,7 @@ level: Beginner
 exl-id: 594b1caf-2752-4710-8272-2df669eb8dbe
 source-git-commit: d87f5c6468600cc35ff059bcff98cc81552f4a10
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Gehen Sie durch die Felder in der Benutzeroberfläche, um ein Segment in Audienc
 
 >[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
 
-Weitere Informationen zu Segmenten finden Sie im Abschnitt [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html).
+Weitere Informationen zu Segmenten finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html).

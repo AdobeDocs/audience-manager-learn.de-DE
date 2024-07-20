@@ -1,5 +1,5 @@
 ---
-title: Zahlen im Eigenschaftsdiagramm
+title: Zahlen im Eigenschaftsdiagramm verstehen
 description: Hier erhalten Sie Tipps zum Verständnis der gemeldeten Zahlen für Eigenschaften im Bildschirm mit Eigenschafteninformationen.
 feature: Traits
 topics: null
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Zahlen im Eigenschaftsdiagramm
+# Zahlen im Eigenschaftsdiagramm verstehen
 
 Hier erhalten Sie Tipps zum Verständnis der gemeldeten Zahlen für Eigenschaften im Bildschirm mit Eigenschafteninformationen.
 

@@ -1,6 +1,6 @@
 ---
 title: Verbesserungen der Profilzusammenführungsrichtlinien - Voraussetzungen
-description: Ein Überblick darüber, wie Sie sich am besten auf die Veröffentlichung der Verbesserungen der Profilzusammenführungsrichtlinien vorbereiten.
+description: Ein Überblick darüber, wie Sie sich am besten auf die Veröffentlichung der Verbesserungen der Profilzusammenführungsrichtlinien vorbereiten können.
 feature: Profile Merge
 topics: null
 activity: understand
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # [!UICONTROL Profile Merge Rule] Verbesserungen - Voraussetzungen
 
-Ein Überblick darüber, wie Sie sich am besten auf die Veröffentlichung von [!UICONTROL Profile Merge Rule] Verbesserungen.
+Ein Überblick darüber, wie Sie sich am besten auf die Veröffentlichung von [!UICONTROL Profile Merge Rule] -Verbesserungen vorbereiten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)

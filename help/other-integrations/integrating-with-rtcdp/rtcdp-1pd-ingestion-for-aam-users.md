@@ -11,7 +11,7 @@ kt: 7128
 exl-id: bdd8d9b2-92f9-4aa0-a0b7-5e3fb63196eb
 source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ In diesem Video wird die Offline-Datenerfassung von Erstanbietern in Real-time C
 
 Im Folgenden finden Sie einige Videos und Tutorials, die Ihnen dabei helfen, mehr über Real-time Customer Data Platform zu erfahren. Sehen Sie sich hierzu auch weitere Videos und Tutorials an, um mehr über Platform zu erfahren.
 
-* [Daten mithilfe des Adobe Audience Manager Data Connectors erfassen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+* [Aufnehmen von Daten mithilfe des Adobe Audience Manager-Data Connectors](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
 * [Streaming-Datenerfassung - Übersicht](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=en#data-ingestion)
 * [Batch-Datenerfassung - Übersicht](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html?lang=en#data-ingestion)
 * [Erstellen eines Schemas mit dem Schema Editor](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)

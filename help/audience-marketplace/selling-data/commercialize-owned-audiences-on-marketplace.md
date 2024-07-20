@@ -1,6 +1,6 @@
 ---
 title: Kommerzialisieren von eigenen Zielgruppen auf Marketplace
-description: In diesem Video erfahren Sie, wie Sie Ihre Daten als privaten oder öffentlichen Daten-Feed im Audience Marketplace einrichten und Sie zu einem Datenanbieter mit Daten von Zweit- oder Drittanbietern machen.
+description: In diesem Video erfahren Sie, wie Sie Ihre Daten als privaten oder öffentlichen Daten-Feed auf der Audience Marketplace einrichten und Sie zu einem Datenanbieter mit Daten von Zweit- oder Drittanbietern machen.
 feature: Audience Marketplace
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Kommerzialisieren von eigenen Zielgruppen auf Marketplace
 
-In diesem Video erfahren Sie, wie Sie Ihre Daten als privaten oder öffentlichen Daten-Feed im Audience Marketplace einrichten und Sie zu einem Datenanbieter für Daten von Zweit- oder Drittanbietern machen.
+In diesem Video erfahren Sie, wie Sie Ihre Daten als privaten oder öffentlichen Datenfeed auf der Audience Marketplace einrichten und Sie zu einem Datenanbieter für Daten von Zweit- oder Drittanbietern machen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331721/?quality=12&learn=on)

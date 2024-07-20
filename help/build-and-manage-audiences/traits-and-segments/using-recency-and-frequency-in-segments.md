@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Verwendung [!UICONTROL Recency] und [!UICONTROL Frequency] in Segmenten
+# Verwenden Sie [!UICONTROL Recency] und [!UICONTROL Frequency] in Segmenten
 
-Verwendung [!UICONTROL Recency] und [!UICONTROL Frequency] , um Segmentparameter anzugeben, wie oft sich ein Besucher innerhalb eines bestimmten Zeitraums für eine Eigenschaft qualifizieren muss. Ideal für Anwendungsfälle mit Inhaltsaffinität und Frequenzlimitierung sowie andere.
+Verwenden Sie [!UICONTROL Recency] und [!UICONTROL Frequency], um Segmentparameter anzugeben, wie oft ein Besucher sich innerhalb eines bestimmten Zeitraums für eine Eigenschaft qualifizieren muss. Ideal für Anwendungsfälle mit Inhaltsaffinität und Frequenzlimitierung sowie andere.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37698/?quality=12&learn=on)

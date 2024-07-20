@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Erstellen einer [!UICONTROL Data Source] für benutzerbasierte Ziele
+# Erstellen von [!UICONTROL Data Source] für personenbasierte Ziele
 
-Dieses Video führt Sie durch die Erstellung eines [!UICONTROL Data Source] im Audience Manager, der für People-basierte Ziele verwendet werden soll.
+In diesem Video erfahren Sie, wie Sie einen [!UICONTROL Data Source] -Audience Manager für personenbasierte Ziele erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)

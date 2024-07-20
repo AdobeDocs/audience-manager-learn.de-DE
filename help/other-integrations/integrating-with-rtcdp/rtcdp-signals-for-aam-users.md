@@ -11,7 +11,7 @@ kt: 7305
 exl-id: 96f841c9-d185-4b0b-b0de-e4ea708b518c
 source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '145'
 ht-degree: 1%
 
 ---
@@ -26,5 +26,5 @@ Dieses Video ist für Audience Manager gedacht, die zu Real-time Customer Data P
 
 Nachstehend finden Sie vorhandene Videos und Ressourcen, die Ihnen dabei helfen, mehr über Real-time Customer Data Platform zu erfahren. Sehen Sie sich hierzu auch weitere Videos und Tutorials an, um mehr über Platform zu erfahren.
 
-* [Eigenschaften in der Echtzeit-Kundendatenplattform für Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=en#other-integrations)
-* [Segmente in der Echtzeit-Kundendatenplattform für Audience Manager - Grundlagen](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=en#other-integrations)
+* [Eigenschaften in der Echtzeit-Kundendatenplattform für Audience Manager verstehen](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=en#other-integrations)
+* [Grundlegendes zu Segmenten in der Echtzeit-Kundendatenplattform für Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=en#other-integrations)

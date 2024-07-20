@@ -1,6 +1,6 @@
 ---
 title: Eigenschaften in algorithmischen (Look-alike) Modellen ausschließen
-description: 'Erfahren Sie, wie und warum Sie bestimmte (oder Gruppen von) Eigenschaften aus einem algorithmischen (Look-alike-)Modell ausschließen. '
+description: Erfahren Sie, wie und warum Sie bestimmte (oder Gruppen von) Eigenschaften aus einem algorithmischen (Look-alike-)Modell ausschließen.
 feature: Algorithmic Models
 topics: null
 activity: use
@@ -26,5 +26,5 @@ In diesem Video erfahren Sie, wie und warum Sie bestimmte (oder Gruppen von) Eig
 
 Anwendungsbeispiele für diese Funktion sind:
 
-* Extrem häufige Eigenschaften wie Site-Besucher-Eigenschaften beeinflussen das Modell, das beim Suchen einer qualitativ hochwertigen Look-alike-Zielgruppe nicht nützlich sein wird. Kunden müssen keine separate Datenquelle erstellen und allgemeine Eigenschaften in der neuen Datenquelle speichern, können sie jetzt aber einfach ausschließen.
+* Extrem häufige Eigenschaften wie Site-Besucher-Eigenschaften beeinflussen das Modell, das beim Suchen einer qualitativ hochwertigen Look-alike-Zielgruppe nicht nützlich ist. Kunden müssen keine separate Datenquelle erstellen und allgemeine Eigenschaften in der neuen Datenquelle speichern, können sie jetzt aber einfach ausschließen.
 * Es gibt jetzt eine Möglichkeit, eine Untergruppe von Eigenschaften eines Drittanbieters zu verwenden, z. B. nur Verhaltensinteressen und nicht alle Informationen in einem Modell. Drittanbieter senden in der Regel viele Daten, die für den Kunden möglicherweise nicht nützlich sind. In einigen Fällen wird es ihnen nicht gestattet sein, alle Daten aus rechtlicher Sicht bei der Modellierung zu verwenden. Jetzt können Sie Eigenschaften oder Ordner von Eigenschaften ausschließen, die Sie nicht in das Modell aufnehmen möchten.

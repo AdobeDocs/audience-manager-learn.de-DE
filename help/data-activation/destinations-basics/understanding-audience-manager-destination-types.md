@@ -10,17 +10,17 @@ level: Beginner
 exl-id: 8e4026fb-6ee7-4f42-afb2-7600c87744d6
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
-# Grundlegendes zu Audience Manager [!UICONTROL Destination] Typen
+# Typen von Audience Managern [!UICONTROL Destination]
 
 Dieses Video führt Sie durch die verschiedenen Zieltypen in Adobe Audience Manager und zeigt, wann Sie die einzelnen Ziele verwenden würden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-Eine Liste der verfügbaren Ziel-Partner von Server zu Server finden Sie im [Dokumentation zu gerätebasierten Audience Managern](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html).
+Eine Liste der verfügbaren Server-zu-Server-Ziel-Partner finden Sie in der Dokumentation zu [Audience Manager Device-based Destinations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html) .
 
 Weitere Informationen zu Zielen finden Sie unter [Ziele](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html) in der Produktdokumentation.

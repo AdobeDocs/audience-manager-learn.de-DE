@@ -1,6 +1,6 @@
 ---
 title: Segmente mit Trait Recommendations verbessern
-description: Wenn Sie Trait Recommendations in   ein Segment erstellen oder bearbeiten, erhalten Sie Empfehlungen zu zusätzlichen Merkmalen, die Sie einschließen können. Diese sind vergleichbar mit den Merkmalen in der Segmentregel.
+description: Bei Trait Recommendations erhalten Sie beim Erstellen oder Bearbeiten eines Segments Empfehlungen zu zusätzlichen Eigenschaften, die Sie einbeziehen können, die den Eigenschaften in der Segmentregel ähnlich sind.
 feature: Segments
 topics: null
 activity: use
@@ -13,17 +13,17 @@ level: Beginner
 exl-id: 2d1b66fc-0091-44d1-970a-f30d6d5cca4c
 source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 27%
+source-wordcount: '97'
+ht-degree: 0%
 
 ---
 
-# Verbessern Ihrer Segmente mit [!UICONTROL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
+# Segmente mit [!UICONTROL Trait Recommendations] verbessern {#enhancing-your-aam-segments-with-trait-recommendations}
 
-Mit [!UICONTROL Trait Recommendations], wenn Sie ein Segment in [!UICONTROL Segments]erhalten Sie Empfehlungen zu zusätzlichen Eigenschaften, die Sie einbeziehen können, die den Eigenschaften in der Segmentregel ähnlich sind.
+Wenn Sie mit [!UICONTROL Trait Recommendations] ein Segment in [!UICONTROL Segments] erstellen oder bearbeiten, erhalten Sie Empfehlungen zu zusätzlichen Eigenschaften, die Sie einbeziehen können, die den Eigenschaften in der Segmentregel ähnlich sind.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
 
-[!UICONTROL Trait Recommendations] Arbeiten an Erstanbieter- und Drittanbieterdaten, sodass Sie zusätzliche empfohlene [!UICONTROL Traits] und erhöhen Sie Ihre Zielgruppe.
+[!UICONTROL Trait Recommendations] arbeitet sowohl an Erstanbieter- als auch an Drittanbieterdaten, sodass Sie zusätzliche empfohlene [!UICONTROL Traits] einbeziehen und Ihre Zielgruppe vergrößern können.
 
-Weitere Informationen zu dieser Funktion finden Sie unter [Dokumentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).
