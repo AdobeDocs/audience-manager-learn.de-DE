@@ -4,7 +4,7 @@ user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analyt
 breadcrumb-title: Audience Manager-Tutorials
 solution: Audience Manager
 type: Tutorial
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: f9708e705d95b43084ff11e342dc54ff11d6326c
 workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 2%
@@ -17,7 +17,7 @@ ht-degree: 2%
 + [Audience Manager-Tutorials](overview.md)
 + In Audience Manager {#intro-to-audience-manager} eintreten
    + [Wie DMP Ihr Geschäft verändern kann](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
-   + [Audience Manager - Übersicht über eine DMP](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
+   + [Audience Manager - Überblick über DMP](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Anwendungsfälle für Audience Manager](intro-to-audience-manager/audience-manager-use-cases.md)
    + [Grundlegende Begriffe und Konzepte](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
    + [Grundlegendes zum Datenfluss in Audience Manager](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
@@ -38,7 +38,7 @@ ht-degree: 2%
       + [Festlegen von Berechtigungen mit rollenbasierter Zugriffssteuerung](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + Data Governance und Datenschutz {#data-governance-and-privacy}
       + [Validierung der globalen Geräte-ID](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
-      + [IAB TCF 2.0-Unterstützung](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
+      + [IAB TCF 2.2-Unterstützung](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
       + [IP-Verschleierung nach Land](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
    + Nutzung und Abrechnung {#usage-and-billing}
       + [Überwachung und Berichterstellung zur Aktivitätsnutzung](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
