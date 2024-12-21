@@ -1,6 +1,6 @@
 ---
-title: Verstehen verwandter Zielgruppen mit Überlagerungsberichten
-description: Mit Überlagerungsberichten können Sie sehen, wie sich Eigenschaften- und Segmentzielgruppen gegenseitig überschneiden (derselbe Besucher in mehreren Eigenschaften oder Segmenten), sodass Sie wissen, wo Sie mit Ihren Daten interagieren können, um die Konversion zu steigern oder sich auf die Erweiterung der Reichweite zu konzentrieren.
+title: Verstehen verwandter Zielgruppen mit Überschneidungsberichten
+description: Mit Überschneidungsberichten können Sie sehen, wie sich Eigenschaften und Segment-Zielgruppen miteinander überschneiden (derselbe Besucher in mehreren Eigenschaften oder Segmenten), sodass Sie wissen, wo Sie mit Ihren Daten handeln können, um die Konversion zu steigern oder sich auf die Erweiterung der Reichweite zu konzentrieren.
 feature: Overlap Reports
 topics: null
 activity: use
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# Verstehen verwandter Zielgruppen mit Überlagerungsberichten
+# Verstehen verwandter Zielgruppen mit Überschneidungsberichten
 
-Mit Überlagerungsberichten können Sie sehen, wie sich Eigenschaften- und Segmentzielgruppen gegenseitig überschneiden (derselbe Besucher in mehreren Eigenschaften oder Segmenten), sodass Sie wissen, wo Sie mit Ihren Daten interagieren können, um die Konversion zu steigern oder sich auf die Erweiterung der Reichweite zu konzentrieren.
+Mit Überschneidungsberichten können Sie sehen, wie sich Eigenschaften und Segment-Zielgruppen miteinander überschneiden (derselbe Besucher in mehreren Eigenschaften oder Segmenten), sodass Sie wissen, wo Sie mit Ihren Daten handeln können, um die Konversion zu steigern oder sich auf die Erweiterung der Reichweite zu konzentrieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330432/?quality=12&learn=on)
 

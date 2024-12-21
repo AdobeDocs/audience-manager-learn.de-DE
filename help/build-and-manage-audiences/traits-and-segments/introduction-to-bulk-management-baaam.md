@@ -1,6 +1,6 @@
 ---
-title: Einführung in das Bulk Management (BAAAM)
-description: Erfahren Sie mehr über das Audience Manager-Bulk-Management-Tool, häufig als "BAAAM"bezeichnet. Erfahren Sie, wie Sie sich authentifizieren können, damit Sie das BAAAM-Blatt verwenden können, um Eigenschaften und Segmente über die REST-API zu erstellen, zu bearbeiten und zu löschen.
+title: Einführung in die Massenverwaltung (BAAAM)
+description: Erfahren Sie mehr über das Tool für die Massenverwaltung von Audience Managern, häufig als „BAAAM“ bezeichnet. Erfahren Sie, wie Sie sich authentifizieren, damit Sie das BAM-Blatt verwenden können, um Eigenschaften und Segmente über die REST-API zu erstellen, zu bearbeiten und zu löschen.
 feature: BAAAM
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Einführung in das Bulk Management (BAAAM)
+# Einführung in die Massenverwaltung (BAAAM)
 
-Erfahren Sie mehr über das Tool &quot;Audience Manager [!UICONTROL Bulk Management]&quot;, das häufig als &quot;BAAAM&quot;bezeichnet wird. Erfahren Sie, wie Sie sich authentifizieren können, damit Sie das BAAAM-Blatt verwenden können, um Eigenschaften und Segmente über die REST-API zu erstellen, zu bearbeiten und zu löschen.
+Erfahren Sie mehr über das Audience Manager-[!UICONTROL Bulk Management]-Tool, häufig als „BAAAM“ bezeichnet. Erfahren Sie, wie Sie sich authentifizieren, damit Sie das BAM-Blatt verwenden können, um Eigenschaften und Segmente über die REST-API zu erstellen, zu bearbeiten und zu löschen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327692/?quality=12&learn=on)

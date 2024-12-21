@@ -1,6 +1,6 @@
 ---
-title: Datenfluss in Audience Manager - Grundlagen
-description: In diesem Video erfahren Sie mehr über Adobe Audience Manager, indem Sie den Datenfluss in, durch und aus der Anwendung beschreiben.
+title: Grundlagen zum Datenfluss in Audience Manager
+description: In diesem Video erfahren Sie, wie Adobe Audience Manager funktioniert, indem Sie den Datenfluss in, durch und aus der Anwendung beschreiben.
 feature: Overview
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Datenfluss in Audience Manager verstehen
+# Datenfluss in Audience Manager
 
-In diesem Video erfahren Sie mehr über Adobe Audience Manager, indem Sie den Datenfluss in, durch und aus der Anwendung beschreiben.
+In diesem Video erfahren Sie, wie Adobe Audience Manager funktioniert, indem Sie den Datenfluss in, durch und aus der Anwendung beschreiben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33888/?quality=12)

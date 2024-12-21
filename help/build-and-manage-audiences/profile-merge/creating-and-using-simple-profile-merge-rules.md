@@ -1,6 +1,6 @@
 ---
-title: Erstellen und Verwenden einfacher Profilzusammenführungsrichtlinien
-description: Erfahren Sie mehr über Regeln zur Profilzusammenführung und wie Sie sie Segmenten zuweisen. Erfahren Sie mehr über das Standardprofil "Aktuelles Gerät"und darüber, wann es verwendet werden kann/sollte.
+title: Erstellen und Verwenden einfacher Profilzusammenführungsregeln
+description: Erfahren Sie mehr über Profilzusammenführungsregeln und deren Zuweisung zu Segmenten. Erfahren Sie mehr über das Standardprofil „Aktuelles Gerät“ und darüber, wann es verwendet werden kann/sollte.
 feature: Profile Merge
 topics: null
 activity: setup
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Einfache [!UICONTROL Profile Merge Rules] erstellen und verwenden
 
-Erfahren Sie mehr über [!UICONTROL Profile Merge Rules] und wie Sie sie Segmenten zuweisen. Erfahren Sie mehr über das standardmäßige [!UICONTROL Current Device] -Profil und darüber, wann es verwendet werden kann und sollte.
+Erfahren Sie mehr über [!UICONTROL Profile Merge Rules] und wie Sie sie Segmenten zuweisen. Erfahren Sie mehr über das Standardprofil [!UICONTROL Current Device] und wann es verwendet werden kann und sollte.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35937/?quality=12&learn=on)

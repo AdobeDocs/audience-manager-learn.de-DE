@@ -1,6 +1,6 @@
 ---
-title: Verwenden Sie Profilzusammenführungsrichtlinien , um den authentifizierten Status zu personalisieren.
-description: Geben Sie Ihren angemeldeten Kunden mithilfe dieser Profilzusammenführungsregeleinstellungen ein personalisiertes Erlebnis.
+title: Verwenden von Profilzusammenführungsregeln zur Personalisierung in einem authentifizierten Status
+description: Gestalten Sie Ihren angemeldeten Kunden ein personalisiertes Erlebnis, indem Sie diese Einstellungen für Profilzusammenführungsregeln verwenden.
 feature: Profile Merge
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Verwenden Sie [!UICONTROL Profile Merge Rules], um den authentifizierten Status zu personalisieren.
+# [!UICONTROL Profile Merge Rules] zur Personalisierung in authentifiziertem Zustand verwenden
 
-Geben Sie Ihren angemeldeten Kunden mithilfe dieser [!UICONTROL Profile Merge Rule] -Einstellungen ein personalisiertes Erlebnis.
+Geben Sie Ihren angemeldeten Kunden mithilfe dieser [!UICONTROL Profile Merge Rule] ein personalisiertes Erlebnis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35938/?quality=12&learn=on)

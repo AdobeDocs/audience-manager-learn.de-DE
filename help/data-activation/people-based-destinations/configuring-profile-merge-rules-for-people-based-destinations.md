@@ -1,6 +1,6 @@
 ---
-title: Konfigurieren von Profilzusammenführungsrichtlinien für personenbasierte Ziele
-description: In diesem Video erfahren Sie, wie Sie eine Profilzusammenführungsrichtlinie für personenbasierte Ziele einrichten, einschließlich der Verwendung einer brandneuen geräteübergreifenden Option.
+title: Konfigurieren von Profilzusammenführungsregeln für personenbasierte Ziele
+description: In diesem Video erfahren Sie, wie Sie eine Profilzusammenführungsregel einrichten, die für personenbasierte Ziele verwendet werden soll, einschließlich der Verwendung einer brandneuen geräteübergreifenden Option.
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Konfigurieren von [!UICONTROL Profile Merge Rules] für personenbasierte Ziele
 
-In diesem Video erfahren Sie, wie Sie eine [!UICONTROL Profile Merge Rule] für personenbasierte Ziele einrichten, einschließlich der Verwendung einer brandneuen geräteübergreifenden Option.
+In diesem Video erfahren Sie, wie Sie eine [!UICONTROL Profile Merge Rule] einrichten, die für personenbasierte Ziele verwendet werden soll, einschließlich der Verwendung einer brandneuen geräteübergreifenden Option.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)

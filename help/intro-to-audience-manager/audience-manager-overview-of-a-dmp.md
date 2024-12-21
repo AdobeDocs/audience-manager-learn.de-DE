@@ -1,6 +1,6 @@
 ---
-title: Audience Manager - Übersicht über eine DMP
-description: Machen Sie sich mit den wichtigsten Herausforderungen bei der kanalübergreifenden Personalisierung vertraut und erfahren Sie, wie Adobe Audience Manager die Journey von Kunden unterstützt. Erfahren Sie außerdem, welche Datentypen in Audience Manager integriert werden können, und identifizieren Sie die in Audience Manager integrierten Ad-Tech-Ökosystempartner.
+title: Audience Manager - Überblick über eine DMP
+description: Machen Sie sich mit den wichtigsten Herausforderungen bei der kanalübergreifenden Personalisierung vertraut und erfahren Sie, wie Adobe Audience Manager den Kunden-Journey unterstützt. Erfahren Sie außerdem, welche Datentypen in der Audience Manager integriert werden können, und identifizieren Sie die Ad-Tech-Ökosystempartner, die in Audience Manager integriert sind.
 feature: Overview
 topics: null
 activity: understand
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 ---
 
-# Audience Manager - Übersicht über eine DMP
+# Audience Manager - Überblick über eine DMP
 
-Machen Sie sich mit den wichtigsten Herausforderungen bei der kanalübergreifenden Personalisierung vertraut und erfahren Sie, wie Adobe Audience Manager die Journey von Kunden unterstützt. Erfahren Sie außerdem, welche Datentypen in Audience Manager integriert werden können, und identifizieren Sie die in Audience Manager integrierten Ad-Tech-Ökosystempartner.
+Machen Sie sich mit den wichtigsten Herausforderungen bei der kanalübergreifenden Personalisierung vertraut und erfahren Sie, wie Adobe Audience Manager den Kunden-Journey unterstützt. Erfahren Sie außerdem, welche Datentypen in der Audience Manager integriert werden können, und identifizieren Sie die Ad-Tech-Ökosystempartner, die in Audience Manager integriert sind.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 

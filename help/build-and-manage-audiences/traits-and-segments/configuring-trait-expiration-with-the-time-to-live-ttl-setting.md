@@ -1,6 +1,6 @@
 ---
-title: Konfigurieren des Ablaufs von Eigenschaften mit [!UICONTROL Time-to-Live] (TTL)
-description: Erfahren Sie, wie Sie in Audience Manager [!UICONTROL Time to Live] (TTL) finden und festlegen. Verwenden Sie diese Einstellung beim Erstellen von Eigenschaften, die einen Ablauf der Mitgliedschaft in der Eigenschaft festlegt, wenn ein Benutzer sich nicht innerhalb des festgelegten Zeitraums erneut qualifiziert.
+title: Ablaufdatum der Eigenschaft mit [!UICONTROL Time-to-Live] (TTL) konfigurieren
+description: Erfahren Sie, wie Sie in Audience Manager [!UICONTROL Time to Live] (TTL) finden und festlegen. Verwenden Sie diese Einstellung, wenn Sie Eigenschaften erstellen, wodurch ein Ablaufdatum für die Mitgliedschaft in der Eigenschaft festgelegt wird, wenn sich ein Benutzer nicht innerhalb des angegebenen Zeitraums erneut qualifiziert.
 feature: Traits
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Konfigurieren des Ablaufs von Eigenschaften mit [!UICONTROL Time-to-Live] (TTL)
+# Ablaufdatum der Eigenschaft mit [!UICONTROL Time-to-Live] (TTL) konfigurieren
 
-Eine der Einstellungen beim Erstellen von Eigenschaften ist die Einstellung [!UICONTROL Time to Live] (TTL). Dies ist ein Ablauf der Mitgliedschaft in der Eigenschaft, wenn Sie sich nicht innerhalb des angegebenen Zeitraums erneut qualifizieren. In diesem Video wird gezeigt, wie diese Funktion angezeigt und festgelegt wird.
+Eine der Einstellungen beim Erstellen von Eigenschaften ist die Einstellung [!UICONTROL Time to Live] (TTL) , die ein Ende der Mitgliedschaft in der Eigenschaft bedeutet, wenn Sie sich nicht innerhalb des angegebenen Zeitraums erneut qualifizieren. In diesem Video wird gezeigt, wie diese Funktion angezeigt und festgelegt wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)

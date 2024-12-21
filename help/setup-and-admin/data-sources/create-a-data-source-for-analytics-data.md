@@ -1,5 +1,5 @@
 ---
-title: Erstellen einer Data Source für Analytics-Daten
+title: Erstellen eines Daten-Source für Analytics-Daten
 description: Erfahren Sie, wie Sie eine Datenquelle für Daten erstellen, die direkt aus einer Analyselösung wie Adobe Analytics importiert werden. Führen Sie diese Schritte aus, bevor Sie Eigenschaften für die Analysedaten erstellen.
 landing-page-description: Erfahren Sie, wie Sie eine Datenquelle für Daten erstellen, die direkt aus einer Analyselösung wie Adobe Analytics importiert werden. Führen Sie diese Schritte aus, bevor Sie Eigenschaften für die Analysedaten erstellen.
 short-description: Erfahren Sie, wie Sie eine Datenquelle für Daten erstellen, die direkt aus einer Analyselösung wie Adobe Analytics importiert werden. Führen Sie diese Schritte aus, bevor Sie Eigenschaften für die Analysedaten erstellen.
@@ -16,8 +16,8 @@ ht-degree: 68%
 
 ---
 
-# Erstellen einer [!UICONTROL Data Source] für [!DNL Analytics]-Daten {#create-a-data-source-for-analytics-data}
+# Erstellen eines [!UICONTROL Data Source] für [!DNL Analytics] {#create-a-data-source-for-analytics-data}
 
-In diesem Video gehen wir durch die Schritte, einschließlich Tipps und Tricks, wie Sie einen &quot;[!UICONTROL Data Source]&quot;-Audience Manager erstellen, den Sie für Daten verwenden können, die von einer Analyselösung wie Adobe Analytics live übermittelt werden. Dies sollte vor dem Erstellen von Eigenschaften für die Analysedaten erfolgen.
+In diesem Video erläutern wir, wie Sie, einschließlich Tipps und Tricks, eine [!UICONTROL Data Source] im Audience Manager erstellen, die Sie für Daten aus einer Analyselösung wie Adobe Analytics verwenden können. Dies sollte vor dem Erstellen von Eigenschaften für die Analysedaten erfolgen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27329/?quality=12)

@@ -1,5 +1,5 @@
 ---
-title: Zahlen im Segmentdiagramm verstehen
+title: Zahlen im Segmentdiagramm
 description: Erfahren Sie mehr über die Zahlen, die im Diagramm des Segmentinformationsbildschirms angezeigt werden.
 feature: Segments
 topics: null
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Zahlen im Segmentdiagramm verstehen
+# Zahlen im Segmentdiagramm
 
 Erfahren Sie mehr über die Zahlen, die im Diagramm des Segmentinformationsbildschirms angezeigt werden.
 

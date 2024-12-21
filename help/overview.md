@@ -1,6 +1,6 @@
 ---
 title: Audience Manager-Videos und -Tutorials
-description: Eine Sammlung von Videos und Tutorials für Adobe Audience Manager.
+description: Eine Videosammlung und Tutorials zu Adobe Audience Manager.
 feature: Overview
 topics: null
 activity: use
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 # Audience Manager-Tutorials
 
-Willkommen auf der Audience Manager-Tutorials-Site. Durch die Verwendung dieser Tutorials zusammen mit der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) erhalten Sie ein besseres Verständnis dafür, wie Sie mit Adobe Audience Manager Zielgruppen erstellen und aktivieren können, die sich auf einem beliebigen Kanal oder Gerät befinden, indem Sie die bewährte Adobe-Lösung [!DNL data management platform] verwenden.
+Willkommen auf der Site zu Audience Manager-Tutorials . Durch die Verwendung dieser Tutorials zusammen mit der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) erhalten Sie ein besseres Verständnis dafür, wie Sie mit Adobe Audience Manager mithilfe der erstklassigen [!DNL data management platform] von Adobe Zielgruppen auf jedem Kanal oder Gerät erstellen und aktivieren können.
 
-* **Mitarbeiterauswahl** hebt einige unserer bevorzugten Inhalte hervor
-* Inhalt nach Thema und Unterthema in der **linken Navigation** durchsuchen
-* Verwenden Sie das Feld **search** oben auf der Seite, wenn Sie wissen, wonach Sie suchen
+* **Favoriten** hebt einige unserer Lieblingsinhalte hervor
+* Erkunden des Inhalts nach Thema und Unterthema in der **linken Navigation**
+* Verwenden Sie **Feld** Suche“ oben auf der Seite, wenn Sie wissen, wonach Sie suchen
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -33,13 +33,13 @@ Willkommen auf der Audience Manager-Tutorials-Site. Durch die Verwendung dieser 
 
 <div id="staff-picks-section">
 
-## Mitarbeiterauswahl
+## Favoriten unserer Mitarbeiter
 
 <table>
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
-      <img alt="Miniaturbild für das Tutorial &quot;Adobe Experience Cloud mit Web SDK implementieren&quot;" src="assets/implement-web-sdk.jpg" />
+      <img alt="Miniaturbild für das Tutorial „Implementieren von Adobe Experience Cloud mit Web SDK&quot;" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
@@ -47,33 +47,33 @@ Willkommen auf der Audience Manager-Tutorials-Site. Durch die Verwendung dieser 
     </a>
     </div>
     <p>
-    <em>Erfahren Sie, wie Sie Experience Cloud-Anwendungen mit dem Adobe Experience Platform Web SDK implementieren.</em>
+    <em>Erfahren Sie, wie Sie Experience Cloud-Anwendungen mit Adobe Experience Platform Web SDK implementieren.</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
-      <img alt="Miniaturbild für das Tutorial &quot;Grundlagen zu Segmenten in der Echtzeit-Kundendatenplattform&quot;" src="assets/331901.jpg" />
+      <img alt="Miniaturbild für das Tutorial „Grundlagen zu Segmenten in Real-Time CDP“" src="assets/331901.jpg" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
-    <strong>Grundlegendes zu Segmenten in der Echtzeit-Kundendatenplattform für Audience Manager</strong>
+    <strong>Grundlegendes zu Segmenten in Real-Time CDP für Audience Manager-Benutzer</strong>
     </a>
     </div>
     <p>
-    <em>In diesem Video werden die Unterschiede bei der Segmenterstellung und der Segmenterstellung zwischen der Audience Manager- und der Echtzeit-Kundendatenplattform untersucht.</em>
+    <em>In diesem Video werden die Unterschiede bei Segmenten und der Segmenterstellung zwischen Audience Manager und Real-Time CDP behandelt.</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
-      <img alt="Miniaturbild für das Tutorial &quot;Konfigurieren von und Reporting zu vorausschauenden Zielgruppen in Audience Manager&quot;" src="assets/33630.jpg" />
+      <img alt="Miniaturbild für das Tutorial „Konfigurieren und Erstellen von Berichten zu prädiktiven Zielgruppen im Audience Manager&quot;" src="assets/33630.jpg" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
-    <strong>Konfigurieren von und Berichten über vorausschauende Zielgruppen in Audience Manager</strong>
+    <strong>Konfigurieren von und Erstellen von Berichten zu prädiktiven Zielgruppen im Audience Manager </strong>
     </a>
     </div>
     <p>
-    <em>In diesem Video werden wir die Konfiguration von Predictive Audiences in der Audience Manager-Oberfläche durchlaufen.</em>
+    <em>In diesem Video werden wir die Konfiguration prädiktiver Zielgruppen in der Audience Manager-Benutzeroberfläche erläutern.</em>
     <p>
   </td>
 </tr>

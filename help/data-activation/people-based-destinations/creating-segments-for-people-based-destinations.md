@@ -1,6 +1,6 @@
 ---
-title: Segmente für benutzerbasierte Ziele erstellen
-description: Dieses Video führt Sie durch die Erstellung eines Segments in Audience Manager, das für personenbasierte Ziele verwendet werden soll.
+title: Erstellen von Segmenten für personenbasierte Ziele
+description: Dieses Video führt Sie durch die Erstellung eines Segments in Audience Manager, das für personenbasierte Ziele verwendet werden kann.
 feature: People-based Destinations
 activity: setup
 doc-type: feature video
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Segmente für benutzerbasierte Ziele erstellen
+# Erstellen von Segmenten für personenbasierte Ziele
 
-Dieses Video führt Sie durch die Erstellung eines Segments in Audience Manager, das für personenbasierte Ziele verwendet werden soll.
+Dieses Video führt Sie durch die Erstellung eines Segments in Audience Manager, das für personenbasierte Ziele verwendet werden kann.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)

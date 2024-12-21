@@ -1,6 +1,6 @@
 ---
-title: Identifizieren Ihrer Partner-ID oder Subdomäne
-description: Erfahren Sie, wie Sie bei der Implementierung einiger Experience Cloud-Funktionen Ihre Partner-ID oder -Subdomäne identifizieren und an zwei Stellen diese ID in der Audience Manager-Benutzeroberfläche erhalten.
+title: So identifizieren Sie Ihre Partner-ID oder Subdomain
+description: Erfahren Sie, wie Sie Ihre Partner-ID oder Subdomain identifizieren, wenn Sie einige Experience Cloud-Funktionen implementieren, und an zwei Stellen, an denen Sie diese ID in der Audience Manager-Benutzeroberfläche erhalten.
 feature: Implementation Basics
 topics: null
 activity: implement
@@ -17,23 +17,23 @@ ht-degree: 0%
 
 ---
 
-# Identifizierung der Subdomain Ihres Audience Managers {#how-to-identify-your-audience-manager-partner-id-or-subdomain}
+# Identifizieren der Audience Manager-Subdomain {#how-to-identify-your-audience-manager-partner-id-or-subdomain}
 
-Bei der Implementierung einiger Experience Cloud-Funktionen müssen Sie wissen, was Ihr Audience Manager `Subdomain` ist (auch manchmal als Ihr `client ID` oder `Partner ID` bezeichnet). In diesem Video zeigen wir Ihnen zwei Orte, an denen Sie diese Informationen in der Audience Manager-Benutzeroberfläche erhalten können.
+Wenn Sie einige Experience Cloud-Funktionen implementieren, müssen Sie wissen, was Ihr Audience Manager-`Subdomain` ist (manchmal auch als Ihr `client ID` oder `Partner ID` bezeichnet). In diesem Video zeigen wir Ihnen zwei Stellen, an denen Sie diese Informationen in der Audience Manager-Benutzeroberfläche erhalten.
 
-## Das Ende verraten... {#giving-away-the-ending}
+## Das Ende verraten… {#giving-away-the-ending}
 
-Falls Sie lieber einfach reinspringen und es finden möchten, ohne dieses kurze Video anzuschauen, können Sie Ihr `Partner Subdomain` an zwei Stellen in der Benutzeroberfläche finden:
+Wenn Sie lieber einfach hineinspringen und es finden möchten, ohne sich dieses kurze Video anzusehen, können Sie Ihre `Partner Subdomain` an zwei Stellen in der Benutzeroberfläche finden:
 
-1. Wenn Sie bereits eine [!UICONTROL rule-based] -Eigenschaft erstellt haben, klicken Sie auf **[!UICONTROL Get Trait URL]**
-   [!UICONTROL Get Trait URL] befindet sich neben der Eigenschaft in der Liste der Eigenschaften in diesem Ordner und die URL enthält Ihre Subdomäne in die URL.
-1. Wenn Sie in die Oberfläche **[!UICONTROL Tools]** > **[!UICONTROL Tags]** gehen und für Ihren Container auf **[!UICONTROL Get code]** klicken, befindet sich die Subdomäne am Ende der Akamai-Zeile.
+1. Wenn Sie bereits eine [!UICONTROL rule-based] Eigenschaft erstellt haben, klicken Sie auf **[!UICONTROL Get Trait URL]**
+   [!UICONTROL Get Trait URL] befindet sich neben der Eigenschaft in der Liste der Eigenschaften in diesem Ordner, und die URL enthält Ihre Subdomain in der URL.
+1. Wenn Sie in der Benutzeroberfläche von **[!UICONTROL Tools]** > **[!UICONTROL Tags]** auf **[!UICONTROL Get code]** für Ihren Container klicken, befindet sich die Subdomain am Ende der Akamai-Zeile
 
-Wenn Sie es mit diesen Schnellverweisen nicht schnell finden können, ist das Video eine kurze Zeitverpflichtung. :)
+Wenn Sie es mit diesen Kurzverweisen nicht schnell finden können, ist das Video ein kurzer Zeitaufwand. :)
 
 >[!VIDEO](https://video.tv.adobe.com/v/25922/?quality=12)
 
 >[!IMPORTANT]
 >
->Jedem Adobe Experience Cloud-Kunden wird eine numerische ID zugewiesen, die häufig als &quot;PID&quot;oder Partner-ID bezeichnet wird. Dies ist nicht die ID, über die wir in diesem Artikel und Video sprechen. Stattdessen ist die &quot;Partner-Subdomain&quot;, die manchmal als Partner-ID bezeichnet wird, normalerweise eine Version des Kundennamens und die Subdomäne des Servers, an den die Daten gesendet werden. Wenn Ihr Unternehmen z. B. &quot;Bob&#39;s Knobs&quot;(alles, was natürlich Türknappen enthält) ist, dann ist es wahrscheinlich, dass Ihre Partner-Subdomäne &quot;bobsknobs&quot;ist, während die &quot;PID&quot;eher &quot;12345&quot;wäre. Normalerweise müssen Sie Ihre PID nicht kennen, aber Ihre Subdomain ist wichtig, damit Sie Ihre Audience Manager-Implementierung konfigurieren können.
+>Jedem Kunden der Adobe Experience Cloud ist eine numerische ID zugewiesen. Diese wird häufig als „PID“ oder Partner-ID bezeichnet. Dies ist nicht die ID, über die wir in diesem Artikel und Video sprechen. Stattdessen ist die „Partner-Subdomain“, die manchmal auch als Partner-ID bezeichnet wird, in der Regel eine Version des Client-Namens und ist die Subdomain des Servers, an den die Daten gesendet werden. Wenn Ihr Unternehmen beispielsweise „Bob&#39;s Knobs“ ist (alle Dinge, die Türknäufe, natürlich, haha), ist es wahrscheinlich, dass Ihre Partner-Subdomain „bobsknobs“ wäre, während die „PID“ eher so etwas wie „12345“ wäre. Normalerweise müssen Sie Ihre PID nicht kennen. Ihre Subdomain ist jedoch wichtig, damit Sie Ihre Audience Manager-Implementierung konfigurieren können.
 >

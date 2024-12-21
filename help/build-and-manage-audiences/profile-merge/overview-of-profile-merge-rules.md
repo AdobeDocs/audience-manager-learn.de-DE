@@ -1,6 +1,6 @@
 ---
-title: Überblick über die Regeln zur Profilzusammenführung
-description: Erfahren Sie, was Regeln zur Profilzusammenführung sind, wie sie funktionieren und welchen Wert sie für den Marketingexperten haben.
+title: Übersicht über die Regeln für die Profilzusammenführung
+description: Erfahren Sie, was Profilzusammenführungsregeln sind, wie sie funktionieren und welchen Wert sie für den Marketing-Experten haben.
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Überblick über [!UICONTROL Profile Merge Rules]
+# Übersicht über [!UICONTROL Profile Merge Rules]
 
-Erfahren Sie, was [!UICONTROL Profile Merge Rules] ist, wie sie funktionieren und welchen Wert sie für den Marketingexperten haben.
+Erfahren Sie, was [!UICONTROL Profile Merge Rules] sind, wie sie funktionieren und welchen Wert sie für den Marketing-Experten haben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)

@@ -1,6 +1,6 @@
 ---
 title: Übereinstimmungsraten verstehen
-description: Erfahren Sie mehr über Übereinstimmungsraten in Adobe Audience Manager, ihre Funktionsweise und ihre Berechnung. Erfahren Sie außerdem mehr über Best Practices sowie darüber, was zu einer niedrigen Übereinstimmungsrate führen kann.
+description: Erfahren Sie mehr über Übereinstimmungsraten in Adobe Audience Manager, was sie sind und wie sie berechnet werden. Lernen Sie außerdem Best Practices kennen und erfahren Sie, was zu einer niedrigen Übereinstimmungsrate führen kann.
 feature: Match Rates
 doc-type: presentation
 thumbnail: 29830.jpg
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Übereinstimmungsraten verstehen
 
-In diesem Video erfahren Sie mehr über Übereinstimmungsraten in Adobe Audience Manager, ihre Funktionsweise und ihre Berechnung. Außerdem lernen Sie einige Best Practices kennen und erfahren, was zu einer niedrigen Übereinstimmungsrate führen kann.
+In diesem Video erfahren Sie, wie Übereinstimmungsraten in Adobe Audience Manager aussehen, was sie sind und wie sie berechnet werden. Außerdem lernen Sie einige Best Practices sowie die Ursachen für eine niedrige Übereinstimmungsrate kennen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 

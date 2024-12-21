@@ -1,6 +1,6 @@
 ---
-title: Dateibasierte Daten formatieren und erfassen
-description: Lernen Sie einige der wichtigsten Optionen kennen, mit denen Sie weitere Informationen erhalten, wenn Sie Ihre Erstanbieter in Audience Manager integrieren, um Ihre Kunden besser zu verstehen und gezielt anzusprechen. Informieren Sie sich über bestimmte Formatierungsanforderungen für die Daten.
+title: Formatieren und Aufnehmen dateibasierter Daten
+description: Erfahren Sie mehr über die wichtigsten Optionen, in denen Sie weitere Informationen erhalten, wenn Sie Erstanbieter in Audience Manager einbinden, um Ihre Kunden besser zu verstehen und anzusprechen. Erfahren Sie mehr über bestimmte Formatierungsanforderungen für die Daten.
 feature: Onboarding Offline Data
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# Dateibasierte Daten formatieren und erfassen
+# Formatieren und Aufnehmen dateibasierter Daten
 
-Wenn Sie Ihre Erstanbieter in Audience Manager einbringen, um Ihre Kunden besser zu verstehen und gezielt anzusprechen, gelten bestimmte Formatierungsanforderungen für die Daten. In diesem Video werden einige der wichtigsten Optionen vorgestellt und Sie erfahren, wo Sie weitere Informationen erhalten.
+Wenn Sie Erstanbieter in Audience Manager integrieren, um Ihre Kunden besser zu verstehen und anzusprechen, gelten bestimmte Formatierungsanforderungen für die Daten. In diesem Video werden einige der wichtigsten Optionen vorgestellt und Sie erfahren, wo Sie weitere Informationen erhalten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
 
-Für ein Video zum Benennen und Importieren von Dateien klicken Sie auf [HERE](steps-for-ingesting-file-based-data.md).
+Ein Video zum Benennen und Importieren von Dateien finden Sie unter [HIER](steps-for-ingesting-file-based-data.md).
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).

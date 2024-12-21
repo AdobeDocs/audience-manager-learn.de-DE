@@ -1,6 +1,6 @@
 ---
-title: Erstellen eines Segments zum Unterdrücken von Anzeigen für Kunden
-description: Erfahren Sie mehr über die Optionen beim Erstellen eines Segments zum Ausschließen von Kunden, die bereits in den Kundenstatus konvertiert wurden. Bei der Erstellung von Marketing-Kampagnen, insbesondere für Kampagnen zur Erweiterung und Erweiterung von Zielgruppen, möchten Sie möglicherweise Ihre aktuellen Kunden ausschließen, damit Sie für sie auf andere Weise vermarkten können.
+title: Erstellen eines Segments zur Unterdrückung von Anzeigen für Kunden
+description: Erfahren Sie mehr über Optionen beim Erstellen eines Segments, um Kunden auszuschließen, die bereits zum Kundenstatus konvertiert sind. Bei der Erstellung von Marketing-Kampagnen, insbesondere von Reichweitenerweiterungs- und Zielgruppenerweiterungskampagnen, sollten Sie Ihre aktuellen Kundinnen und Kunden ausschließen, damit Sie sie auf andere Weise vermarkten können.
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Erstellen eines Segments zum Unterdrücken von Anzeigen für Kunden
+# Erstellen eines Segments zur Unterdrückung von Anzeigen für Kunden
 
-Bei der Erstellung von Marketing-Kampagnen, insbesondere für Kampagnen zur Erweiterung/Erweiterung der Zielgruppe, möchten Sie möglicherweise Ihre aktuellen Kunden ausschließen, damit Sie für sie auf andere Weise vermarkten können. In diesem Video werden Optionen zum Erstellen von Segmenten erläutert, um diejenigen auszuschließen, die bereits in den Kundenstatus konvertiert wurden.
+Bei der Erstellung von Marketing-Kampagnen, insbesondere von Kampagnen mit Reichweitenerweiterung/Zielgruppenerweiterung, sollten Sie Ihre aktuellen Kunden ausschließen, damit Sie sie auf andere Weise vermarkten können. In diesem Video werden Optionen zum Erstellen von Segmenten erläutert, um diejenigen auszuschließen, die bereits zum Kundenstatus konvertiert sind.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36494/?quality=12&learn=on)

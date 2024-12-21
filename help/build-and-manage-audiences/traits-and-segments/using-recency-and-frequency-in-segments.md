@@ -1,6 +1,6 @@
 ---
-title: Verwenden von Neuigkeit und Häufigkeit in Segmenten
-description: Verwenden Sie Neuigkeit und Häufigkeit , um Segmentparameter anzugeben, wie oft ein Besucher sich innerhalb eines bestimmten Zeitraums für eine Eigenschaft qualifizieren muss. Ideal für Anwendungsfälle mit Inhaltsaffinität und Frequenzlimitierung sowie andere.
+title: Verwenden der Neuigkeit und Häufigkeit in Segmenten
+description: Verwenden Sie Neuigkeit und Häufigkeit , um Ihre Segmentparameter anzugeben, wie oft ein Besucher sich innerhalb eines bestimmten Zeitraums für eine Eigenschaft qualifizieren muss. Ideal für Anwendungsfälle wie Content-Affinität und Frequenzlimitierung .
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Verwenden Sie [!UICONTROL Recency] und [!UICONTROL Frequency] in Segmenten
+# Verwenden von [!UICONTROL Recency] und [!UICONTROL Frequency] in Segmenten
 
-Verwenden Sie [!UICONTROL Recency] und [!UICONTROL Frequency], um Segmentparameter anzugeben, wie oft ein Besucher sich innerhalb eines bestimmten Zeitraums für eine Eigenschaft qualifizieren muss. Ideal für Anwendungsfälle mit Inhaltsaffinität und Frequenzlimitierung sowie andere.
+Verwenden Sie [!UICONTROL Recency] und [!UICONTROL Frequency], um Ihre Segmentparameter anzugeben, wie oft ein Besucher sich innerhalb eines bestimmten Zeitraums für eine Eigenschaft qualifizieren muss. Ideal für Anwendungsfälle wie Content-Affinität und Frequenzlimitierung .
 
 >[!VIDEO](https://video.tv.adobe.com/v/37698/?quality=12&learn=on)

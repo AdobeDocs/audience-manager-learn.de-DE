@@ -1,6 +1,6 @@
 ---
 title: Zuordnen von Audience Manager-Segmenten zu Zielen
-description: Erfahren Sie mehr über die verschiedenen Zieltypen in Audience Manager und die Details der Zuordnung von Segmenten zu den einzelnen Zieltypen.
+description: Erfahren Sie mehr über die verschiedenen Zieltypen in Audience Manager und die Details der Zuordnung von Segmenten zu jedem Zieltyp.
 feature: Segments
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Zuordnen von Audience Manager-Segmenten zu Zielen
 
-Erfahren Sie mehr über die verschiedenen Zieltypen in Audience Manager und die Details der Zuordnung von Segmenten zu den einzelnen Zieltypen.
+Erfahren Sie mehr über die verschiedenen Zieltypen in Audience Manager und die Details der Zuordnung von Segmenten zu jedem Zieltyp.
 
 >[!VIDEO](https://video.tv.adobe.com/v/39158/?quality=12&learn=on)

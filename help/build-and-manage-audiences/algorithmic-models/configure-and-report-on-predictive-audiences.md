@@ -1,6 +1,6 @@
 ---
-title: Konfigurieren von und Berichten für [!UICONTROL Predictive Audiences]
-description: Gehen Sie in diesem Video durch die Konfiguration von [!UICONTROL Predictive Audiences] in der Audience Manager-Oberfläche. Sehen Sie sich die Berichte an, die die Ergebnisse des Modells anzeigen.
+title: Konfigurieren von und Erstellen von Berichten zu [!UICONTROL Predictive Audiences]
+description: In diesem Video erläutern wir, wie Sie [!UICONTROL Predictive Audiences] Audience Manager-Benutzeroberfläche konfigurieren. Zeigen Sie die Berichte an, die die Ergebnisse des Modells zeigen.
 feature: Algorithmic Models
 topics: null
 activity: use
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# Konfigurieren und Berichten über [!UICONTROL Predictive Audiences] im Audience Manager
+# Konfigurieren von und Erstellen von Berichten zu [!UICONTROL Predictive Audiences] im Audience Manager
 
-In diesem Video werden wir die Konfiguration von [!UICONTROL Predictive Audiences] in der Audience Manager-Oberfläche durchlaufen. Wir werden auch die Berichte sehen, die die Ergebnisse des Modells zeigen.
+In diesem Video werden wir [!UICONTROL Predictive Audiences] Konfiguration in der Benutzeroberfläche des Audience Managers erläutern. Wir werden auch die Berichte sehen, die die Ergebnisse des Modells zeigen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33630/?quality=12)
 

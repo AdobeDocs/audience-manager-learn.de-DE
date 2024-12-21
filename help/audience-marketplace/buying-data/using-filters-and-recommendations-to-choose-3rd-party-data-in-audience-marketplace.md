@@ -1,6 +1,6 @@
 ---
 title: Verwenden von Filtern und Empfehlungen zur Auswahl von Drittanbieterdaten im Audience Marketplace
-description: In diesem Video werden die Filter- und Empfehlungsoptionen im Audience Marketplace erläutert, damit Sie den richtigen Drittanbieter für Ihre Anforderungen auswählen können.
+description: Dieses Video führt Sie durch die Filter- und Empfehlungsoptionen im Audience Marketplace, um Ihnen bei der Auswahl des richtigen Drittanbieters für Ihre Anforderungen zu helfen.
 feature: Audience Marketplace
 topics: null
 activity: setup
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# Verwenden Sie Filter und Empfehlungen zur Auswahl von Drittanbieterdaten in [!UICONTROL Audience Marketplace]
+# Verwenden von Filtern und Empfehlungen zur Auswahl von Drittanbieterdaten in [!UICONTROL Audience Marketplace]
 
-Dieses Video führt Sie durch die Filter- und Empfehlungsoptionen in [!UICONTROL Audience Marketplace], um Ihnen zu helfen, den richtigen Drittanbieter für Daten für Ihre Anforderungen auszuwählen.
+Dieses Video führt Sie durch die Filter- und Recommendations-Optionen im [!UICONTROL Audience Marketplace], um Ihnen bei der Auswahl des richtigen Drittanbieters für Ihre Anforderungen zu helfen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 

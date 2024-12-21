@@ -1,6 +1,6 @@
 ---
 title: Verwenden allgemeiner Berichte mit Eigenschaften und Segmenten
-description: In diesem Video erfahren Sie, wie Sie mit den allgemeinen Berichten in Audience Manager Zahlen für Eigenschaften und Segmente abrufen können.
+description: In diesem Video erfahren Sie, wie Sie mit dem Audience Manager „Allgemeine Berichte“ Zahlen für Eigenschaften und Segmente abrufen können.
 feature: General & Trend Reports
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Verwenden allgemeiner Berichte mit Eigenschaften und Segmenten
 
-In diesem Video erfahren Sie, wie Sie mit den allgemeinen Berichten in Audience Manager Zahlen für Eigenschaften und Segmente abrufen können.
+In diesem Video erfahren Sie, wie Sie mit den allgemeinen Berichten im Audience Manager Zahlen für Eigenschaften und Segmente abrufen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328279/?quality=12&learn=on)

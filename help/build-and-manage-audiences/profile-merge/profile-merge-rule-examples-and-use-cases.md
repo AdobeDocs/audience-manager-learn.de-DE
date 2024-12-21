@@ -1,6 +1,6 @@
 ---
-title: Beispiele und Anwendungsfälle für Profilzusammenführungsregeln
-description: Erfahren Sie mehr über Beispiele für Regeln zur Profilzusammenführung und deren Bedeutung sowie über die Anwendungsfälle, die mit Regeln zur Profilzusammenführung gelöst werden.
+title: Beispiele für Profilzusammenführungsregeln und Anwendungsfälle
+description: Erfahren Sie mehr über Beispiele für Profilzusammenführungsregeln und ihre Bedeutung sowie über die Anwendungsfälle, die durch Profilzusammenführungsregeln gelöst werden.
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge Rule] Beispiele und Anwendungsfälle
+# [!UICONTROL Profile Merge Rule] und Anwendungsfälle
 
-In diesem Video sehen Sie Beispiele für [!UICONTROL Profile Merge Rules] und ihre Bedeutung sowie die Anwendungsfälle, die [!UICONTROL Profile Merge Rules] löst.
+In diesem Video sehen Sie Beispiele für [!UICONTROL Profile Merge Rules] und ihre Bedeutung sowie die Anwendungsfälle, die sie lösen [!UICONTROL Profile Merge Rules].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28975/?quality=12)

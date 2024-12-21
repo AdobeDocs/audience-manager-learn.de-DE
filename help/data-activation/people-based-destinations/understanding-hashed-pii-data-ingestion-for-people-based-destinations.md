@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zur Erfassung von Hash-PII-Daten für personenbasierte Ziele
-description: In diesem Video erfahren Sie, was Sie beachten müssen, wenn Sie sich auf die Aufnahme von personenbezogenen Daten in den Audience Manager für personenbasierte Ziele vorbereiten.
+title: Grundlegendes zur Aufnahme von Hash-PII-Daten für personenbasierte Ziele
+description: In diesem Video werden die Dinge behandelt, die Sie berücksichtigen müssen, wenn Sie bereit sind, personenbezogene Daten in Audience Manager für personenbasierte Ziele aufzunehmen.
 feature: People-based Destinations
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Grundlegendes zur Erfassung von Hash-PII-Daten für personenbasierte Ziele
+# Grundlegendes zur Aufnahme von Hash-PII-Daten für personenbasierte Ziele
 
-In diesem Video erfahren Sie, was Sie beachten müssen, wenn Sie sich auf die Aufnahme von personenbezogenen Daten in den Audience Manager für personenbasierte Ziele vorbereiten.
+In diesem Video werden die Dinge behandelt, die Sie berücksichtigen müssen, wenn Sie bereit sind, personenbezogene Daten in Audience Manager für personenbasierte Ziele aufzunehmen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)

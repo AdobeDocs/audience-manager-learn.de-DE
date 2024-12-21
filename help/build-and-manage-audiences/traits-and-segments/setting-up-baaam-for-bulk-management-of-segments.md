@@ -1,6 +1,6 @@
 ---
-title: Einrichten von BAAAM für die Segmentstapelverwaltung
-description: Erfahren Sie mehr über BAAAM, das Bulk-Management-Tool für Eigenschaften und Segmente in Audience Manager, einschließlich dessen, wie Sie es so einrichten, dass es einsatzbereit ist.
+title: Einrichten von BAAAM für die Segmentmassenverwaltung
+description: Erfahren Sie mehr über BAAAM, das Tool für die Massenverwaltung von Eigenschaften und Segmenten in Audience Manager, einschließlich der Einrichtung für die Einsatzbereitschaft.
 feature: baaam
 topics: null
 audience: marketer
@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Einrichten von BAAAM für die Segmentstapelverwaltung
+# Einrichten von BAAAM für die Segmentmassenverwaltung
 
-Erfahren Sie mehr über BAAAM, das Bulk-Management-Tool für Eigenschaften und Segmente in Audience Manager, einschließlich dessen, wie Sie es so einrichten, dass es einsatzbereit ist.
+Erfahren Sie mehr über BAAAM, das Tool für die Massenverwaltung von Eigenschaften und Segmenten in Audience Manager, einschließlich der Einrichtung für die Einsatzbereitschaft.
 
 >[!VIDEO](https://video.tv.adobe.com/v/39141/?quality=12&learn=on)

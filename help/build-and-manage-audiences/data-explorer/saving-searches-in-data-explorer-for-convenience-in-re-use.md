@@ -1,6 +1,6 @@
 ---
-title: Suchen in Data Explorer speichern, um sie einfach wiederzuverwenden
-description: In diesem Video erfahren Sie, wie Sie eine Suche im Data Explorer konfigurieren, sie ausführen und dann zur späteren Verwendung speichern. Sie können die gespeicherte Suche auch im Dashboard platzieren, damit sie sofort verfügbar ist, wenn Sie in die Signalanwendung wechseln.
+title: Suche zur bequemen Wiederverwendung auf Data Explorer speichern
+description: In diesem Video erfahren Sie, wie Sie eine Suche in Data Explorer konfigurieren, ausführen und dann zur späteren Wiederverwendung speichern. Sie können die gespeicherte Suche auch im Dashboard platzieren, sodass sie sofort verfügbar ist, wenn Sie die Signal-App aufrufen.
 feature: Data Explorer
 topics: null
 activity: use
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 ---
 
-# Suchen in [!UICONTROL Data Explorer] speichern, um sie einfach wiederzuverwenden {#saving-searches-in-data-explorer-for-convenience-in-re-use}
+# Speichern von Suchvorgängen in [!UICONTROL Data Explorer] zur bequemen Wiederverwendung {#saving-searches-in-data-explorer-for-convenience-in-re-use}
 
-In diesem Video erfahren Sie, wie Sie eine Suche in [!DNL Data Explorer] konfigurieren, sie ausführen und sie dann zur späteren Verwendung speichern. Sie können die gespeicherte Suche auch im Dashboard platzieren, damit sie sofort verfügbar ist, wenn Sie in die [!UICONTROL Signals] -App wechseln.
+In diesem Video erfahren Sie, wie Sie eine Suche in [!DNL Data Explorer] konfigurieren, ausführen und dann zur späteren Wiederverwendung speichern. Sie können die gespeicherte Suche auch im Dashboard platzieren, sodass sie sofort beim Aufrufen der [!UICONTROL Signals]-App verfügbar ist.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 

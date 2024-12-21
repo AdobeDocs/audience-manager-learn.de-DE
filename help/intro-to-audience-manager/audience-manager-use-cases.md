@@ -1,6 +1,6 @@
 ---
 title: Anwendungsfälle für Audience Manager
-description: In diesem Video identifizieren wir vier gängige Anwendungsfälle für Audience Manager und beschreiben die damit verbundenen Best Practices.
+description: In diesem Video zeigen wir vier gängige Anwendungsfälle für Audience Manager auf und beschreiben die Best Practices, die mit ihnen verbunden sind.
 feature: Overview
 topics: null
 activity: understand
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Anwendungsfälle für Audience Manager
 
-In diesem Video identifizieren wir vier gängige Anwendungsfälle für Audience Manager und beschreiben die damit verbundenen Best Practices.
+In diesem Video zeigen wir vier gängige Anwendungsfälle für Audience Manager auf und beschreiben die Best Practices, die mit ihnen verbunden sind.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33975/?quality=12)
 
