@@ -1,6 +1,6 @@
 ---
-title: Auswirkungen von Profilzusammenführungsrichtlinien-Verbesserungen auf Segmentierung, Aktivierung und Reporting
-description: Verstehen, wie sich Verbesserungen der Profilzusammenführungsrichtlinien auf die Gesamteigenschafts- und Segmentpopulationen in der Audience Manager-Benutzeroberfläche auswirken
+title: Auswirkungen der Verbesserungen an der Profilzusammenführungsregel auf Segmentierung, Aktivierung und Reporting
+description: Einfluss der Verbesserungen an der Profilzusammenführungsregel auf die Gesamt-Trait- und Segmentpopulationen in der Audience Manager-Benutzeroberfläche
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Auswirkungen von [!UICONTROL Profile Merge Rule]-Verbesserungen auf die Segmentierung, Aktivierung und Berichterstellung
+# Auswirkungen [!UICONTROL Profile Merge Rule] Verbesserungen auf Segmentierung, Aktivierung und Reporting
 
-Verstehen Sie, wie sich [!UICONTROL Profile Merge Rule] Verbesserungen auf [!UICONTROL Total Trait] und [!UICONTROL Segment Populations] im Audience Manager auswirken.
+Wissen, wie sich [!UICONTROL Profile Merge Rule] Verbesserungen auf [!UICONTROL Total Trait] und [!UICONTROL Segment Populations] im Audience Manager auswirken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28972/?quality=12)

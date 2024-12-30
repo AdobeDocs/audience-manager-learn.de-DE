@@ -1,6 +1,6 @@
 ---
-title: Konversionseigenschaft erstellen
-description: Einige Ihrer Eigenschaften basieren auf Konversionen auf Ihrer Site. In diesem Video erfahren Sie, wie Sie sie als solche bezeichnen und einen sehr wichtigen Tipp/Fallschirm lernen.
+title: Erstellen eines Konversionsmerkmals
+description: Einige Ihrer Eigenschaften basieren auf Konversionen auf Ihrer Site. In diesem Video erfahren Sie, wie Sie diese als solche kennzeichnen, und lernen einen sehr wichtigen Tipp/Gotcha kennen.
 feature: Traits
 topics: null
 activity: use
@@ -18,14 +18,14 @@ ht-degree: 0%
 
 ---
 
-# Erstellen einer Konversionseigenschaft in Audience Manager {#creating-conversion-traits-in-audience-manager}
+# Erstellen eines Konversionsmerkmals im Audience Manager {#creating-conversion-traits-in-audience-manager}
 
-Einige Ihrer Eigenschaften basieren auf Konversionen auf Ihrer Site. In diesem Video erfahren Sie, wie Sie sie als solche bezeichnen und einen sehr wichtigen Tipp/Fallschirm lernen.
+Einige Ihrer Eigenschaften basieren auf Konversionen auf Ihrer Site. In diesem Video erfahren Sie, wie Sie diese als solche kennzeichnen, und lernen einen sehr wichtigen Tipp/Gotcha kennen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-Was versuchen Sie, Menschen dazu zu bringen, auf Ihrer Site zu tun? Was ist Ihr Konversionsereignis? Natürlich gibt es viele verschiedene Antworten auf diese Frage, abhängig von Ihrem Site-Typ/Ihrer Vertikale und Ihren Organisationszielen. In jedem Fall ist es in AAM üblich, Eigenschaften für Besucher zu erstellen, die diese Kriterien erfüllt haben.
+Was versuchen Sie, die Leute auf Ihrer Seite zu tun? Was ist Ihr Konversionsereignis? Natürlich gibt es viele verschiedene Antworten auf diese Frage, abhängig von Ihrem Site-Typ/Vertikal und Ihren Unternehmenszielen. In jedem Fall ist es in AAM üblich, Eigenschaften für Besuchende zu erstellen, die diese Kriterien erfüllt haben.
 
 In AAM gibt es ein Feld, in dem Sie Ihre Eigenschaft als Konversionseigenschaft markieren können, insbesondere zur Verwendung in [!UICONTROL Audience Lab].
 
-Außerdem müssen Sie bei der Verwendung von Ereignissen zur Erstellung von Eigenschaften einen wichtigen Aspekt beachten, damit Sie nicht mehr Benutzer erfassen, als Sie in der Eigenschaft sollten. Sehen Sie sich dieses Video für die große Offensive an.
+Außerdem müssen Sie bei der Verwendung von Ereignissen zum Erstellen von Eigenschaften einen wichtigen Aspekt beachten, damit Sie nicht mehr Benutzende erfassen, als Sie für die Eigenschaft erfassen sollten. Sehen Sie sich dieses Video für die große Enthüllung an.

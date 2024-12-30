@@ -1,6 +1,6 @@
 ---
-title: Zahlen im Eigenschaftsdiagramm verstehen
-description: Hier erhalten Sie Tipps zum Verständnis der gemeldeten Zahlen für Eigenschaften im Bildschirm mit Eigenschafteninformationen.
+title: Grundlegendes zu Zahlen im Eigenschaftsdiagramm
+description: Im Bildschirm „Eigenschafteninformationen“ erhalten Sie Tipps zum Verständnis der gemeldeten Zahlen für Eigenschaften.
 feature: Traits
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Zahlen im Eigenschaftsdiagramm verstehen
+# Grundlegendes zu Zahlen im Eigenschaftsdiagramm
 
-Hier erhalten Sie Tipps zum Verständnis der gemeldeten Zahlen für Eigenschaften im Bildschirm mit Eigenschafteninformationen.
+Im Bildschirm „Eigenschafteninformationen“ erhalten Sie Tipps zum Verständnis der gemeldeten Zahlen für Eigenschaften.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327171/?quality=12&learn=on)

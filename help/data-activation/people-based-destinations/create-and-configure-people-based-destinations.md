@@ -1,6 +1,6 @@
 ---
-title: Benutzerbasierte Ziele erstellen und konfigurieren
-description: Erfahren Sie mehr über die Voraussetzungen zum Erstellen Ihres personenbasierten Ziels und darüber, wie Sie ein integriertes Konto konfigurieren (Link zum Partner, z. B. Facebook). Erfahren Sie mehr über die Produkteinrichtung des Ziels selbst.
+title: Erstellen und Konfigurieren von personenbasierten Zielen
+description: Erfahren Sie mehr über die Voraussetzungen für die Erstellung Ihres personenbasierten Ziels und darüber, wie Sie ein integriertes Konto konfigurieren (Link zum Partner, z. B. Facebook). Lernen Sie die produktinterne Einrichtung des Ziels selbst kennen.
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Erstellen und Konfigurieren von [!UICONTROL People-based Destinations]
 
-In diesem Video erfahren Sie zunächst, welche Voraussetzungen für die Erstellung eines personenbasierten Ziels erfüllt sind, und wie Sie dann ein integriertes Konto konfigurieren können (Link zum Partner, z. B. [!DNL Facebook]). Anschließend führt er Sie durch die Produkteinrichtung des Ziels selbst.
+In diesem Video erhalten Sie zunächst einige Informationen zu den Voraussetzungen für die Erstellung Ihres personenbasierten Ziels und anschließend auch Informationen zur Konfiguration eines integrierten Kontos (Link zum Partner, z. B. [!DNL Facebook]). Anschließend werden Sie durch die produktinterne Einrichtung des Ziels selbst geführt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)

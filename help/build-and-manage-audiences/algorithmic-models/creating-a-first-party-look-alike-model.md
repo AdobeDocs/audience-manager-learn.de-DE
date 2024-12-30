@@ -1,6 +1,6 @@
 ---
-title: Erstellen eines Look-alike-Modells eines Erstanbieters
-description: In diesem Video erfahren Sie, wie Sie ein Erstanbieter-Look-alike-Modell erstellen, sodass Sie mehr Ihrer eigenen Besucher finden können, die wie Ihre Konverter aussehen.
+title: Erstellen eines Lookalike-Modells für Erstanbieter
+description: In diesem Video erfahren Sie, wie Sie ein Look-alike-Modell für Erstanbieter erstellen, sodass Sie mehr eigene Besucher finden können, die wie Ihre Konverter aussehen.
 feature: Algorithmic Models
 topics: null
 activity: use
@@ -18,15 +18,15 @@ ht-degree: 0%
 
 ---
 
-# Erstellen eines Look-alike-Modells eines Erstanbieters in Audience Manager {#creating-a-first-party-look-alike-model-in-aam}
+# Erstellen eines Lookalike-Modells für Erstanbieter in Audience Manager {#creating-a-first-party-look-alike-model-in-aam}
 
-In diesem Video erfahren Sie, wie Sie ein Erstanbieter-Look-alike-Modell erstellen, sodass Sie mehr Ihrer eigenen Besucher finden können, die wie Ihre Konverter aussehen.
+In diesem Video erfahren Sie, wie Sie ein Look-alike-Modell für Erstanbieter erstellen, sodass Sie mehr eigene Besucher finden können, die wie Ihre Konverter aussehen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
-Anwendungsbeispiele dafür sind:
+Anwendungsbeispiele hierfür sind:
 
-* Wenn als Herausgeber Ihr &quot;Konverter&quot;-Inventar ausverkauft ist, können Sie es erweitern, indem Sie auch dieses Look-alike-Publikum verkaufen.
-* Diejenigen, die wie Ihre Konverter aussehen, aber noch nicht über diese verfügen, sollten ihnen bestimmte Marketing- oder Erlebnisse auf der Site bereitstellen.
+* Wenn Ihr „Konverter“-Bestand als Publisher ausverkauft ist, können Sie ihn erweitern, indem Sie auch diese Lookalike-Zielgruppe verkaufen.
+* Für diejenigen, die wie Ihre Konverter aussehen, es aber noch nicht getan haben, geben Sie ihnen spezifische Marketing- oder Erlebnisse auf der Website.
 
-Ein weiterer Vorteil besteht darin, dass dies für Sie völlig kostenlos ist, da Sie nur Daten verwenden, die Ihnen gehören. Dies trägt natürlich zur Maximierung Ihrer Gewinne bei.
+Ein weiterer Vorteil besteht darin, dass dies für Sie völlig kostenlos ist, da Sie nur Daten verwenden, deren Inhaber Sie sind. Dies trägt natürlich dazu bei, Ihre Gewinne zu maximieren.

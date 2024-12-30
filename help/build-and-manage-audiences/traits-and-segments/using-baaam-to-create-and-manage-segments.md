@@ -1,6 +1,6 @@
 ---
-title: Erstellen und Verwalten von Segmenten mit BAAAM
-description: Verwenden Sie das BAAAM-Tool in Audience Manager, um Ihre Segmente stapelweise zu erstellen und zu verwalten, sie in Ordner einzufügen, Eigenschaften zur Segmentregel hinzuzufügen, sie Zielen zuzuordnen usw.
+title: Verwenden von BAAAM zum Erstellen und Verwalten von Segmenten
+description: Verwenden Sie das BAAAM-Tool in Audience Manager, um Ihre Segmente in großen Mengen zu erstellen und zu verwalten, sie in Ordnern abzulegen, der Segmentregel Eigenschaften hinzuzufügen, sie Zielen zuzuordnen usw.
 feature: baaam
 topics: null
 audience: marketer
@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Erstellen und Verwalten von Segmenten mit BAAAM
+# Verwenden von BAAAM zum Erstellen und Verwalten von Segmenten
 
-Verwenden Sie das BAAAM-Tool in Audience Manager, um Ihre Segmente stapelweise zu erstellen und zu verwalten, sie in Ordner einzufügen, Eigenschaften zur Segmentregel hinzuzufügen, sie Zielen zuzuordnen usw.
+Verwenden Sie das BAAAM-Tool in Audience Manager, um Ihre Segmente in großen Mengen zu erstellen und zu verwalten, sie in Ordnern abzulegen, der Segmentregel Eigenschaften hinzuzufügen, sie Zielen zuzuordnen usw.
 
 >[!VIDEO](https://video.tv.adobe.com/v/39148/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Verstehen und Konfigurieren des personenbasierten Ziels von LinkedIn
-description: Dieses Video führt Sie durch die Konzepte und Schritte zum Erstellen eines personenbasierten Ziels für LinkedIn. Er baut auf den zusätzlichen Videos und der Dokumentation zu People-basierten Zielen auf.
+title: Verstehen und Konfigurieren des personenbasierten LinkedIn-Ziels
+description: Dieses Video führt Sie durch die Konzepte und Schritte zum Erstellen eines personenbasierten Ziels für LinkedIn. Es baut auf den zusätzlichen Videos und der Dokumentation zu personenbasierten Zielen auf.
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# Die [!DNL LinkedIn] [!UICONTROL People-Based Destination] verstehen und konfigurieren
+# Verstehen und Konfigurieren der [!DNL LinkedIn] [!UICONTROL People-Based Destination]
 
-Dieses Video führt Sie durch die Konzepte und Schritte zum Erstellen von [!UICONTROL People-Based Destination] zu [!DNL LinkedIn]. Er baut auf den zusätzlichen Videos und der Dokumentation zu People-basierten Zielen auf.
+Dieses Video führt Sie durch die Konzepte und Schritte zum Erstellen eines [!UICONTROL People-Based Destination] für [!DNL LinkedIn]. Es baut auf den zusätzlichen Videos und der Dokumentation zu personenbasierten Zielen auf.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
 
-Weitere Videos zu People-basierten Zielen [HERE](https://adobe.ly/aamlearnpbd) finden Sie ebenfalls.
+Weitere Videos zu personenbasierten Zielen finden Sie [HIER](https://adobe.ly/aamlearnpbd).

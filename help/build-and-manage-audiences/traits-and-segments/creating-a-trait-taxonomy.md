@@ -1,6 +1,6 @@
 ---
 title: Erstellen einer Eigenschaftstaxonomie
-description: Erfahren Sie mehr über das Erstellen der Ordnerstrukturen, die Ihre Eigenschaften in Audience Manager enthalten.
+description: Tipps zum Erstellen von Ordnerstrukturen, die Ihre Eigenschaften in Audience Manager enthalten.
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Erstellen einer Eigenschaftstaxonomie
 
-Erfahren Sie mehr über das Erstellen der Ordnerstrukturen, die Ihre Eigenschaften in Audience Manager enthalten.
+Tipps zum Erstellen von Ordnerstrukturen, die Ihre Eigenschaften in Audience Manager enthalten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40266/?quality=12&learn=on)

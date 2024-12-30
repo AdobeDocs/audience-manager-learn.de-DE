@@ -1,6 +1,6 @@
 ---
-title: Verbesserungen der Eigenschaftsempfehlung bei der Segmentierung
-description: In diesem Video erfahren Sie, wie Sie die aktualisierten Eigenschaftsempfehlungen in Segmenten verwenden, bei denen es sich um Audience Marketplace-Empfehlungen handelt. Erhalten Sie zusätzliche Einblicke in Daten von Drittanbietern, die die Reichweite Ihrer Segmente erweitern können.
+title: Verbesserungen von Eigenschaftsempfehlungen in der Segmentierung
+description: In diesem Video erfahren Sie, wie Sie die aktualisierten Empfehlungen für Eigenschaften in Segmenten verwenden, bei denen es sich um Audience Marketplace-Empfehlungen handelt. Gewinnen Sie zusätzliche Einblicke in Drittanbieterdaten, die die Reichweite Ihrer Segmente erweitern können.
 feature: Segments
 activity: setup
 doc-type: feature video
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # [!DNL Trait Recommendation] Verbesserungen bei der Segmentierung
 
-In diesem Video erfahren Sie, wie Sie die aktualisierten Eigenschaftsempfehlungen in [!UICONTROL Segments] verwenden, die [!UICONTROL Audience Marketplace] -Empfehlungen sind. Diese geben Ihnen zusätzliche Einblicke in Daten von Drittanbietern, die die Reichweite Ihrer Segmente erweitern können.
+In diesem Video erfahren Sie, wie Sie die aktualisierten Eigenschaftsempfehlungen in [!UICONTROL Segments] verwenden. Dabei handelt es sich um [!UICONTROL Audience Marketplace]. Dadurch erhalten Sie zusätzliche Einblicke in Drittanbieterdaten, die die Reichweite Ihrer Segmente erweitern können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 

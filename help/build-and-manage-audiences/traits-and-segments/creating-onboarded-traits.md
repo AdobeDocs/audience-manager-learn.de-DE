@@ -1,6 +1,6 @@
 ---
 title: Erstellen von integrierten Eigenschaften
-description: Hier finden Sie Tipps zum Erstellen von integrierten Eigenschaften in Audience Manager.
+description: Tipps zum Erstellen von integrierten Eigenschaften in Audience Manager.
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Erstellen von integrierten Eigenschaften
 
-Hier finden Sie Tipps zum Erstellen von integrierten Eigenschaften in Audience Manager.
+Tipps zum Erstellen von integrierten Eigenschaften in Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40267/?quality=12&learn=on)

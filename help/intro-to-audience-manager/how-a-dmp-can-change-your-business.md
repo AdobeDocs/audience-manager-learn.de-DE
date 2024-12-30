@@ -1,6 +1,6 @@
 ---
-title: Wie DMP Ihr Geschäft verändern kann
-description: Data-Management-Plattformen sind derzeit die Rede von der Technologie-Welt, aber was sind sie und noch wichtiger ist, wie können sie Ihnen als Marketing-Experten dabei helfen, Ihre Ziele zu erreichen? In dieser Sitzung werden wir erklären, was ein DMP ist, und einige reale Fallstudien vorstellen, in denen Kunden erstaunliche Renditen aus ihrer Investition erzielt haben, von effizienteren Medienkäufen bis hin zu deutlich höheren Konversionen.
+title: Wie eine DMP Ihr Unternehmen verändern kann
+description: Data-Management-Plattformen sind derzeit das Gesprächsthema in der Technologiewelt, aber was sind sie, und noch wichtiger, wie können sie Ihnen als Marketing-Experten bei der Verwirklichung Ihrer Ziele helfen? In dieser Sitzung erläutern wir, was ein DMP ist, und präsentieren einige Fallstudien aus der Praxis, bei denen Kunden erstaunliche Renditen erzielen konnten - von effizienteren Medienkäufen bis hin zu deutlich höheren Konversionen.
 feature: Overview
 topics: null
 activity: understand
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# Wie DMP Ihr Geschäft verändern kann
+# Wie eine DMP Ihr Unternehmen verändern kann
 
-[!DNL Data Management Platforms] sind die Rede von der technischen Welt im Moment, aber was sind sie und noch wichtiger ist, wie können sie Ihnen als Marketing-Experten dabei helfen, Ihre Ziele zu erreichen?
+[!DNL Data Management Platforms] sind derzeit die Gespräche in der Welt der Technik, aber was sind sie, und noch wichtiger, wie können sie Ihnen als Vermarkter helfen, Ihre Ziele zu verwirklichen?
 
-In dieser Sitzung werden wir erklären, was ein DMP ist, und einige reale Fallstudien vorstellen, in denen Kunden erstaunliche Renditen aus ihrer Investition erzielt haben, von effizienteren Medienkäufen bis hin zu deutlich höheren Konversionen.
+In dieser Sitzung erläutern wir, was ein DMP ist, und präsentieren einige Fallstudien aus der Praxis, bei denen Kunden erstaunliche Renditen erzielen konnten - von effizienteren Medienkäufen bis hin zu deutlich höheren Konversionen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)

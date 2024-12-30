@@ -1,6 +1,6 @@
 ---
-title: Verwenden der Codeansicht beim Erstellen von Segmenten
-description: Erfahren Sie, wie Sie mit der Codeansicht Segmente definieren und so komplexe Eigenschaftskombinationen erstellen können, einschließlich Neuigkeit und Häufigkeit.
+title: Verwenden der Code-Ansicht beim Erstellen von Segmenten
+description: Erfahren Sie, wie Sie mit der Code-Ansicht Segmente definieren können, um komplexe Eigenschaftskombinationen zu erstellen, einschließlich der Verwendung von Neuigkeit und Häufigkeit.
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Verwenden der Codeansicht beim Erstellen von Segmenten
+# Verwenden der Code-Ansicht beim Erstellen von Segmenten
 
-Erfahren Sie, wie Sie mit der Codeansicht Segmente definieren und so komplexe Eigenschaftskombinationen erstellen können, einschließlich Neuigkeit und Häufigkeit.
+Erfahren Sie, wie Sie mit der Code-Ansicht Segmente definieren können, um komplexe Eigenschaftskombinationen zu erstellen, einschließlich der Verwendung von Neuigkeit und Häufigkeit.
 
 >[!VIDEO](https://video.tv.adobe.com/v/38035/?quality=12&learn=on)

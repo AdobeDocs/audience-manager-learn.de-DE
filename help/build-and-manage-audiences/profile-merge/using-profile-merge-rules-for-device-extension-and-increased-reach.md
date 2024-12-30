@@ -1,6 +1,6 @@
 ---
-title: Verwenden von Profilzusammenführungsrichtlinien für die Geräteherweiterung und eine höhere Reichweite
-description: Verwenden Sie Regeln zur Profilzusammenführung , um die Reichweite auf alle Geräte eines Benutzers zu erweitern, sodass Sie auf Personen statt auf Geräten vermarkten können.
+title: Verwenden von Profilzusammenführungsregeln für die Geräteerweiterung und die erhöhte Reichweite
+description: Verwenden Sie Profilzusammenführungsregeln , um die Reichweite auf alle Geräte eines Benutzers zu erweitern, sodass Sie Personen und nicht Geräte vermarkten können.
 feature: Profile Merge
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Verwenden Sie [!UICONTROL Profile Merge Rules] für die Geräteerweiterung und die höhere Reichweite.
+# [!UICONTROL Profile Merge Rules] für Geräteerweiterung und erhöhte Reichweite verwenden
 
-Verwenden Sie [!UICONTROL Profile Merge Rules] , um die Reichweite auf alle Geräte eines Benutzers zu erweitern, sodass Sie auf Personen statt auf Geräten vermarkten können.
+Verwenden Sie [!UICONTROL Profile Merge Rules], um die Reichweite auf alle Geräte eines Benutzers auszudehnen, sodass Sie Personen und nicht Geräte vermarkten können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)

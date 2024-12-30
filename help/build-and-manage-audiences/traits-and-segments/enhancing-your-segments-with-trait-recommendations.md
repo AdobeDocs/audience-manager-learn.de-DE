@@ -1,6 +1,6 @@
 ---
-title: Segmente mit Trait Recommendations verbessern
-description: Bei Trait Recommendations erhalten Sie beim Erstellen oder Bearbeiten eines Segments Empfehlungen zu zusätzlichen Eigenschaften, die Sie einbeziehen können, die den Eigenschaften in der Segmentregel ähnlich sind.
+title: Erweitern von Segmenten mit Trait Recommendations
+description: Mit Trait Recommendations erhalten Sie beim Erstellen oder Bearbeiten eines Segments Empfehlungen für zusätzliche Eigenschaften, die Sie einbeziehen können und die den Eigenschaften in der Segmentregel ähnlich sind.
 feature: Segments
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# Segmente mit [!UICONTROL Trait Recommendations] verbessern {#enhancing-your-aam-segments-with-trait-recommendations}
+# Verbessern von Segmenten mit [!UICONTROL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
 
-Wenn Sie mit [!UICONTROL Trait Recommendations] ein Segment in [!UICONTROL Segments] erstellen oder bearbeiten, erhalten Sie Empfehlungen zu zusätzlichen Eigenschaften, die Sie einbeziehen können, die den Eigenschaften in der Segmentregel ähnlich sind.
+Wenn Sie [!UICONTROL Trait Recommendations] ein Segment in [!UICONTROL Segments] erstellen oder bearbeiten, erhalten Sie Empfehlungen zu zusätzlichen Eigenschaften, die Sie einbeziehen können und die den Eigenschaften in der Segmentregel ähnlich sind.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
 
-[!UICONTROL Trait Recommendations] arbeitet sowohl an Erstanbieter- als auch an Drittanbieterdaten, sodass Sie zusätzliche empfohlene [!UICONTROL Traits] einbeziehen und Ihre Zielgruppe vergrößern können.
+[!UICONTROL Trait Recommendations] arbeiten sowohl an Erstanbieter- als auch an Drittanbieterdaten, sodass Sie zusätzliche empfohlene [!UICONTROL Traits] einbeziehen und Ihre Zielgruppe vergrößern können.
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).

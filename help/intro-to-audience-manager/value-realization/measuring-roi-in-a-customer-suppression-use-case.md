@@ -1,6 +1,6 @@
 ---
-title: Messen des ROI in einem Anwendungsfall der Unterdrückung für Kunden
-description: Ein gesparter Pfennig ist ein verdienter Pfennig, oder? Erfahren Sie, wie Sie mit einer Reihe von Formeln die Kosteneinsparungen Ihrer Kampagne ermitteln können, indem Sie Anzeigen für bestehende Kunden unterdrücken.
+title: Messung des ROI in einem Anwendungsfall zur Kundenunterdrückung
+description: Wer den Pfennig nicht ehrt, ist ein Pfennig. Stimmt's? Erfahren Sie, wie Sie mit verschiedenen Formeln die Einsparungen bei den Kampagnenkosten ermitteln können, indem Sie Anzeigen an Bestandskunden unterdrücken.
 feature: Overview
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Messen des ROI in einem Anwendungsfall der Unterdrückung für Kunden
+# Messung des ROI in einem Anwendungsfall zur Kundenunterdrückung
 
-Ein gesparter Pfennig ist ein verdienter Pfennig, oder? Erfahren Sie, wie Sie mit einer Reihe von Formeln die Kosteneinsparungen Ihrer Kampagne ermitteln können, indem Sie Anzeigen für bestehende Kunden unterdrücken.
+Wer den Pfennig nicht ehrt, ist ein Pfennig. Stimmt&#39;s? Erfahren Sie, wie Sie mit verschiedenen Formeln die Einsparungen bei den Kampagnenkosten ermitteln können, indem Sie Anzeigen an Bestandskunden unterdrücken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36654/?quality=12&learn=on)

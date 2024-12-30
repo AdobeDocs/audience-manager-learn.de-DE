@@ -1,6 +1,6 @@
 ---
-title: Erfassen dateibasierter Daten
-description: In diesem Video erfahren Sie, wie Sie die Offline-Daten in Audience Manager integrieren, einschließlich der Dateinamenanforderungen für die Datendatei.
+title: So nehmen Sie dateibasierte Daten auf
+description: In diesem Video erfahren Sie, welche Schritte Sie ausführen müssen, wenn Sie Offline-Daten in den Audience Manager integrieren, einschließlich der Dateinamenanforderungen für die Datendatei.
 feature: Onboarding Offline Data
 topics: null
 activity: use
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# Schritte zum Erfassen dateibasierter Daten
+# Schritte für die Aufnahme dateibasierter Daten
 
-In diesem Video erfahren Sie, wie Sie die Offline-Daten in Audience Manager integrieren, einschließlich der Dateinamenanforderungen für die Datendatei.
+In diesem Video erfahren Sie, welche Schritte Sie ausführen müssen, wenn Sie Offline-Daten in den Audience Manager integrieren, einschließlich der Dateinamenanforderungen für die Datendatei.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
 

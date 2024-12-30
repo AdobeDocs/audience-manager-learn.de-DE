@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zur Benutzeroberfläche "Übereinstimmungsrate"
-description: Erfahren Sie mehr über die Zielschnittstelle, indem Sie die Zahlen im Zusammenhang mit Übereinstimmungsraten und adressierbaren Zielgruppen anzeigen und erklären.
+title: Grundlegendes zur Oberfläche für Übereinstimmungsraten
+description: Erfahren Sie mehr über die Zielschnittstelle und zeigen und erklären Sie die Zahlen, die mit Übereinstimmungsraten und adressierbaren Zielgruppen verbunden sind.
 feature: Match Rates
 doc-type: feature video
 thumbnail: 29831.jpg
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Grundlegendes zur Match Rate-Oberfläche in Audience Manager
+# Grundlegendes zur Oberfläche „Übereinstimmungsrate“ in Audience Manager
 
-Dieses Video führt Sie durch die Oberfläche von [!UICONTROL Destination], zeigt die Zahlen und erklärt sie im Zusammenhang mit Übereinstimmungsraten und adressierbaren Zielgruppen.
+Dieses Video führt Sie durch die [!UICONTROL Destination], zeigt und erklärt die Zahlen, die mit Übereinstimmungsraten und adressierbaren Zielgruppen verbunden sind.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-Weitere Informationen finden Sie unter [Addressable Audiences](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html) in der Produktdokumentation.
+Weitere Informationen finden Sie unter [Adressierbare Zielgruppen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html) in der Produktdokumentation.

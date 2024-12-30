@@ -1,6 +1,6 @@
 ---
 title: Auswählen der richtigen Profilzusammenführungsregel
-description: In diesem Video entdecken Sie drei der häufigsten Anwendungsfälle für Profilzusammenführungsregeln und erfahren, wie diese Ihre Marketing-Maßnahmen unterstützen können.
+description: In diesem Video erfahren Sie mehr über drei der häufigsten Anwendungsfälle für Profilzusammenführungsregeln und darüber, wie diese Ihre Marketing-Bemühungen unterstützen können.
 feature: Profile Merge
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Auswählen des richtigen [!UICONTROL Profile Merge Rule]
+# Auswählen der richtigen [!UICONTROL Profile Merge Rule]
 
-In diesem Video entdecken Sie drei der häufigsten Anwendungsfälle für [!UICONTROL Profile Merge Rules] und wie diese Ihre Marketing-Maßnahmen unterstützen können.
+In diesem Video erfahren Sie mehr über drei der häufigsten Anwendungsfälle für [!UICONTROL Profile Merge Rules] und wie diese Ihre Marketing-Maßnahmen unterstützen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37908/?quality=12&learn=on)

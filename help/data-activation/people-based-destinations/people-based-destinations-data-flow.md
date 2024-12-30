@@ -1,6 +1,6 @@
 ---
-title: Benutzerbasierter Zieldatenfluss
-description: In diesem Video erhalten Sie einen Überblick über People-basierte Ziele und den Datenfluss durch den Prozess.
+title: Datenfluss für personenbasierte Ziele
+description: In diesem Video erhalten Sie einen Überblick über personenbasierte Ziele und über den Datenfluss durch den Prozess.
 feature: People-based Destinations
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Benutzerbasierter Zieldatenfluss
+# Datenfluss für personenbasierte Ziele
 
-In diesem Video erhalten Sie einen Überblick über People-basierte Ziele und den Datenfluss durch den Prozess.
+In diesem Video erhalten Sie einen Überblick über personenbasierte Ziele und über den Datenfluss durch den Prozess.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)

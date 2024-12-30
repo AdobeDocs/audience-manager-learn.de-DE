@@ -1,6 +1,6 @@
 ---
-title: Verwenden von Audience Lab zur Auswahl eines DSP
-description: In diesem Video gehen wir durch die Erstellung eines Audience Lab-Tests, sodass Sie A/B-DSP oder andere AAM Ziele testen können, um zu sehen, welche die beste Rendite für Werbeausgaben erzielen.
+title: Verwenden von Audience Lab zum Auswählen einer DSP
+description: In diesem Video zeigen wir Ihnen, wie Sie einen Audience Lab-Test erstellen, damit Sie A/B-Test-DSP oder andere AAM-Ziele testen können, um zu sehen, welches Ziel die beste Rendite aus den Werbeausgaben erzielt.
 feature: Audience Lab
 doc-type: feature video
 thumbnail: 24923.jpg
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 ---
 
-# Verwenden Sie [!UICONTROL Audience Lab], um einen DSP auszuwählen. {#using-audience-lab-to-choose-a-dsp}
+# Verwenden von [!UICONTROL Audience Lab] zur Auswahl einer DSP {#using-audience-lab-to-choose-a-dsp}
 
-In diesem Video gehen wir durch die Erstellung eines [!UICONTROL Audience Lab]-Tests, damit Sie A/B-DSP oder andere AAM Ziele testen können, um zu sehen, welche die beste Rendite aus Anzeigenausgaben erzielen.
+In diesem Video zeigen wir Ihnen, wie Sie einen [!UICONTROL Audience Lab] erstellen, damit Sie A/B-Test-DSP oder andere AAM-Ziele testen können, um zu sehen, welches Ziel die beste Rendite aus den Werbeausgaben erzielt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24923/?quality=12)
 
-Das Erstellen eines [!UICONTROL Audience Lab] -Tests ist einfach und kann in nur wenigen Minuten durchgeführt werden, wie im Video oben gezeigt. Wenn Sie die Schritte in der Benutzeroberfläche durchlaufen, richten Sie Folgendes ein:
+Das Erstellen eines [!UICONTROL Audience Lab] ist einfach und kann in nur wenigen Minuten durchgeführt werden, was im obigen Video gezeigt wird. Wenn Sie die Schritte in der Benutzeroberfläche durchlaufen, richten Sie Folgendes ein:
 
-1. Erstellen und benennen Sie Ihren [!UICONTROL Audience Lab]-Test
-1. Wählen Sie eines Ihrer [!UICONTROL segments] als &quot;[!UICONTROL base segment]&quot;, d. h. das Zielgruppensegment, das auf Ihre DSP aufgeteilt wird
-1. Wählen Sie aus, wie viele Test [!UICONTROL segments] Sie erstellen möchten (wie viele DSP werden Sie testen?)
-   * Setzen Sie einen der Test [!UICONTROL segments] als Kontrollsegment, das an keine DSP gesendet wird, damit Sie Ihre DSP Audiences damit vergleichen können.
-1. Wählen Sie eine Konversionseigenschaft aus, d. h. die Eigenschaft, mit der Ihr Erfolg gemessen und Ihr Gewinner ausgewählt wird
-1. Wählen Sie [!UICONTROL Destinations] (d. h. DSP) aus und weisen Sie den Test [!UICONTROL segments] zu.
-1. Überprüfen Sie die Testzusammenfassung und aktivieren Sie den Test
-1. Wenn der Test abgeschlossen ist, rufen Sie die Ergebnisse auf dem Hauptstartbildschirm von [!UICONTROL Audience Lab] auf
+1. Erstellen und Benennen des [!UICONTROL Audience Lab]
+1. Wählen Sie eine Ihrer [!UICONTROL segments] als &quot;[!UICONTROL base segment]&quot; aus. Dies ist das Zielgruppensegment, das auf Ihre DSP aufgeteilt wird
+1. Wählen Sie aus, wie viele [!UICONTROL segments] Sie erstellen möchten (wie viele DSP werden Sie testen?)
+   * Legen Sie eine der [!UICONTROL segments] als Kontrollsegment fest, das an keine DSP gesendet wird, damit Sie Ihre DSP-Zielgruppen damit vergleichen können
+1. Wählen Sie eine Konversionseigenschaft aus, die das Merkmal ist, das Ihren Erfolg misst, und wählen Sie Ihren Gewinner
+1. Wählen Sie [!UICONTROL Destinations] (d. h. DSP) aus und weisen Sie die [!UICONTROL segments] zu
+1. Überprüfen der Testzusammenfassung und Aktivieren des Tests
+1. Rufen Sie nach Abschluss des Tests die Ergebnisse auf dem Hauptbildschirm der [!UICONTROL Audience Lab] auf
 
-Weitere Informationen finden Sie in der Dokumentation zu [Funktionen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html) .
+Weitere Informationen finden Sie in der [Funktionsdokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html).

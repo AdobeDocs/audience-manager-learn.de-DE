@@ -1,5 +1,5 @@
 ---
-title: Überwachung und Berichterstellung zur Aktivitätsnutzung
+title: Überwachen und Erstellen von Berichten zur Aktivitätsnutzung
 description: In diesem Video erfahren Sie, wie Sie den Bericht zur Aktivitätsnutzung verwenden, einschließlich der Anzeige- und Download-Optionen.
 feature: Usage and Billing
 topics: null
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# Überwachung und Berichterstellung zur Aktivitätsnutzung
+# Überwachen und Erstellen von Berichten zur Aktivitätsnutzung
 
-In diesem Video werden wir durch die Verwendung von [!UICONTROL Activity Usage Report], einschließlich der Anzeige- und Download-Optionen, gehen.
+In diesem Video erfahren Sie, wie Sie die [!UICONTROL Activity Usage Report] verwenden, einschließlich der Anzeige- und Download-Optionen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 

@@ -1,6 +1,6 @@
 ---
-title: Überblick über die Verbesserungen der Profilzusammenführungsrichtlinien
-description: In diesem Video werden die im Oktober 2019 veröffentlichten Verbesserungen der Profilzusammenführungsrichtlinien erläutert.
+title: Verbesserungen bei Profilzusammenführungsregeln - Übersicht
+description: In diesem Video werden die Verbesserungen der Profilzusammenführungsregeln erläutert, die im Oktober 2019 veröffentlicht wurden.
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Überblick über [!UICONTROL Profile Merge Rule] Verbesserungen
+# Übersicht über [!UICONTROL Profile Merge Rule] Verbesserungen
 
-In diesem Video werden die im Oktober 2019 veröffentlichten Verbesserungen für [!UICONTROL Profile Merge Rules] erläutert.
+In diesem Video werden die Verbesserungen an [!UICONTROL Profile Merge Rules] erläutert, die im Oktober 2019 veröffentlicht wurden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28976/?quality=12)

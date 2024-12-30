@@ -1,6 +1,6 @@
 ---
 title: Abrufen von API-Anmeldeinformationen in Adobe Developer
-description: Anstatt sich an Adobe Consulting oder die Kundenunterstützung zu wenden, um Anmeldeinformationen für die REST-API zu erhalten, können Sie einfach in einem Browser zu developer.adobe.com navigieren und Ihre eigenen Anmeldeinformationen abrufen oder registrieren.
+description: Anstatt sich an die Adobe Consulting oder die Kundenunterstützung zu wenden, um Anmeldeinformationen für die Verwendung der REST-API zu erhalten, können Sie einfach developer.adobe.com in einem Browser aufrufen und Ihre eigenen Anmeldeinformationen abrufen oder registrieren.
 feature: API
 topics: null
 activity: develop
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Abrufen von API-Anmeldeinformationen in [!DNL Adobe Developer]
 
-Anstatt sich an Adobe Consulting oder die Kundenunterstützung zu wenden, um Anmeldeinformationen für die REST-API zu erhalten, können Sie einfach in einem Browser zu developer.adobe.com navigieren und Ihre eigenen Anmeldeinformationen abrufen oder registrieren.
+Anstatt sich an die Adobe Consulting oder die Kundenunterstützung zu wenden, um Anmeldeinformationen für die Verwendung der REST-API zu erhalten, können Sie einfach developer.adobe.com in einem Browser aufrufen und Ihre eigenen Anmeldeinformationen abrufen oder registrieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37889/?quality=12&learn=on)

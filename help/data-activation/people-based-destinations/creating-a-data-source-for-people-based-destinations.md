@@ -1,6 +1,6 @@
 ---
-title: Erstellen einer Datenquelle für People-basierte Ziele
-description: Erfahren Sie, wie Sie in Audience Manager eine Datenquelle erstellen, die für People-basierte Ziele verwendet werden soll.
+title: Erstellen einer Datenquelle für personenbasierte Ziele
+description: Erfahren Sie, wie Sie eine Datenquelle im Audience Manager erstellen, die für personenbasierte Ziele verwendet werden soll.
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Erstellen von [!UICONTROL Data Source] für personenbasierte Ziele
+# Erstellen eines [!UICONTROL Data Source] für personenbasierte Ziele
 
-In diesem Video erfahren Sie, wie Sie einen [!UICONTROL Data Source] -Audience Manager für personenbasierte Ziele erstellen.
+Dieses Video führt Sie durch die Erstellung eines [!UICONTROL Data Source] in Audience Manager, der für personenbasierte Ziele verwendet werden kann.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)

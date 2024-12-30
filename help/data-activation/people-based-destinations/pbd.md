@@ -1,6 +1,6 @@
 ---
-title: Videos und Tutorials zu benutzerbezogenen Zielen
-description: Erfahren Sie mehr über People-basierte Ziele in Audience Manager. Erfahren Sie, wie Sie die Segmentierung auf Online- und Offline-Daten anwenden, um Zielgruppensegmente basierend auf Hash-Kennungen wie E-Mail-Adressen und mehr zu erstellen!
+title: Videos und Tutorials zu personenbasierten Zielen
+description: Erfahren Sie mehr über personenbasierte Ziele in Audience Manager. Erfahren Sie, wie Sie eine Segmentierung auf Online- und Offline-Daten anwenden können, um Zielgruppensegmente basierend auf Hash-Kennungen wie E-Mail-Adressen und mehr zu erstellen!
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -17,20 +17,20 @@ ht-degree: 0%
 
 ---
 
-# Videos und Tutorials zu benutzerbezogenen Zielen
+# Videos und Tutorials zu personenbasierten Zielen
 
-Mit personenbasierten Zielen können Sie die Segmentierung auf Online- und Offline-Daten anwenden, um Zielgruppensegmente basierend auf Hash-Kennungen wie E-Mail-Adressen zu erstellen. Anschließend können Sie diese Segmente an soziale Plattformen wie [!DNL Facebook] oder [!DNL LinkedIn] senden, wo Sie Ihre Zielgruppe ansprechen können.
+Personenbasierte Ziele ermöglichen es Ihnen, eine Segmentierung auf Online- und Offline-Daten anzuwenden, um Zielgruppensegmente basierend auf Hash-Kennungen wie E-Mail-Adressen zu erstellen. Anschließend können Sie diese Segmente an soziale Plattformen wie [!DNL Facebook] oder [!DNL LinkedIn] senden, wo Sie Ihre Audience ansprechen können.
 
-Dieser Abschnitt enthält Videos und Tutorials zu Themen zu People-basierten Zielen. Sie wurden in dieser absichtlichen Reihenfolge aufgelistet, während Sie durch den Fluss/Prozess der Einrichtung von personenbasierten Zielen navigieren:
+Dieser Abschnitt enthält Videos und Tutorials zu Themen rund um personenbasierte Ziele. Sie wurden in dieser Reihenfolge absichtlich aufgelistet, während Sie sich durch den Ablauf/Prozess der Einrichtung von personenbasierten Zielen arbeiten:
 
-* [Benutzerbasierter Zieldatenfluss](people-based-destinations-data-flow.md)
-* [Erstellen einer Datenquelle für People-basierte Ziele](creating-a-data-source-for-people-based-destinations.md)
-* [Grundlegendes zur Erfassung von Hash-PII-Daten für personenbasierte Ziele](understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
-* [Erfassung von Hash-PII für personenbasierte Ziele](ingesting-hashed-pii-for-people-based-destinations.md)
-* [Verwendung von setCustomerIDs() zur Aufnahme und Hash-PII als Declared ID](using-setcustomerids-to-ingest-and-hash-pii-as-a-declared-id.md)
-* [Konfigurieren von Profilzusammenführungsrichtlinien für personenbasierte Ziele](configuring-profile-merge-rules-for-people-based-destinations.md)
-* [Segmente für benutzerbasierte Ziele erstellen](creating-segments-for-people-based-destinations.md)
-* [Benutzerbasierte Ziele erstellen und konfigurieren](create-and-configure-people-based-destinations.md)
-* [Grundlegendes zum und Konfigurieren des personenbasierten Ziels von LinkedIn](understanding-and-configuring-the-linkedin-pbd.md)
+* [Datenfluss für personenbasierte Ziele](people-based-destinations-data-flow.md)
+* [Erstellen einer Datenquelle für personenbasierte Ziele](creating-a-data-source-for-people-based-destinations.md)
+* [Grundlegendes zur Aufnahme von Hash-PII-Daten für personenbasierte Ziele](understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
+* [Aufnehmen von gehashten PII für personenbasierte Ziele](ingesting-hashed-pii-for-people-based-destinations.md)
+* [Verwenden von setCustomerIDs() zum Aufnehmen und Hashen von personenbezogenen Daten als deklarierte ID](using-setcustomerids-to-ingest-and-hash-pii-as-a-declared-id.md)
+* [Konfigurieren von Profilzusammenführungsregeln für personenbasierte Ziele](configuring-profile-merge-rules-for-people-based-destinations.md)
+* [Erstellen von Segmenten für personenbasierte Ziele](creating-segments-for-people-based-destinations.md)
+* [Erstellen und Konfigurieren von personenbasierten Zielen](create-and-configure-people-based-destinations.md)
+* [Verstehen und Konfigurieren des personenbasierten LinkedIn-Ziels](understanding-and-configuring-the-linkedin-pbd.md)
 
 Diese Videos können in Verbindung mit der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html) verwendet werden.

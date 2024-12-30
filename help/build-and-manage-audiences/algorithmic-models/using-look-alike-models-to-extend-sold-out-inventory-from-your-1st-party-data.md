@@ -1,6 +1,6 @@
 ---
-title: Verwenden Sie Look-alike-Modelle, um ausverkauften Bestand aus Erstanbieterdaten zu erweitern
-description: In diesem Tutorial gehen wir durch die Schritte, die Sie unternehmen sollten, um Look-alike-Modelle einzurichten und zu verwenden, sodass Sie neue Look-alike-Zielgruppen erstellen und diese als Erweiterung für Ihr Konversionssegment verkaufen können.
+title: Verwenden von Look-alike-Modellen, um ausverkaufte Inventardaten aus First-Party-Daten zu erweitern
+description: In diesem Tutorial führen wir die Schritte durch, die Sie zum Einrichten und Verwenden von Look-alike-Modellen ausführen sollten, damit Sie neue Look-alike-Zielgruppen erstellen und sie als Erweiterung für Ihr Konversionssegment verkaufen können.
 feature: Algorithmic Models
 topics: null
 activity: use
@@ -18,50 +18,50 @@ ht-degree: 0%
 
 ---
 
-# Verwenden Sie Look-alike-Modelle, um ausverkauften Bestand aus Erstanbieterdaten zu erweitern {#using-look-alike-models-to-extend-sold-out-inventory-from-your-st-party-data}
+# Verwenden von Look-alike-Modellen, um ausverkaufte Inventardaten aus First-Party-Daten zu erweitern {#using-look-alike-models-to-extend-sold-out-inventory-from-your-st-party-data}
 
-In diesem Tutorial führen wir Sie durch die Schritte, die Sie unternehmen sollten, um Look-alike [!UICONTROL Models] einzurichten und zu verwenden, damit Sie neue Look-alike-Zielgruppen erstellen und diese als Erweiterung für Ihr Konversionssegment verkaufen können.
+In diesem Tutorial werden wir die Schritte erläutern, die Sie zum Einrichten und Verwenden von Lookalike-[!UICONTROL Models] ausführen sollten, damit Sie neue Lookalike-Zielgruppen erstellen und sie als Erweiterung für Ihr Konversionssegment verkaufen können.
 
-## Anwendungsfalldetails {#use-case-details}
+## Details zum Anwendungsfall {#use-case-details}
 
-Sie sind ein Herausgeber von Inhalten. Wenn Sie bereits Inventar für Konverter auf Ihrer Site ausverkauft haben, können Sie denken, dass Ihre Chance dort endet. Geben Sie AAM Look-Alike [!UICONTROL Models] ein. Mit dieser Funktion können Sie den ausverkauften Bestand weiter erweitern und auch Zielgruppen von Personen verkaufen, die vielleicht noch nicht konvertiert sind, aber wie konvertierte Personen aussehen/handeln. Dieses Zielgruppensegment würde in der Regel für weniger als die tatsächlichen Konverter verkauft, ermöglicht Ihnen jedoch, zu Ihrem Endwert hinzuzufügen, indem Sie eine zusätzliche Zielgruppenoption für Advertiser bereitstellen, die Anzeigen auf Ihrer Site platzieren möchten. Der zusätzliche Vorteil dieses Anwendungsbeispiels besteht darin, dass es Sie nicht kostet, dieses Modell auf Ihren Erstanbieterdaten auszuführen.
+Sie sind ein Inhaltsherausgeber. Wenn Sie bereits einen ausverkauften Bestand an Konvertern auf Ihrer Site haben, könnten Sie denken, dass Ihre Opportunity dort endet. Geben Sie die Lookalike-[!UICONTROL Models] der AAM ein. Mithilfe dieser Funktion können Sie den ausverkauften Bestand weiter erweitern und auch Zielgruppen von Personen verkaufen, die vielleicht noch nicht konvertiert sind, aber wie Menschen aussehen/sich verhalten, die konvertiert haben. Dieses Zielgruppensegment würde in der Regel für weniger als die tatsächlichen Konverter verkauft, ermöglicht es Ihnen jedoch, Ihren Gewinn zu steigern, indem Sie eine zusätzliche Zielgruppenoption für Werbetreibende bereitstellen, die Anzeigen auf Ihrer Site platzieren möchten. Der zusätzliche Vorteil dieses Anwendungsfalls besteht darin, dass die Ausführung dieses Modells mit Erstanbieterdaten keine Kosten verursacht.
 
-Die Schritte in diesem Tutorial lauten wie folgt:
+Die Schritte in diesem Tutorial sind wie folgt:
 
-1. Identifizieren/Erstellen einer idealen Benutzereigenschaft (Konversion) oder eines Segments
-1. Erstellen eines Modells mit dieser Konversionseigenschaft/diesem Segment als Basiselement
-1. Wählen Sie [!UICONTROL First party] Datenquellen im Modell aus und führen Sie das Modell aus.
-1. Erstellen Sie eine [!UICONTROL Algorithmic Trait] aus den Modellergebnissen und fügen Sie die Eigenschaft zu einem Segment hinzu
-1. Angebot des Segments an interessierte Advertiser zur Erweiterung der Umrechnungssegmentverkäufe
+1. Identifizieren/Erstellen eines idealen Benutzermerkmals (Konversion) oder Segments
+1. Erstellen Sie ein Modell mit diesem Konversionseigenschaft/Segment als Basiselement
+1. [!UICONTROL First party] Datenquelle(n) im Modell auswählen und das Modell ausführen
+1. Erstellen eines [!UICONTROL Algorithmic Trait] aus den Modellergebnissen und Hinzufügen der Eigenschaft zu einem Segment
+1. Interessenten das Segment anbieten, um den Umsatz des Konversionssegments zu erweitern
 
-## Identifizieren oder Erstellen einer idealen Benutzereigenschaft (Konversion) oder eines Segments {#identify-create-an-ideal-user-conversion-trait-or-segment}
+## Identifizieren oder erstellen Sie ein ideales Benutzermerkmal (Konversion) oder Segment {#identify-create-an-ideal-user-conversion-trait-or-segment}
 
-Was versuchen Sie, Menschen dazu zu bringen, auf Ihrer Site zu tun? Was ist Ihr Konversionsereignis? Natürlich gibt es viele verschiedene Antworten auf diese Frage, abhängig von Ihrem Site-Typ/Ihrer Vertikale und Ihren Organisationszielen. In jedem Fall ist es in AAM üblich, eine Eigenschaft für Besucher zu erstellen, die diese Kriterien erfüllt haben.
+Was versuchen Sie, die Leute auf Ihrer Seite zu tun? Was ist Ihr Konversionsereignis? Natürlich gibt es viele verschiedene Antworten auf diese Frage, abhängig von Ihrem Site-Typ/Vertikal und Ihren Unternehmenszielen. In jedem Fall ist es in AAM üblich, eine Eigenschaft für Besuchende zu erstellen, die diese Kriterien erfüllt haben.
 
-In diesem Anwendungsfall wird dies bereits angenommen, da Sie den Bestand für Konverter verkauft haben. Für die Zwecke dieses Tutorials ist es jedoch gut, es als Referenz für den restlichen Anwendungsfall zu diskutieren.
+In diesem Anwendungsfall wird dies bereits angenommen, da Sie das Inventar für Personen ausverkauft haben, die Konvertierer sind. Für die Zwecke dieses Tutorials ist es jedoch sinnvoll, dies als Referenz für den Rest des Anwendungsfalls zu besprechen.
 
-Außerdem müssen Sie bei der Verwendung von Ereignissen zur Erstellung von Eigenschaften einen wichtigen Aspekt beachten, damit Sie nicht mehr Benutzer erfassen, als Sie in der Eigenschaft sollten. Sehen Sie sich das folgende Video für die große Anzeige an. :)
+Außerdem müssen Sie bei der Verwendung von Ereignissen zum Erstellen von Eigenschaften einen wichtigen Aspekt beachten, damit Sie nicht mehr Benutzende erfassen, als Sie für die Eigenschaft erfassen sollten. Sehen Sie sich das folgende Video für die große Enthüllung an. :)
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**HINWEIS:** Im obigen Video geht das angezeigte Beispiel davon aus, dass Sie über Adobe Analytics verfügen. Das ist offensichtlich nicht der Fall. Wenn Sie über Google Analytics (GA) verfügen, können Sie mit einem -Modul Daten an AAM senden (siehe die [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)). Wenn Ihre Konversionsaktivität auf Ihrer Site von GA an AAM gesendet wird, können Sie daraus Ihre Konversionseigenschaft erstellen. Wenn Sie über eine andere Analyselösung (oder keine Analyselösung) verfügen, können Sie weiterhin Daten über unseren DIL-Code und die Funktion `submit` an AAM senden. (siehe die [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)). Erstellen Sie dann erneut die Konversionseigenschaft basierend auf den Daten, die gesendet werden, wenn die Konversionsaktivität auf der Site durchgeführt wird.
+**HINWEIS:** Im obigen Video wird im gezeigten Beispiel davon ausgegangen, dass Sie über Adobe Analytics verfügen. Das ist offensichtlich nicht der Fall. Wenn Sie Google Analytics (GA) haben, verfügen wir über ein Modul, mit dem Sie Daten an AAM senden können (siehe [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)). Wenn Ihre Konversionsaktivität auf Ihrer Site per GA an AAM gesendet wird, können Sie daraus Ihr Konversionsmerkmal erstellen. Wenn Sie eine andere Analyselösung haben (oder keine Analyselösung), können Sie dennoch Daten über unseren DIL-Code und die `submit` usw. an AAM senden. (Siehe die [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)). Erstellen Sie dann erneut das Konversionsmerkmal basierend auf den Daten, die gesendet werden, als die Konversionsaktivität auf der Site ausgeführt wird.
 
-## Erstellen eines Look-alike-Modells aus Erstanbieterdaten {#creating-a-look-alike-model-from-first-party-data}
+## Erstellen eines Lookalike-Modells aus First-Party-Daten {#creating-a-look-alike-model-from-first-party-data}
 
-In diesem Schritt erstellen wir ein Look-alike-Modell [!UICONTROL First Party]. Das bedeutet, dass wir nicht nur eine Erstanbieter-Konversionseigenschaft/ein Erstanbieter-Segment für unsere Basiseigenschaft/unser Basissegment verwenden werden (dies wäre ohnehin für die meisten Modelle normal), sondern auch nur in den Pool von Erstanbieterdaten für mehr Personen, die wie die Konverter aussehen. Wir werden keine Daten von Zweitanbietern oder Drittanbietern betrachten.
+In diesem Schritt erstellen wir ein [!UICONTROL First Party] Look-alike-Modell. Das bedeutet, dass wir nicht nur eine First-Party-Konversionseigenschaft/ein First-Party-Segment für unsere Basis-Eigenschaft/unser -Segment verwenden werden (das wäre bei den meisten Modellen ohnehin normal), sondern dass wir auch nur den Pool von First-Party-Daten für weitere Personen untersuchen werden, die wie die Konverter aussehen. Wir werden keine Daten von Zweitanbietern oder Drittanbietern berücksichtigen.
 
-In diesem Anwendungsfall ist dies wichtig, da wir versuchen, ein Segment von Benutzern auf unserer Site zu erstellen, die wie Konverter aussehen, aber noch nicht konvertiert wurden, sodass wir dieses Look-alike-Segment an interessierte Advertiser verkaufen können.
+In diesem Anwendungsbeispiel ist dies wichtig, da wir versuchen, ein Segment von Benutzern auf unserer Website zu erstellen, die wie Konverter aussehen, aber noch nicht konvertiert sind, damit wir dieses Lookalike-Segment an interessierte Werbetreibende verkaufen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality-12)
 
-## Erstellen einer algorithmischen Eigenschaft {#creating-an-algorithmic-trait}
+## Algorithmische Eigenschaft erstellen {#creating-an-algorithmic-trait}
 
-Als Nächstes müssen wir einen [!UICONTROL Algorithmic Trait] erstellen, damit die Ergebnisse des Modells verwendet werden können. Ohne eine Eigenschaft zu erstellen, ist das Modell nutzlos. Nachdem das Modell ausgeführt wurde, gehen Sie also in das Eigenschaftsdialogfeld und erstellen Sie eine [!UICONTROL Algorithmic Trait]. Das folgende Video führt Sie durch und zeigt einige Tipps.
+Als Nächstes müssen wir eine [!UICONTROL Algorithmic Trait] erstellen, damit die Ergebnisse des Modells verwendet werden können. Ohne das Erstellen einer Eigenschaft ist das Modell nutzlos. Gehen Sie also nach der Ausführung des Modells unbedingt zum Dialogfeld „Eigenschaft“ und erstellen Sie eine [!UICONTROL Algorithmic Trait]. Das folgende Video erläutert dies und zeigt einige Tipps.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23523/?quality=12)
 
-## Anzeigen von [!UICONTROL Algorithmic Segment] {#offering-the-algorithmic-segment-to-advertisers}
+## Den [!UICONTROL Algorithmic Segment] Werbetreibenden anbieten {#offering-the-algorithmic-segment-to-advertisers}
 
-Nachdem Sie den Wert &quot;[!UICONTROL Algorithmic Trait]&quot;erstellt haben, können Sie ein neues Segment erstellen, um ihn einzufügen, sodass Sie die Daten aktivieren können (Sie können eine Eigenschaft nicht aktivieren, sondern ein neues Segment mit einer Eigenschaft mit dem Wert &quot;[!UICONTROL Algorithmic Trait]&quot;erstellen, damit Sie das Segment aktivieren (verwenden) können.
+Nachdem Sie ein [!UICONTROL Algorithmic Trait] erstellt haben, können Sie ein neues Segment erstellen, um es einzufügen, damit Sie die Daten aktivieren können. (Sie können keine Eigenschaft aktivieren, sondern stattdessen ein neues Segment mit einer Eigenschaft und den darin enthaltenen [!UICONTROL Algorithmic Trait] erstellen, damit Sie das Segment aktivieren (verwenden) können.
 
-Nachdem Sie ein Segment mit Erstanbieterbesuchern erstellt haben, die im Look-alike-Modell einen hohen Wert erreicht haben (d. h., die wie Konverter aussehen, aber noch nicht konvertiert wurden), können Sie dieses Segment Werbetreibenden auf Ihrer Site anbieten, selbst wenn Sie Ihren gesamten Bestand an tatsächlichen Konvertern auf Ihrer Site ausverkauft haben. Dies ist eine großartige Möglichkeit, diese Zielgruppe zu erweitern und durch die Verwendung von Look-Alike [!UICONTROL Models] im Audience Manager weiterhin zusätzlichen Umsatz zu sehen.
+Nachdem Sie ein Segment von Erstanbieter-Besuchern erstellt haben, die im Look-alike-Modell einen hohen Wert erreicht haben (d. h. die wie Konverter aussehen, aber noch nicht konvertiert haben), können Sie dieses Segment Advertisern auf Ihrer Site anbieten, selbst wenn Sie Ihren gesamten Bestand an tatsächlichen Konvertern auf Ihrer Site ausverkauft haben. Dies ist eine hervorragende Möglichkeit, diese Zielgruppe zu erweitern und durch die Verwendung von Lookalike-[!UICONTROL Models] im Audience Manager weiterhin zusätzliche Umsätze zu erzielen.

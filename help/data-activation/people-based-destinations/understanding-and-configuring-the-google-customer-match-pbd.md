@@ -1,6 +1,6 @@
 ---
-title: Verstehen und Konfigurieren des personenbasierten Ziels von Google-Kundenabgleich
-description: Dieses Video führt Sie durch die Details und Anwendungsfälle des Google Customer Match People Based Destination und umfasst eine exemplarische Vorgehensweise zum Erstellen eines Segments und dessen Zuordnung zu einem Ziel. Außerdem wird die Audience angezeigt, die in die Google Ad Console gelangt.
+title: Verstehen und Konfigurieren des personenbasierten Ziels von Google Customer Match
+description: Dieses Video führt Sie durch die Details und den Anwendungsfall des auf Personen basierenden Ziels von Google Customer Match und beinhaltet eine exemplarische Vorgehensweise bei der Erstellung eines Segments und seiner Zuordnung zu einem Ziel. Außerdem wird die Zielgruppe für die Landingpage in der Google Ad Console angezeigt.
 feature: People-based Destinations
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Verstehen und Konfigurieren des personenbasierten Ziels von Google-Kundenabgleich
+# Verstehen und Konfigurieren des personenbasierten Ziels von Google Customer Match
 
-Dieses Video führt Sie durch die Details und Anwendungsfälle des Google-Kundenabgleichs &quot;People Based Destination&quot;und enthält eine schrittweise Anleitung zum Erstellen eines Segments und dessen Zuordnung zu einem Ziel. Außerdem wird die Audience angezeigt, die in die Google Ad Console gelangt.
+Dieses Video führt Sie durch die Details und den Anwendungsfall des auf Personen basierenden Ziels von Google Customer Match und beinhaltet eine exemplarische Vorgehensweise bei der Erstellung eines Segments und seiner Zuordnung zu einem Ziel. Außerdem wird die Zielgruppe für die Landingpage in der Google Ad Console angezeigt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/38552/?quality=12&learn=on)

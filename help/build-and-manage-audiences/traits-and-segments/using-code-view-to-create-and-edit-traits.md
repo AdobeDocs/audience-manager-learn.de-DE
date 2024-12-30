@@ -1,6 +1,6 @@
 ---
-title: Verwenden der Codeansicht zum Erstellen und Bearbeiten von Eigenschaften
-description: Erfahren Sie, wie Sie die Codeansicht beim Erstellen neuer Eigenschaften oder Bearbeiten vorhandener Eigenschaften verwenden. Die Codeansicht ist eine Alternative zum Expression Builder beim Festlegen des Eigenschaftsausdrucks.
+title: Verwenden der Code-Ansicht zum Erstellen und Bearbeiten von Eigenschaften
+description: Erfahren Sie, wie Sie die Code-Ansicht verwenden, wenn Sie neue Eigenschaften erstellen oder vorhandene Eigenschaften bearbeiten. Die Code-Ansicht ist eine Alternative zum Expression Builder beim Festlegen des Eigenschaftsausdrucks.
 feature: Traits
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Verwenden der Codeansicht zum Erstellen und Bearbeiten von Eigenschaften
+# Verwenden der Code-Ansicht zum Erstellen und Bearbeiten von Eigenschaften
 
-Erfahren Sie, wie Sie die Codeansicht beim Erstellen neuer Eigenschaften oder Bearbeiten vorhandener Eigenschaften verwenden. Die Codeansicht ist eine Alternative zum Expression Builder beim Festlegen des Eigenschaftsausdrucks.
+Erfahren Sie, wie Sie die Code-Ansicht verwenden, wenn Sie neue Eigenschaften erstellen oder vorhandene Eigenschaften bearbeiten. Die Code-Ansicht ist eine Alternative zum Expression Builder beim Festlegen des Eigenschaftsausdrucks.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326613/?quality=12&learn=on)

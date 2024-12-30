@@ -1,6 +1,6 @@
 ---
 title: Praktische Segmentdefinition und -erstellung
-description: Machen Sie sich mit dem Prozess der Definition Ihrer Segmente vertraut und unterteilen Sie sie dann nach den Eigenschaften oder Signalen, die Sie für ihre Erstellung benötigen.
+description: Machen Sie sich mit dem Prozess der Definition Ihrer Segmente vertraut und schlüsseln Sie sie dann nach den Eigenschaften oder Signalen auf, die Sie zum Erstellen der Segmente benötigen.
 feature: Segments
 topics: null
 activity: understand
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Praktische Segmentdefinition und -erstellung
 
-Dieses Video führt Sie durch den Prozess der Definition Ihrer Segmente und deren anschließende Unterteilung anhand der Eigenschaften/Signale, die Sie benötigen, um sie zu erstellen.
+Dieses Video führt Sie durch den Prozess der Definition Ihrer Segmente und ihrer anschließenden Aufschlüsselung nach den Eigenschaften/Signalen, die Sie zum Erstellen benötigen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37391/?quality=12&learn=on)
