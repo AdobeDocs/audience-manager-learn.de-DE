@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Einige Ihrer Eigenschaften basieren auf Konversionen auf Ihrer Site. In diesem Video erfahren Sie, wie Sie diese als solche kennzeichnen, und lernen einen sehr wichtigen Tipp/Gotcha kennen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328027/?quality=12&captions=ger)
 
 Was versuchen Sie, die Leute auf Ihrer Seite zu tun? Was ist Ihr Konversionsereignis? Natürlich gibt es viele verschiedene Antworten auf diese Frage, abhängig von Ihrem Site-Typ/Vertikal und Ihren Unternehmenszielen. In jedem Fall ist es in AAM üblich, Eigenschaften für Besuchende zu erstellen, die diese Kriterien erfüllt haben.
 

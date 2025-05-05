@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit dem [!UICONTROL Trait Builder] in der Audience Manager-Benutzeroberfläche eine regelbasierte Eigenschaft erstellen, mit der Sie Echtzeit-Aktivitäten in Audience Manager-Profilen erfassen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/34749/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38092/?quality=12&learn=on&captions=ger)

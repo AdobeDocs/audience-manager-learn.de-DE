@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Dieses Video führt Sie durch die Erstellung eines [!UICONTROL Data Source] in Audience Manager, der für personenbasierte Ziele verwendet werden kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32165/?quality=12&captions=ger)

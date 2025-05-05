@@ -19,7 +19,7 @@ ht-degree: 0%
 
 In diesem Video zeigen wir Ihnen, wie Sie einen [!UICONTROL Audience Lab] erstellen, damit Sie A/B-Test-DSP oder andere AAM-Ziele testen können, um zu sehen, welches Ziel die beste Rendite aus den Werbeausgaben erzielt.
 
->[!VIDEO](https://video.tv.adobe.com/v/24923/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328024/?quality=12&captions=ger)
 
 Das Erstellen eines [!UICONTROL Audience Lab] ist einfach und kann in nur wenigen Minuten durchgeführt werden, was im obigen Video gezeigt wird. Wenn Sie die Schritte in der Benutzeroberfläche durchlaufen, richten Sie Folgendes ein:
 

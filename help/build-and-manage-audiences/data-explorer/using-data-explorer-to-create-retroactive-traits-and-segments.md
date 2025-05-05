@@ -22,7 +22,7 @@ ht-degree: 0%
 
 In diesem Video wird gezeigt, wie rückwirkende Eigenschaften erstellt werden, z. B. Eigenschaften, die Daten in das Merkmal aufstocken, bevor es erstellt wurde. Dies ist ein großartiger Durchbruch bei der Erstellung Ihrer Eigenschaften!
 
->[!VIDEO](https://video.tv.adobe.com/v/25169/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327527/?quality=12&captions=ger)
 
 Bisher wurden bei der Erstellung von Eigenschaften nur Daten erfasst, wenn Sie fortfahren. Dies bedeutete, dass Sie viele Eigenschaften erstellen mussten, falls sie Traffic oder Daten erhielten. Jetzt können Sie warten, welche Schlüssel/Wert-Paare Daten erhalten, dann eine Eigenschaft erstellen und die Daten zu dieser Eigenschaft aufstocken. Dies spart Ihnen Zeit und Energie und hilft Ihnen auch, Ihre Eigenschaftstaxonomie eng zu halten, anstatt mehrere Eigenschaften zu haben, die keine Daten haben.
 

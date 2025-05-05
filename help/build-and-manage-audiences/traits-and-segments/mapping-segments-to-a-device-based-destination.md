@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Um ein Zielgruppensegment an eine DSP oder einen anderen Partner zu senden, müssen Sie das Segment einem Ziel im Audience Manager zuordnen. Dieses Video führt Sie durch die Zuordnung von Segmenten zu einem gerätebasierten Ziel, das auch als _-zu-Server-_ bezeichnet wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/36495/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41305/?quality=12&learn=on&captions=ger)

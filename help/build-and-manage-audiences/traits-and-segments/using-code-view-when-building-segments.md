@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit der Code-Ansicht Segmente definieren können, um komplexe Eigenschaftskombinationen zu erstellen, einschließlich der Verwendung von Neuigkeit und Häufigkeit.
 
->[!VIDEO](https://video.tv.adobe.com/v/38035/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326794/?quality=12&learn=on&captions=ger)

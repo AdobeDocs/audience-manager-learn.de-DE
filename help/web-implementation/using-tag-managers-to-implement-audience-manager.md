@@ -28,4 +28,4 @@ Die folgenden Anwendungsfälle sind hervorgehoben:
 * Implementierung über einen Nicht-Adobe-Tag-Manager bei Verwendung von Adobe Analytics
 * Implementierung über einen Nicht-Adobe-Tag-Manager bei Nichtverwendung von Adobe Analytics
 
->[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32944/?quality=12&captions=ger)

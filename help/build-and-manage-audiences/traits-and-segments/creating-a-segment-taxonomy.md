@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Wenn Sie ein Segment im Audience Manager erstellen, speichern Sie es in einer ordnerbasierten Struktur oder einer „Taxonomie“. Erfahren Sie mehr über Tipps zum Erstellen und Verwalten der Segmenttaxonomie.
 
->[!VIDEO](https://video.tv.adobe.com/v/37909/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326859/?quality=12&learn=on&captions=ger)

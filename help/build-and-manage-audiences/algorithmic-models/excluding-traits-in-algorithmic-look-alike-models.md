@@ -22,7 +22,7 @@ ht-degree: 0%
 
 In diesem Video erfahren Sie, wie und warum Sie bestimmte (oder Gruppen von) Eigenschaften von einem algorithmischen Modell (Lookalike-Modell) ausschließen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25569/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38133/?quality=12&captions=ger)
 
 Zu den Anwendungsfällen für diese Funktion gehören:
 

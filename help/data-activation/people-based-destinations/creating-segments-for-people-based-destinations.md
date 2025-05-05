@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Dieses Video führt Sie durch die Erstellung eines Segments in Audience Manager, das für personenbasierte Ziele verwendet werden kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31574/?quality=12&captions=ger)

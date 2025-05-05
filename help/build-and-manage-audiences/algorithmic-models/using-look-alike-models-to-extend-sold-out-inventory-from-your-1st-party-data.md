@@ -42,7 +42,7 @@ In diesem Anwendungsfall wird dies bereits angenommen, da Sie das Inventar für 
 
 Außerdem müssen Sie bei der Verwendung von Ereignissen zum Erstellen von Eigenschaften einen wichtigen Aspekt beachten, damit Sie nicht mehr Benutzende erfassen, als Sie für die Eigenschaft erfassen sollten. Sehen Sie sich das folgende Video für die große Enthüllung an. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328027/?quality=12&captions=ger)
 
 **HINWEIS:** Im obigen Video wird im gezeigten Beispiel davon ausgegangen, dass Sie über Adobe Analytics verfügen. Das ist offensichtlich nicht der Fall. Wenn Sie Google Analytics (GA) haben, verfügen wir über ein Modul, mit dem Sie Daten an AAM senden können (siehe [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=de)). Wenn Ihre Konversionsaktivität auf Ihrer Site per GA an AAM gesendet wird, können Sie daraus Ihr Konversionsmerkmal erstellen. Wenn Sie eine andere Analyselösung haben (oder keine Analyselösung), können Sie dennoch Daten über unseren DIL-Code und die `submit` usw. an AAM senden. (Siehe die [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=de)). Erstellen Sie dann erneut das Konversionsmerkmal basierend auf den Daten, die gesendet werden, als die Konversionsaktivität auf der Site ausgeführt wird.
 
@@ -52,13 +52,13 @@ In diesem Schritt erstellen wir ein [!UICONTROL First Party] Look-alike-Modell. 
 
 In diesem Anwendungsbeispiel ist dies wichtig, da wir versuchen, ein Segment von Benutzern auf unserer Website zu erstellen, die wie Konverter aussehen, aber noch nicht konvertiert sind, damit wir dieses Lookalike-Segment an interessierte Werbetreibende verkaufen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/23504/?quality-12)
+>[!VIDEO](https://video.tv.adobe.com/v/328071/?quality-12&captions=ger)
 
 ## Algorithmische Eigenschaft erstellen {#creating-an-algorithmic-trait}
 
 Als Nächstes müssen wir eine [!UICONTROL Algorithmic Trait] erstellen, damit die Ergebnisse des Modells verwendet werden können. Ohne das Erstellen einer Eigenschaft ist das Modell nutzlos. Gehen Sie also nach der Ausführung des Modells unbedingt zum Dialogfeld „Eigenschaft“ und erstellen Sie eine [!UICONTROL Algorithmic Trait]. Das folgende Video erläutert dies und zeigt einige Tipps.
 
->[!VIDEO](https://video.tv.adobe.com/v/23523/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29354/?quality=12&captions=ger)
 
 ## Den [!UICONTROL Algorithmic Segment] Werbetreibenden anbieten {#offering-the-algorithmic-segment-to-advertisers}
 

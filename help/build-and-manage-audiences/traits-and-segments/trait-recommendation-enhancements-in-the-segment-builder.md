@@ -21,6 +21,6 @@ ht-degree: 0%
 
 In diesem Video erfahren Sie, wie Sie die aktualisierten Eigenschaftsempfehlungen in [!UICONTROL Segments] verwenden. Dabei handelt es sich um [!UICONTROL Audience Marketplace]. Dadurch erhalten Sie zusätzliche Einblicke in Drittanbieterdaten, die die Reichweite Ihrer Segmente erweitern können.
 
->[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32923/?quality=12&captions=ger)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=de).

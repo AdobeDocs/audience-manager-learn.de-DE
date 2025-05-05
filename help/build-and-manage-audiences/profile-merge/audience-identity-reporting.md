@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Das Reporting zu Zielgruppenidentitäten bietet Kundinnen und Kunden die Möglichkeit, über die Gesamtpopulation einer Eigenschaft oder eines Segments nach Personen-/Haushaltsdefinitionen von Identität zu berichten. Sehen Sie sich dieses Video an, um zu sehen, wie sich dies in den Audience Manager-Berichten manifestiert.
 
->[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32712/?quality=12&captions=ger)

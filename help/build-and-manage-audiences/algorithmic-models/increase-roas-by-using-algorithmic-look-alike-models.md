@@ -28,7 +28,7 @@ Um Zweit- und Drittanbieterdaten in einem Lookalike-Modell zu verwenden, müssen
 
 Außerdem ist eine hervorragende Ressource die [[!DNL Adobe Audience Finder]](https://www.adobe-audience-finder.com/), um Sie bei der Suche und Entscheidung zu unterstützen, welcher Datenanbieter verwendet werden soll.
 
->[!VIDEO](https://video.tv.adobe.com/v/25188/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29353/?quality=12&captions=ger)
 
 ## Identifizieren oder erstellen Sie ein ideales Benutzermerkmal (Konversion) oder Segment {#identify-create-an-ideal-user-conversion-trait-or-segment}
 
@@ -38,7 +38,7 @@ Im folgenden Video zeige ich Ihnen, wie Sie ein Konversionsmerkmal erstellen, da
 
 Außerdem müssen Sie bei der Verwendung von Adobe Analytics-Ereignissen zum Erstellen von Eigenschaften ein großes Problem beachten, damit Sie nicht mehr Benutzende erfassen, als Sie für die Eigenschaft erfassen sollten. Sehen Sie sich das folgende Video für die große Enthüllung an. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328027/?quality=12&captions=ger)
 
 **HINWEIS:** Im obigen Video wird im gezeigten Beispiel davon ausgegangen, dass Sie über Adobe Analytics verfügen. Das ist offensichtlich nicht der Fall. Wenn Sie Google Analytics (GA) haben, verfügen wir über ein Modul, mit dem Sie Daten an AAM senden können (siehe [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=de)). Wenn Ihre Konversionsaktivität auf Ihrer Site per GA an AAM gesendet wird, können Sie daraus Ihr Konversionsmerkmal erstellen. Wenn Sie eine andere Analyselösung haben (oder keine Analyselösung), können Sie dennoch Daten über unseren DIL-Code und die `submit` usw. an AAM senden. (Siehe die [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=de)). Erstellen Sie dann das Konversionsmerkmal basierend auf den Daten, die bei der Durchführung der Konversionsaktivität auf der Site gesendet werden.
 
@@ -46,7 +46,7 @@ Außerdem müssen Sie bei der Verwendung von Adobe Analytics-Ereignissen zum Ers
 
 Nach Abschluss der oben genannten Schritte sind wir nun bereit, ein algorithmisches (Lookalike-)Modell zu erstellen. Bei der Einrichtung des Modells verwenden wir das Konversionsmerkmal als Grundeigenschaft (wichtige Besucher, die wir duplizieren möchten) und verwenden den aktivierten Drittanbieter-Datenstrom als Pool von Personen, aus dem wir Daten abrufen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/25190/?quality-12)
+>[!VIDEO](https://video.tv.adobe.com/v/29358/?quality-12&captions=ger)
 
 ## Eine wichtige Best Practice {#an-important-best-practice}
 
@@ -56,7 +56,7 @@ Wenn wir das algorithmische Modell im Audience Manager erstellen, wollen wir nat
 
 Als Nächstes müssen wir eine [!UICONTROL Algorithmic Trait] erstellen, damit die Ergebnisse des Modells verwendet werden können. Ohne das Erstellen einer Eigenschaft ist das Modell nutzlos. Gehen Sie daher nach der Ausführung des Modells unbedingt in das Dialogfeld „Eigenschaft“ und erstellen Sie eine [!UICONTROL Algorithmic Trait]. Das folgende Video erläutert dies und zeigt einige Tipps.
 
->[!VIDEO](https://video.tv.adobe.com/v/25191/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29352/?quality=12&captions=ger)
 
 ## Segment aus den Modelldaten erstellen und an DSP senden {#creating-a-segment-from-the-model-data-and-sending-it-to-dsps}
 

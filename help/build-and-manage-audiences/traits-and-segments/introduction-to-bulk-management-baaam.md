@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Erfahren Sie mehr über das Audience Manager [!UICONTROL Bulk Management]-Tool, häufig als „BAAAM“ bezeichnet. Erfahren Sie, wie Sie sich authentifizieren, damit Sie das BAM-Blatt verwenden können, um Eigenschaften und Segmente über die REST-API zu erstellen, zu bearbeiten und zu löschen.
 
->[!VIDEO](https://video.tv.adobe.com/v/327692/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340484/?quality=12&learn=on&captions=ger)
 
 >[!IMPORTANT]
 >

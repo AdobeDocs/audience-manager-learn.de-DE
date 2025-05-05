@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Erfahren Sie mehr über die Zahlen, die im Diagramm des Segmentinformationsbildschirms angezeigt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/38041/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326851/?quality=12&learn=on&captions=ger)

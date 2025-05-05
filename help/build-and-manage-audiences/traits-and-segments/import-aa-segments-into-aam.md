@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Sie können Echtzeitdaten nicht nur aus Adobe Analytics in Audience Manager weiterleiten, sondern auch Segmente, die nachverarbeitete Daten aus Analytics enthalten, über den Experience Cloud in Audience Manager importieren. Dies ist eine leistungsstarke Funktion, mit der sich kein anderer DMP rühmen kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/330804/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344722/?quality=12&learn=on&captions=ger)

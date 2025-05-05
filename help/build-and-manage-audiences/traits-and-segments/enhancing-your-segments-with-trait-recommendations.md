@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Wenn Sie [!UICONTROL Trait Recommendations] ein Segment in [!UICONTROL Segments] erstellen oder bearbeiten, erhalten Sie Empfehlungen zu zusätzlichen Eigenschaften, die Sie einbeziehen können und die den Eigenschaften in der Segmentregel ähnlich sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40840/?quality=12&captions=ger)
 
 [!UICONTROL Trait Recommendations] arbeiten sowohl an Erstanbieter- als auch an Drittanbieterdaten, sodass Sie zusätzliche empfohlene [!UICONTROL Traits] einbeziehen und Ihre Zielgruppe vergrößern können.
 
