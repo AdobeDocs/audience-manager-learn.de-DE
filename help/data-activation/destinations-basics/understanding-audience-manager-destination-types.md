@@ -21,6 +21,6 @@ Dieses Video führt Sie durch die verschiedenen Zieltypen in Adobe Audience Mana
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-Eine Liste der verfügbaren Server-zu-Server-Zielpartner finden Sie in der Dokumentation zu [Audience Manager-gerätebasierten Zielen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html).
+Eine Liste der verfügbaren Server-zu-Server-Zielpartner finden Sie in der Dokumentation zu [Audience Manager-gerätebasierten Zielen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html?lang=de).
 
-Weitere Informationen zu Zielen finden Sie unter [Ziele](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html) in der Produktdokumentation.
+Weitere Informationen zu Zielen finden Sie unter [Ziele](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=de) in der Produktdokumentation.

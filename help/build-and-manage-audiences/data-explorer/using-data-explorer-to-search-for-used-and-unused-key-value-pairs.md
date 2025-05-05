@@ -26,4 +26,4 @@ Bei der täglichen Arbeit in der Audience Manager müssen Sie möglicherweise sc
 
 Um herauszufinden, ob ein Signal in eine Eigenschaft erzeugt wurde, müssen Sie nicht mehr eine BAAAM-Datei und auch den [!UICONTROL Unused Signals]-Bericht herunterladen. Jetzt können Sie einfach nach diesem Schlüssel/Wert-Paar in [!DNL Data Explorer], auch bekannt als [!UICONTROL Signals] App, in AAM suchen und Schlüssel/Wert-Paare finden, die in Eigenschaften enthalten sind und solche, die nicht in derselben Liste enthalten sind. Großartige Zeitersparnis!
 
-Weitere Informationen zu [!UICONTROL Data Explorer] finden Sie unter [Data Explorer - Übersicht, Vorteile und Anwendungsfälle](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).
+Weitere Informationen zu [!UICONTROL Data Explorer] finden Sie unter [Data Explorer - Übersicht, Vorteile und Anwendungsfälle](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=de)).

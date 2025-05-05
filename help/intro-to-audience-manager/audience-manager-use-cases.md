@@ -24,4 +24,4 @@ In diesem Video zeigen wir vier gängige Anwendungsfälle für Audience Manager 
 
 >[!VIDEO](https://video.tv.adobe.com/v/33975/?quality=12)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=de).

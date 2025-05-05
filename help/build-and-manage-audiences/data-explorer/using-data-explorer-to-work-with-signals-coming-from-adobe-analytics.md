@@ -28,4 +28,4 @@ Wahrscheinlich ist eine Ihrer Hauptdatenquellen, die in den Audience Manager gel
 
 [!UICONTROL Data Explorer] ist vorbereitet und bereit, Ihnen dabei zu helfen, zu sehen, was aus verschiedenen Report Suites eingeht. Wenn Sie [!DNL Analytics] Signale entdecken, die noch nicht in Eigenschaften verwendet werden, können Sie direkt auf den [!DNL Trait Builder] klicken und die Eigenschaften erstellen, um diese leistungsstarken Verhaltensdaten in Ihrer Segmentierung zu verwenden.
 
-Weitere Informationen zu [!DNL Data Explorer] finden Sie unter [Data Explorer - Übersicht, Vorteile und Anwendungsfälle](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en).
+Weitere Informationen zu [!DNL Data Explorer] finden Sie unter [Data Explorer - Übersicht, Vorteile und Anwendungsfälle](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=de).

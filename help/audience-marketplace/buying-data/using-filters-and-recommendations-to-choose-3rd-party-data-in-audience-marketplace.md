@@ -24,4 +24,4 @@ Dieses Video führt Sie durch die Filter- und Recommendations-Optionen im [!UICO
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=de).

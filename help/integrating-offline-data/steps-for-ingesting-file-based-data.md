@@ -26,4 +26,4 @@ In diesem Video erfahren Sie, welche Schritte Sie ausführen müssen, wenn Sie O
 
 Für ein Video zur Datenformatierung für eingehende Dateien klicken Sie auf [HIER](formatting-and-ingesting-file-based-data.md).
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=de).

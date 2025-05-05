@@ -23,4 +23,4 @@ In diesem Video erfahren Sie, wie Sie die aktualisierten Eigenschaftsempfehlunge
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=de).

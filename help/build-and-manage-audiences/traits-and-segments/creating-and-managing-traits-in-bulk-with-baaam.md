@@ -22,7 +22,7 @@ Beim Erstellen, Bearbeiten oder Löschen von Eigenschaften kann es ineffizient u
 
 >[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
 
-Weitere Informationen, auch zum Herunterladen des BAAAM-Arbeitsblatts, finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en#reference).
+Weitere Informationen, auch zum Herunterladen des BAAAM-Arbeitsblatts, finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=de#reference).
 
 >[!IMPORTANT]
 >

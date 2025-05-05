@@ -24,4 +24,4 @@ In diesem Video erfahren Sie, warum und wie Sie mit der `setCustomerIDs()` des E
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html?lang=de).
