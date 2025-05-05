@@ -20,7 +20,7 @@ Adobe bietet Ihnen die Möglichkeit, die Datenschutzentscheidungen Ihrer Benutze
 
 ## Erster Schritt: Machen Sie sich mit dem Experience Cloud-ID-Opt-in vertraut {#first-step-understand-ecid-s-opt-in}
 
-Um zu verstehen, wie Sie mit dem IAB TCF arbeiten, müssen Sie zunächst [!DNL Opt-in] Funktionalität verstehen, die Teil der Experience Cloud ID Service (ECID)-Bibliothek ist. Wenn Sie nicht mit der Funktionsweise des Opt-in vertraut sind, lesen Sie zunächst [diesen hilfreichen Artikel](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html). Lesen Sie auch die Dokumentation zum Opt-in [](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html). Kehren Sie nach der Bearbeitung der Ressourcen zu dieser Seite zurück und fahren Sie fort.
+Um zu verstehen, wie Sie mit dem IAB TCF arbeiten, müssen Sie zunächst [!DNL Opt-in] Funktionalität verstehen, die Teil der Experience Cloud ID Service (ECID)-Bibliothek ist. Wenn Sie nicht mit der Funktionsweise des Opt-in vertraut sind, lesen Sie zunächst [diesen hilfreichen Artikel](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html). Lesen Sie auch die Dokumentation zum Opt-in [&#128279;](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html). Kehren Sie nach der Bearbeitung der Ressourcen zu dieser Seite zurück und fahren Sie fort.
 
 ## Das Audience Manager-Plug-in für IAB TCF {#the-audience-manager-plug-in-for-iab-tcf}
 

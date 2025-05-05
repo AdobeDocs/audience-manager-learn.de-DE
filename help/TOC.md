@@ -45,7 +45,7 @@ ht-degree: 2%
 + Web-{#web-implementation}
    + DIL (Data Integration Library) {#dil}
       + [Aktualisierung auf DIL Version 8.0 (oder höher)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
-   + SSF-{#ssf} (Server-seitige Weiterleitung)
+   + SSF- (Server-seitige Weiterleitung){#ssf}
       + [Verwenden von Experience Platform-Tags zur Implementierung in Websites](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
       + [Migrieren der AAM-Implementierung Ihrer Site von Client-seitigem DIL zur Server-seitigen Weiterleitung](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [Migrieren vom Tracking-Server zur Server-seitigen Weiterleitung auf Report Suite-Ebene](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
@@ -108,7 +108,7 @@ ht-degree: 2%
       + [Ausschließen von Eigenschaften in algorithmischen (Lookalike-)Modellen](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
       + [ROAS durch Verwendung von algorithmischen (Lookalike-)Modellen erhöhen](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
       + [Verwenden von Lookalike-Modellen zur Erweiterung des ausverkauften Bestands aus Ihren First-Party-Daten](build-and-manage-audiences/algorithmic-models/using-look-alike-models-to-extend-sold-out-inventory-from-your-1st-party-data.md)
-   + {#profile-merge} der Profilzusammenführung
+   + der Profilzusammenführung{#profile-merge}
       + [Profilzusammenführungsrichtlinien](build-and-manage-audiences/profile-merge/profile-merge.md)
       + [Übersicht über die Regeln für die Profilzusammenführung](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)
       + [Beispiele für Profilzusammenführungsregeln und Anwendungsfälle](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)
@@ -122,7 +122,7 @@ ht-degree: 2%
       + [Interpretieren der Berichte zur Zielgruppenidentität](build-and-manage-audiences/profile-merge/interpret-audience-identity-reporting.md)
       + [Verstehen von geräteübergreifenden Metriken im Audience Manager](build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.md)
       + [Kundentipps - Holen Sie das Meiste aus den Profilzusammenführungsregeln](build-and-manage-audiences/profile-merge/customer-tips-getting-the-most-out-of-profile-merge-rules.md)
-+ {#data-activation} zur Datenaktivierung
++ zur Datenaktivierung{#data-activation}
    + Ziele - Grundlagen {#destinations-basics}
       + [Grundlegendes zu Audience Manager-Zieltypen](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
       + [Übereinstimmungsraten verstehen](data-activation/destinations-basics/understanding-match-rates.md)
