@@ -26,4 +26,4 @@ Eine der leistungsfähigsten Funktionen von Audience Manager ist die Möglichkei
 
 In vielen Fällen erstellen Sie Eigenschaften für integrierte Daten, bevor Sie die Daten tatsächlich integrieren. Es ist jedoch möglich, dass neue Schlüssel und Werte hinzugefügt werden und Sie nicht mehr alle Eigenschaften haben, die Sie zur Nutzung dieser großartigen Daten benötigen. Mit [!UICONTROL Data Explorer] können Sie schnell nach all Ihren integrierten Daten suchen und diese nach bestimmten [!UICONTROL Data Source] filtern oder sie sogar nach Schlüssel und/oder Wert filtern. Mit dieser Suche können Sie Ihre Daten effizient validieren.
 
-Weitere Informationen zu [!DNL Data Explorer] finden Sie unter [https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Weitere Informationen zu [!DNL Data Explorer] finden Sie unter [https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=de](https://experiencecloud.adobe.com/resources/help/de_DE/aam/data-explorer.html).

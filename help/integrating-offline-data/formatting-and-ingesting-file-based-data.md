@@ -26,4 +26,4 @@ Wenn Sie Erstanbieter in Audience Manager integrieren, um Kunden besser zu verst
 
 Ein Video zum Benennen und Importieren von Dateien finden Sie unter [HIER](steps-for-ingesting-file-based-data.md).
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=de&).

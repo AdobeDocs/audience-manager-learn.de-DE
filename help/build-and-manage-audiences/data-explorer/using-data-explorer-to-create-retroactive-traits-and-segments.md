@@ -26,4 +26,4 @@ In diesem Video wird gezeigt, wie rückwirkende Eigenschaften erstellt werden, z
 
 Bisher wurden bei der Erstellung von Eigenschaften nur Daten erfasst, wenn Sie fortfahren. Dies bedeutete, dass Sie viele Eigenschaften erstellen mussten, falls sie Traffic oder Daten erhielten. Jetzt können Sie warten, welche Schlüssel/Wert-Paare Daten erhalten, dann eine Eigenschaft erstellen und die Daten zu dieser Eigenschaft aufstocken. Dies spart Ihnen Zeit und Energie und hilft Ihnen auch, Ihre Eigenschaftstaxonomie eng zu halten, anstatt mehrere Eigenschaften zu haben, die keine Daten haben.
 
-Weitere Informationen zu [!DNL Data Explorer] finden Sie unter [Data Explorer - Übersicht, Vorteile und Anwendungsfälle](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Weitere Informationen zu [!DNL Data Explorer] finden Sie unter [Data Explorer - Übersicht, Vorteile und Anwendungsfälle](https://experiencecloud.adobe.com/resources/help/de_DE/aam/data-explorer.html).

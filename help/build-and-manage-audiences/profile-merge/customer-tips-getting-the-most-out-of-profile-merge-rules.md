@@ -28,4 +28,4 @@ Varun Kalra ist ein Berater für mehrere Lösungen, der in einem Adobe Solution 
 * Detailliertere Einblicke in einen Anwendungsfall für Targeting
 * Anwendungsfälle für verschiedene PMR-Einstellungen
 
-[Lesen Sie Varuns Tipps in der Experience League Community.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
+[Lesen Sie Varuns Tipps in der Experience League Community.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248?profile.language=de)

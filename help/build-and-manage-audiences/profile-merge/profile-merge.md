@@ -32,4 +32,4 @@ Sehen Sie sich die Videos und Tutorials zu Profilzusammenführungsfunktionen an,
 * [Interpretieren der Berichte zur Zielgruppenidentität](interpret-audience-identity-reporting.md)
 * [Verstehen von geräteübergreifenden Metriken in Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Diese Videos können in Verbindung mit der Dokumentation [Profilzusammenführungsregeln“ verwendet werden](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+Diese Videos können in Verbindung mit der Dokumentation [Profilzusammenführungsregeln“ verwendet werden](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=de)
