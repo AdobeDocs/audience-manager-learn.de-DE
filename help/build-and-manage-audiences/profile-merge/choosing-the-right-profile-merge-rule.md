@@ -22,4 +22,4 @@ ht-degree: 0%
 
 In diesem Video erfahren Sie mehr über drei der häufigsten Anwendungsfälle für [!UICONTROL Profile Merge Rules] und wie diese Ihre Marketing-Maßnahmen unterstützen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/37908/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326867/?quality=12&learn=on&captions=ger)

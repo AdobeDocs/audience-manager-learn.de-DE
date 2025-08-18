@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Eine der leistungsfähigsten Funktionen von Audience Manager ist die Möglichkeit, Offline-Daten zu integrieren und sie mit Ihren Online-Daten zu verknüpfen. In diesem Video erfahren Sie, wie Sie mit [!DNL Data Explorer] überprüfen können, ob Sie alle erforderlichen Eigenschaften erstellt haben, um diese integrierten Daten zu nutzen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25149/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330359/?quality=12&captions=ger)
 
 In vielen Fällen erstellen Sie Eigenschaften für integrierte Daten, bevor Sie die Daten tatsächlich integrieren. Es ist jedoch möglich, dass neue Schlüssel und Werte hinzugefügt werden und Sie nicht mehr alle Eigenschaften haben, die Sie zur Nutzung dieser großartigen Daten benötigen. Mit [!UICONTROL Data Explorer] können Sie schnell nach all Ihren integrierten Daten suchen und diese nach bestimmten [!UICONTROL Data Source] filtern oder sie sogar nach Schlüssel und/oder Wert filtern. Mit dieser Suche können Sie Ihre Daten effizient validieren.
 

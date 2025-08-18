@@ -22,4 +22,4 @@ ht-degree: 0%
 
 In diesem Video erfahren Sie mehr über den Unterschied zwischen Geräteprofilen und geräteübergreifenden Profilen und darüber, wo die Zahlen in der Benutzeroberfläche mit diesen verschiedenen Profiltypen übereinstimmen.
 
->[!VIDEO](https://video.tv.adobe.com/v/33445/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36761/?quality=12&captions=ger)

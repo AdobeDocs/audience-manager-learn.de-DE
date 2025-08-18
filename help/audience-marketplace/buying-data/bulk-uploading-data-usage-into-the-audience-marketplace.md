@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Wenn Sie Ihre Zweit- und Drittanbieterdatennutzung im [!UICONTROL Audience Marketplace] melden, verfügen Sie möglicherweise über genügend Einträge, um sicherzustellen, dass Sie dies nicht von Hand tun möchten. In diesem Video erfahren Sie, wie Sie das Tool für das Massen-Upload von Datennutzungsberichten verwenden. Mit diesem Tool können Sie Ihre Datennutzung einfach melden, auch wenn Sie viele Elemente aktualisieren müssen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33834/?quality=12&captions=ger)
 
 Zusätzlich zu diesem Tool für den Massen-Upload, mit dem Sie die Berichterstellung zur Datennutzung vereinfachen und Zeit sparen können, profitieren Kunden, die Zweit- oder Drittanbieterdaten von [!UICONTROL Audience Marketplace] erwerben, von einer verbesserten Kostenzuordnungsrichtlinie. Diese neue Richtlinie schreibt den Datenanbietern Kosten auf der Grundlage der eindeutigen Anzahl der Benutzenden von Eigenschaften in einem regelbasierten Segment zu, was zu mehr Transparenz und einer gerechteren Abrechnung der Nutzung führt.
 Weitere Informationen zum Abrechnungsalgorithmus finden Sie unter [Kostenzuordnung für CPM-Daten-Feeds](https://experiencecloud.adobe.com/resources/help/de_DE/aam/marketplace_cpm_billing.html) in der Produktdokumentation.

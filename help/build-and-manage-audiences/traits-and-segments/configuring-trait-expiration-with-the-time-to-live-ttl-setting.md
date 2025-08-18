@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Eine der Einstellungen beim Erstellen von Eigenschaften ist die Einstellung [!UICONTROL Time to Live] (TTL) , die ein Ende der Mitgliedschaft in der Eigenschaft bedeutet, wenn Sie sich nicht innerhalb des angegebenen Zeitraums erneut qualifizieren. In diesem Video wird gezeigt, wie diese Funktion angezeigt und festgelegt wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341336/?quality=12&learn=on&captions=ger)

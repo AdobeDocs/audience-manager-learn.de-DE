@@ -22,6 +22,6 @@ ht-degree: 0%
 
 In diesem Video erfahren Sie, warum und wie Sie mit der `setCustomerIDs()`-Methode des Experience Cloud ID-Service eine E-Mail-Adresse aufnehmen, hashen und als deklarierte ID verwenden können. Dadurch werden nicht nur die CRM-ID und die E-Mail-Adresse verknüpft, sondern auch mit der Adobe Audience Manager-UUID synchronisiert, z. B. die anonyme Geräte-ID. Diese gehashten E-Mail-Adressen können dann an personenbasierte Ziele gesendet werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30097/?quality=12&captions=ger)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html?lang=de).

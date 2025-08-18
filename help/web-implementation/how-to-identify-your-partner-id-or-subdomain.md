@@ -31,7 +31,7 @@ Wenn Sie lieber einfach hineinspringen und es finden möchten, ohne sich dieses 
 
 Wenn Sie es mit diesen Kurzverweisen nicht schnell finden können, ist das Video ein kurzer Zeitaufwand. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/25922/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40888/?quality=12&captions=ger)
 
 >[!IMPORTANT]
 >

@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Audience Manager bietet Self-Service-Funktionen in der Benutzeroberfläche, mit denen Kunden die IP-Verschleierung global oder nach Land aktivieren können. Dieses Video führt Sie durch die Einrichtung.
 
->[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/34968/?quality=9&captions=ger)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experiencecloud.adobe.com/resources/help/de_DE/aam/ip-obfuscation.html).

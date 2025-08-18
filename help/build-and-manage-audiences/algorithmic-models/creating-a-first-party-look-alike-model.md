@@ -22,7 +22,7 @@ ht-degree: 0%
 
 In diesem Video erfahren Sie, wie Sie ein Look-alike-Modell für Erstanbieter erstellen, sodass Sie mehr eigene Besucher finden können, die wie Ihre Konverter aussehen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328071/?quality=12&captions=ger)
 
 Anwendungsbeispiele hierfür sind:
 

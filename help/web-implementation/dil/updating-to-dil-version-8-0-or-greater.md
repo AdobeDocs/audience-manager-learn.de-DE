@@ -47,7 +47,7 @@ Wenn Sie eine dieser älteren Methoden zur Synchronisierung mit einer Kunden-ID 
 
 **Schnelltipp:** Sie zuvor eine der oben genannten Methoden verwendet haben, haben Sie auf den AAM-[!UICONTROL Data Source] mit der [!UICONTROL Data Source]-ID (auch „DPID“ genannt) verwiesen. Bei der Aktualisierung auf [!DNL setCustomerIDs] müssen Sie stattdessen das &quot;[!UICONTROL Data Source]&quot; des AAM-[!UICONTROL Integration Code] verwenden. Er verweist immer noch auf denselben [!UICONTROL Data Source], ist aber nur eine andere Kennung. Dies wird im folgenden Video gezeigt.
 
->[!VIDEO](https://video.tv.adobe.com/v/23873/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33835/?quality=12&captions=ger)
 
 In den folgenden Abschnitten werden die Schritte und Empfehlungen für die Aktualisierung auf DIL 8.0 auf Grundlage Ihrer Implementierungsmethode aufgeführt:
 
@@ -67,7 +67,7 @@ Grundlegende Schritte zum Aktualisieren auf DIL 8.0
 
 1. Veröffentlichen Sie die Änderungen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23874/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33829/?quality=12&captions=ger)
 
 ## Aktualisieren auf DIL 8.0 in Adobe DTM {#updating-to-dil-in-adobe-dtm}
 

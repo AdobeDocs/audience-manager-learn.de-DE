@@ -22,4 +22,4 @@ ht-degree: 0%
 
 In diesem Video erfahren Sie, wie Adobe Audience Manager funktioniert, indem Sie den Datenfluss in, durch und aus der Anwendung beschreiben.
 
->[!VIDEO](https://video.tv.adobe.com/v/33888/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37089/?quality=12&captions=ger)

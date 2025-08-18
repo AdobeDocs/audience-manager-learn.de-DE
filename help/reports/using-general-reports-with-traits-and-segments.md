@@ -22,4 +22,4 @@ ht-degree: 0%
 
 In diesem Video erfahren Sie, wie Sie mit den allgemeinen Berichten in Audience Manager Zahlen für Eigenschaften und Segmente abrufen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/328279/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340802/?quality=12&learn=on&captions=ger)
