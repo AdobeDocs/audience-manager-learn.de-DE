@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Tipps zum Auswählen der richtigen Datenquelle beim Erstellen eines neuen Segments in Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/327396/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/39293/?quality=12&learn=on)

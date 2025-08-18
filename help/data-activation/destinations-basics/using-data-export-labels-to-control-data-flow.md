@@ -1,6 +1,6 @@
 ---
 title: Verwenden von Datenexportbeschriftungen zur Steuerung des Datenflusses
-description: Erfahren Sie mehr über Datenexportbeschriftungen in Audience Manager. Mit diesen erhalten Sie im Audience Manager einen Mechanismus, mit dem Sie den Fluss verschiedener Datentypen/Quellen steuern können, sodass Sie Ihre Datenschutzanforderungen erfüllen können. Erfahren Sie, wie und wo Sie Datenexportsteuerelemente und Datenexportbeschriftungen festlegen, um gemeinsam zu diesem Zweck zu arbeiten.
+description: Erfahren Sie mehr über Datenexportbeschriftungen in Audience Manager. Auf diese Weise können Sie in Audience Manager den Fluss verschiedener Datentypen/-quellen steuern, sodass Sie Ihre Datenschutzanforderungen erfüllen können. Erfahren Sie, wie und wo Sie Datenexportsteuerelemente und Datenexportbeschriftungen festlegen, um gemeinsam zu diesem Zweck zu arbeiten.
 feature: Data Export Controls
 topics: null
 activity: setup
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Verwenden von [!UICONTROL Data Export Labels] zur Steuerung des Datenflusses
 
-[!UICONTROL Data Export Labels] bieten Ihnen einen Mechanismus im Audience Manager zur Steuerung des Flusses verschiedener Datentypen/Quellen, damit Sie Ihre Datenschutzanforderungen erfüllen können. Erfahren Sie, wie und wo Sie [!UICONTROL Data Export Controls] und [!UICONTROL Data Export Labels] festlegen können, um zu diesem Zweck zusammenzuarbeiten.
+[!UICONTROL Data Export Labels] erhalten Sie in Audience Manager einen Mechanismus, mit dem Sie den Fluss verschiedener Datentypen/Quellen steuern können, sodass Sie Ihre Datenschutzanforderungen erfüllen können. Erfahren Sie, wie und wo Sie [!UICONTROL Data Export Controls] und [!UICONTROL Data Export Labels] festlegen können, um zu diesem Zweck zusammenzuarbeiten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330322/?quality=12&learn=on)

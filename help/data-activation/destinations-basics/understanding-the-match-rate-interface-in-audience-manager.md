@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Dieses Video führt Sie durch die [!UICONTROL Destination], zeigt und erklärt die Zahlen, die mit Übereinstimmungsraten und adressierbaren Zielgruppen verbunden sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/343544/?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-Weitere Informationen finden Sie unter [Adressierbare Zielgruppen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=de) in der Produktdokumentation.
+Weitere Informationen finden Sie unter [Adressierbare Zielgruppen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html) in der Produktdokumentation.

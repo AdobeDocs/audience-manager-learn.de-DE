@@ -22,10 +22,10 @@ ht-degree: 0%
 
 **Varun Kalra**, Multi-Solution Consultant bei **Accordant**, gibt Tipps zur Auswahl und Verwendung von Profilzusammenführungsregeln (PMRs).
 
-Varun Kalra ist ein Berater für mehrere Lösungen, der in Sydney als Adobe-Lösungspartner arbeitet - Accord. Varun arbeitet hauptsächlich an Audience Manager-, Adobe Analytics- und AEP-Projekten, die Datenerkennung, Implementierung, Unterstützung und Aktivierung beinhalten. Die Tipps umfassen Themen wie:
+Varun Kalra ist ein Berater für mehrere Lösungen, der in einem Adobe Solution Partner - Accordant mit Sitz in Sydney arbeitet. Varun arbeitet hauptsächlich an Audience Manager-, Adobe Analytics- und AEP-Projekten, die Datenerkennung, Implementierung, Support und Aktivierung beinhalten. Die Tipps umfassen Themen wie:
 
 * Identifizieren von Kampagnenzielen für die PMR-Konfiguration
 * Detailliertere Einblicke in einen Anwendungsfall für Targeting
 * Anwendungsfälle für verschiedene PMR-Einstellungen
 
-[Lesen Sie Varuns Tipps in der Experience League-Community.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248?profile.language=de)
+[Lesen Sie Varuns Tipps in der Experience League Community.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)

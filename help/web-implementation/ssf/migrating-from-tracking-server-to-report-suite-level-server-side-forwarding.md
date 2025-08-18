@@ -1,6 +1,6 @@
 ---
 title: Migrieren vom Tracking-Server zur Server-seitigen Weiterleitung auf Report Suite-Ebene
-description: Erfahren Sie, wie Sie die Server-seitige Weiterleitung von Adobe Analytics-Daten an Audience Manager auf einer Report Suite-Ebene anstelle einer Tracking-Server-Ebene aktivieren.
+description: Erfahren Sie, wie Sie die Server-seitige Weiterleitung von Adobe Analytics-Daten an Audience Manager auf einer Report Suite-Ebene statt auf einer Tracking-Server-Ebene aktivieren.
 product: audience manager
 feature: Adobe Analytics Integration
 topics: null
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # Migrieren vom Tracking-Server zur Server-seitigen Weiterleitung auf Report Suite-Ebene {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}
 
-In diesem Artikel und in diesem Video erfahren Sie, wie Sie die Server-seitige Weiterleitung [!DNL Analytics] Daten an den Audience Manager auf einer [!UICONTROL report suite] statt auf einer [!UICONTROL tracking server] Ebene aktivieren.
+In diesem Artikel und in diesem Video erfahren Sie, wie Sie die Server-seitige Weiterleitung [!DNL Analytics] Daten an Audience Manager auf einer [!UICONTROL report suite] statt auf einer [!UICONTROL tracking server] Ebene aktivieren.
 
 ## Einführung {#introduction}
 
-Wenn Sie über Adobe Audience Manager UND Adobe Analytics verfügen, können Sie die Server-seitige Weiterleitung der [!DNL Analytics] an den Audience Manager implementieren. Das bedeutet, dass Ihre Seite nicht zwei Treffer (einen an [!DNL Analytics] und einen an den Audience Manager), sondern einen Treffer an [!DNL Analytics] senden kann, und [!DNL Analytics] leitet diese Daten an den Audience Manager weiter.
+Wenn Sie über Adobe Audience Manager UND Adobe Analytics verfügen, können Sie eine Server-seitige Weiterleitung der [!DNL Analytics] an Audience Manager implementieren. Das bedeutet, dass Ihre Seite nicht zwei Treffer (einen an [!DNL Analytics] und einen an Audience Manager), sondern einen Treffer an [!DNL Analytics] senden kann, und [!DNL Analytics] leitet diese Daten an Audience Manager weiter.
 
 Wenn Sie diesen bereits eingerichtet haben und er vor Oktober 2017 aktiviert/implementiert wurde, basiert Ihre Server-seitige Weiterleitung möglicherweise auf Ihrer [!UICONTROL Tracking Server], die von der Adobe-Kundenunterstützung oder Adobe Consulting aktiviert werden musste. Seit Oktober 2017 können Sie die Server-seitige Weiterleitung jetzt selbst konfigurieren und auf Report Suite-Ebene durchführen (Weiterleitung pro Report Suite). Dies hat erhebliche Vorteile, die im Folgenden erläutert werden.
 
@@ -34,13 +34,13 @@ Ihr [!UICONTROL tracking server] ist der Ort, an den Sie Ihre [!DNL Analytics] s
 
 `s.trackingServer = "mysite.sc.omtrdc.net";`
 
-Wenn die Server-seitige Weiterleitung für die Weiterleitung auf [!UICONTROL tracking server]-Ebene eingerichtet ist, wird jeder Treffer, der an diese [!UICONTROL tracking server] gesendet wird (wenn auch der Experience Cloud-ID-Dienst aktiviert ist), an den Audience Manager weitergeleitet. Dies musste durch die Adobe-Kundenunterstützung oder Adobe Consulting aktiviert werden. Sie sind auch diejenigen, die es deaktivieren können, NACHDEM Sie wie unten beschrieben zur [!UICONTROL report suite]-Weiterleitung gewechselt haben.
+Wenn die Server-seitige Weiterleitung für die Weiterleitung auf [!UICONTROL tracking server] eingerichtet ist, wird jeder Treffer, der an diese [!UICONTROL tracking server] gesendet wird (sofern der Experience Cloud ID-Service ebenfalls aktiviert ist) an Audience Manager weitergeleitet. Dies musste durch die Adobe-Kundenunterstützung oder Adobe Consulting aktiviert werden. Sie sind auch diejenigen, die es deaktivieren können, NACHDEM Sie wie unten beschrieben zur [!UICONTROL report suite]-Weiterleitung gewechselt haben.
 
-Wenn Sie sich nicht sicher sind, ob [!DNL tracking server forwarding] für Sie aktiviert ist, wenden Sie sich an die Kundenunterstützung von Adobe oder Adobe Consulting. Die Mitarbeiter sollten Ihnen in der Lage sein, dies mitzuteilen.
+Wenn Sie sich nicht sicher sind, ob [!DNL tracking server forwarding] für Sie aktiviert ist, wenden Sie sich an die Adobe-Kundenunterstützung oder Adobe Consulting. Die Mitarbeiter sollten Ihnen in der Lage sein, dies mitzuteilen.
 
 ## Server-seitige Weiterleitung auf [!UICONTROL Report-suite] {#report-suite-level-server-side-forwarding}
 
-Einer der größten Vorteile beim Übergang von der [!UICONTROL tracking server] zur [!UICONTROL report suite] besteht darin, dass Sie jetzt &quot;Audience Analytics&quot; verwenden können, d. h. die Möglichkeit, Audience Manager-[!UICONTROL segments] zur detaillierten Segmentanalyse zurück an Adobe Analytics weiterzuleiten. Diese großartige Funktion wird NICHT unterstützt, wenn Sie sich noch in der [!UICONTROL tracking server] und nicht in der [!UICONTROL report suite] befinden. Weitere Informationen zum Audience Analytics finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=de).
+Einer der größten Vorteile beim Übergang von der [!UICONTROL report suite] zur [!UICONTROL tracking server] besteht darin, dass Sie jetzt &quot;Audience Analytics&quot; verwenden können. Damit können Sie Audience Manager-[!UICONTROL segments] zur detaillierten Segmentanalyse zurück an Adobe Analytics weiterleiten. Diese großartige Funktion wird NICHT unterstützt, wenn Sie sich noch in der [!UICONTROL tracking server] und nicht in der [!UICONTROL report suite] befinden. Weitere Informationen zu Audience Analytics finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

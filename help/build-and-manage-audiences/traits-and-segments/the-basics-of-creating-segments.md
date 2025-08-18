@@ -1,6 +1,6 @@
 ---
 title: Grundlagen zum Erstellen von Segmenten
-description: Durchlaufen Sie die Felder in der Benutzeroberfläche, um ein Segment im Audience Manager zu erstellen.
+description: Durchlaufen Sie die Felder in der Benutzeroberfläche, um ein Segment in Audience Manager zu erstellen.
 feature: Segments
 topics: null
 activity: use
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # Grundlagen zum Erstellen von Segmenten
 
-Durchlaufen Sie die Felder in der Benutzeroberfläche, um ein Segment im Audience Manager zu erstellen.
+Durchlaufen Sie die Felder in der Benutzeroberfläche, um ein Segment in Audience Manager zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/326725/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
 
-Weitere Informationen zu Segmenten finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=de).
+Weitere Informationen zu Segmenten finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html).

@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zur Zugriffssteuerung in Real-Time CDP für Audience Manager-Benutzer
-description: Beim Wechsel vom Audience Manager zu Real-time Customer Data Platform sollten Sie wissen, wo die Benutzer- und Gruppenberechtigungen festgelegt sind. In diesem Video wird gezeigt, wie die Zugriffssteuerung jetzt in Adobe Admin Console ausgeführt wird.
+title: Grundlegendes zur Zugriffssteuerung in Real-Time CDP für Benutzende von Audience Manager
+description: Beim Wechsel von Audience Manager zu Real-time Customer Data Platform sollten Sie wissen, wo Benutzer- und Gruppenberechtigungen festgelegt sind. In diesem Video wird gezeigt, wie die Zugriffssteuerung jetzt in Adobe Admin Console ausgeführt wird.
 feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,9 +16,9 @@ ht-degree: 1%
 
 ---
 
-# Grundlegendes zur Zugriffssteuerung in Real-Time CDP für Audience Manager-Benutzer
+# Grundlegendes zur Zugriffssteuerung in Real-Time CDP für Benutzende von Audience Manager
 
-Beim Wechsel vom Audience Manager zu Real-time Customer Data Platform sollten Sie wissen, wo die Benutzer- und Gruppenberechtigungen festgelegt sind. In diesem Video wird gezeigt, wie die Zugriffssteuerung jetzt in Adobe Admin Console ausgeführt wird.
+Beim Wechsel von Audience Manager zu Real-time Customer Data Platform sollten Sie wissen, wo Benutzer- und Gruppenberechtigungen festgelegt sind. In diesem Video wird gezeigt, wie die Zugriffssteuerung jetzt in Adobe Admin Console ausgeführt wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332091/?quality=12&learn=on)
 
@@ -26,5 +26,5 @@ Beim Wechsel vom Audience Manager zu Real-time Customer Data Platform sollten Si
 
 Im Folgenden finden Sie vorhandene Ressourcen, die Ihnen dabei helfen, mehr über Real-time Customer Data Platform zu erfahren.
 
-* [Zugriffskontrolle - Übersicht](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=de#access-control-hierarchy-and-workflow)
-* [Berechtigungen konfigurieren](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/configure-permissions.html?lang=de)
+* [Zugriffskontrolle - Übersicht](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=en#access-control-hierarchy-and-workflow)
+* [Berechtigungen konfigurieren](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/configure-permissions.html?lang=en)

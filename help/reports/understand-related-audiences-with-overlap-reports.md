@@ -24,4 +24,4 @@ Mit Überschneidungsberichten können Sie sehen, wie sich Eigenschaften und Segm
 
 >[!VIDEO](https://video.tv.adobe.com/v/330432/?quality=12&learn=on)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html?lang=de#reporting).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html#reporting).

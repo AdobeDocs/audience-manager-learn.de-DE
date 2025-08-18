@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zu Schemas und XDM in Real-Time CDP für Audience Manager-Benutzer
-description: Wenn Sie von Audience Manager zu Real-time Customer Data Platform (Real-Time CDP) wechseln, werden Sie auf einige neue Konzepte und Verfahren stoßen. Schemata und XDM fallen in diese Kategorie. In diesem Video werden diese Konzepte erläutert.
+title: Grundlegendes zu Schemas und XDM in Real-Time CDP für Benutzende von Audience Manager
+description: Wenn Sie von Audience Manager zu Real-time Customer Data Platform (Real-time CDP) wechseln, werden Sie auf einige neue Konzepte und Verfahren stoßen. Schemata und XDM fallen in diese Kategorie. In diesem Video werden diese Konzepte erläutert.
 feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,16 +16,16 @@ ht-degree: 1%
 
 ---
 
-# Grundlegendes zu Schemas und XDM in Real-Time CDP für Audience Manager-Benutzer
+# Grundlegendes zu Schemas und XDM in Real-Time CDP für Benutzende von Audience Manager
 
-Wenn Sie von Audience Manager zu Real-time Customer Data Platform (Real-Time CDP) wechseln, werden Sie auf einige neue Konzepte und Verfahren stoßen. Schemata und XDM fallen in diese Kategorie. In diesem Video werden diese Konzepte erläutert.
+Wenn Sie von Audience Manager zu Real-time Customer Data Platform (Real-time CDP) wechseln, werden Sie auf einige neue Konzepte und Verfahren stoßen. Schemata und XDM fallen in diese Kategorie. In diesem Video werden diese Konzepte erläutert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332023/?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-Im Folgenden finden Sie einige Videos und Tutorials, die Ihnen dabei helfen, mehr über Real-time Customer Data Platform zu erfahren. Sehen Sie sich weitere Videos und Tutorials rund um diese an, um mehr über Platform zu erfahren.
+Im Folgenden finden Sie einige vorhandene Videos und Tutorials, die Ihnen dabei helfen können, mehr über Real-time Customer Data Platform zu erfahren. Sehen Sie sich weitere Videos und Tutorials rund um diese an, um mehr über Platform zu erfahren.
 
-* [Grundlegendes zum XDM-System und Experience-Datenmodell](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html?lang=de)
-* [Schemata erstellen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html?lang=de)
-* [Erstellen eines Schemas mit dem Schema-Editor](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=de#getting-started)
+* [Grundlegendes zum XDM-System und Experience-Datenmodell](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
+* [Schemata erstellen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
+* [Erstellen eines Schemas mit dem Schema-Editor](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)

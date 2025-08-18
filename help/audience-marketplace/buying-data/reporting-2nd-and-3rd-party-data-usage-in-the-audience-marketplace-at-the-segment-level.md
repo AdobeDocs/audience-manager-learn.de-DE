@@ -1,6 +1,6 @@
 ---
-title: Reporting zur Datennutzung von Zweit- und Drittanbietern beim Audience Marketplace auf Segmentebene
-description: In diesem Video wird eine neue Methode zur Datennutzungsberichterstattung im Abschnitt „Kreditoren“ der Audience Marketplace-Benutzeroberfläche gezeigt. Zusätzlich zum vorhandenen Prozess des Reportings auf Feed-Ebene können jetzt monatliche Impressions auf Segmentebene übermittelt werden, wodurch die Notwendigkeit von Offline-Berechnungen für die Kostenzuordnung entfällt.
+title: Reporting zur Datennutzung von 2- und 3-Parteien in Audience Marketplace auf Segmentebene
+description: Dieses Video zeigt eine neue Methode zur Datennutzungsberichterstattung im Kreditoren-Abschnitt der Audience Marketplace-Benutzeroberfläche. Zusätzlich zum vorhandenen Prozess des Reportings auf Feed-Ebene können jetzt monatliche Impressions auf Segmentebene übermittelt werden, wodurch die Notwendigkeit von Offline-Berechnungen für die Kostenzuordnung entfällt.
 feature: Audience Marketplace
 topics: null
 activity: use
@@ -26,6 +26,6 @@ Dieses Video zeigt eine neue Methode zum Reporting der Datennutzung im [!UICONTR
 
 Diese Version bietet mehr Flexibilität und einen verbesserten Workflow für die Datennutzung von Zweitanbietern und Drittanbietern, der es Kunden ermöglicht, über die Benutzeroberfläche oder die Funktion zum Massen-Upload über Impressionen auf Segmentebene zu berichten.
 
-Darüber hinaus profitieren Kunden, die Daten von Zweitanbietern oder Drittanbietern von [!UICONTROL Audience Marketplace] erwerben, von einer verbesserten Kostenzuordnungsrichtlinie. Diese neue Richtlinie schreibt den Datenanbietern Kosten auf der Grundlage der eindeutigen Anzahl der Benutzenden von Eigenschaften in einem regelbasierten Segment zu, was zu mehr Transparenz und einer gerechteren Abrechnung der Nutzung führt. Weitere Informationen zum Abrechnungsalgorithmus finden Sie unter [Kostenzuordnung für CPM-Daten-Feeds](https://experiencecloud.adobe.com/resources/help/de_DE/aam/marketplace_cpm_billing.html) in der Produktdokumentation.
+Darüber hinaus profitieren Kunden, die Daten von Zweitanbietern oder Drittanbietern von [!UICONTROL Audience Marketplace] erwerben, von einer verbesserten Kostenzuordnungsrichtlinie. Diese neue Richtlinie schreibt den Datenanbietern Kosten auf der Grundlage der eindeutigen Anzahl der Benutzenden von Eigenschaften in einem regelbasierten Segment zu, was zu mehr Transparenz und einer gerechteren Abrechnung der Nutzung führt. Weitere Informationen zum Abrechnungsalgorithmus finden Sie unter [Kostenzuordnung für CPM-Daten-Feeds](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html) in der Produktdokumentation.
 
-Weitere Informationen zur Berichterstellung zur Nutzung von CPM finden Sie unter [So melden Sie die Nutzung von CPM](https://experiencecloud.adobe.com/resources/help/de_DE/aam/t_marketplace_report_cpm_usage.html) in der Produktdokumentation.
+Weitere Informationen zur Berichterstellung zur Nutzung von CPM finden Sie unter [So melden Sie die Nutzung von CPM](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html) in der Produktdokumentation.

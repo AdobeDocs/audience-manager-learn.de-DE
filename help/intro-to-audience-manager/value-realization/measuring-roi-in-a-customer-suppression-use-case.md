@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Wer den Pfennig nicht ehrt, ist ein Pfennig. Stimmt&#39;s? Erfahren Sie, wie Sie mit verschiedenen Formeln die Einsparungen bei den Kampagnenkosten ermitteln können, indem Sie Anzeigen an Bestandskunden unterdrücken.
 
->[!VIDEO](https://video.tv.adobe.com/v/41298/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/36654/?quality=12&learn=on)

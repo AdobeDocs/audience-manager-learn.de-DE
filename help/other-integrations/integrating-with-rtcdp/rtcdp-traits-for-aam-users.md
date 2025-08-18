@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zu Eigenschaften in Real-Time CDP für Audience Manager-Benutzer
-description: Wenn Sie von Audience Manager zu Real-time Customer Data Platform wechseln, ist es hilfreich, die Unterschiede in den Konzepten zu verstehen. In diesem Video werden Eigenschaften im Audience Manager und das Äquivalent in Real-Time CDP behandelt.
+title: Grundlegendes zu Eigenschaften in Real-Time CDP für Benutzende von Audience Manager
+description: Wenn Sie von Audience Manager zu Real-time Customer Data Platform wechseln, ist es hilfreich, die Unterschiede in den Konzepten zu verstehen. In diesem Video werden Eigenschaften in Audience Manager und das Äquivalent in Real-Time CDP behandelt.
 feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,16 +16,16 @@ ht-degree: 1%
 
 ---
 
-# Grundlegendes zu Eigenschaften in Real-Time CDP für Audience Manager-Benutzer
+# Grundlegendes zu Eigenschaften in Real-Time CDP für Benutzende von Audience Manager
 
-Wenn Sie von Audience Manager zu Real-time Customer Data Platform wechseln, ist es hilfreich, die Unterschiede in den Konzepten zu verstehen. In diesem Video werden Eigenschaften im Audience Manager und das Äquivalent in Real-Time CDP behandelt.
+Wenn Sie von Audience Manager zu Real-time Customer Data Platform wechseln, ist es hilfreich, die Unterschiede in den Konzepten zu verstehen. In diesem Video werden Eigenschaften in Audience Manager und das Äquivalent in Real-Time CDP behandelt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331900/?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-Im Folgenden finden Sie einige Videos und Tutorials, die Ihnen dabei helfen, mehr über Real-time Customer Data Platform zu erfahren. Sehen Sie sich weitere Videos und Tutorials rund um diese an, um mehr über Platform zu erfahren.
+Im Folgenden finden Sie einige vorhandene Videos und Tutorials, die Ihnen dabei helfen können, mehr über Real-time Customer Data Platform zu erfahren. Sehen Sie sich weitere Videos und Tutorials rund um diese an, um mehr über Platform zu erfahren.
 
-* [Erstellen eines Schemas mit dem Schema-Editor](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=de#getting-started)
-* [Erstellen von Datensätzen und Aufnehmen von Daten](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=de#data-ingestion)
-* [Segmente erstellen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=de#segments)
+* [Erstellen eines Schemas mit dem Schema-Editor](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [Erstellen von Datensätzen und Aufnehmen von Daten](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=en#data-ingestion)
+* [Segmente erstellen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)

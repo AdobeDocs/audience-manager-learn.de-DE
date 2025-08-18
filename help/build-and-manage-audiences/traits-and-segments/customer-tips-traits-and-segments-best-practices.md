@@ -28,4 +28,4 @@ Matt Vittorioso ist Senior Marketing Specialist im Digital Marketing Team von Al
 * Verwenden von vorkonfigurierten Funktionen
 * Regelmäßiges Überprüfen von Eigenschaften und Segmenten
 
-[Lesen Sie Matts Tipps in der Experience League-Community.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729?profile.language=de)
+[Lesen Sie Matts Tipps in der Experience League Community.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)

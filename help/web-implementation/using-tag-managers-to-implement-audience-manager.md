@@ -25,7 +25,7 @@ Die folgenden Anwendungsfälle sind hervorgehoben:
 
 * Implementieren über Adobe Experience Platform-Tags (früher Launch) auch bei Verwendung von Adobe Analytics
 * Implementierung über Adobe Experience Platform-Tags, wenn Adobe Analytics nicht verwendet wird
-* Implementierung über einen Nicht-Adobe-Tag-Manager bei Verwendung von Adobe Analytics
-* Implementierung über einen Nicht-Adobe-Tag-Manager bei Nichtverwendung von Adobe Analytics
+* Implementieren von über einen Tag-Manager, der nicht Adobe ist, wenn Adobe Analytics verwendet wird
+* Implementieren über einen Tag-Manager, der nicht Adobe ist, wenn Adobe Analytics nicht verwendet wird
 
->[!VIDEO](https://video.tv.adobe.com/v/32944/?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)

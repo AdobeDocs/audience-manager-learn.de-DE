@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Verwenden Sie [!UICONTROL Profile Merge Rules], um die Reichweite auf alle Geräte eines Benutzers auszudehnen, sodass Sie Personen und nicht Geräte vermarkten können.
 
->[!VIDEO](https://video.tv.adobe.com/v/40023/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)

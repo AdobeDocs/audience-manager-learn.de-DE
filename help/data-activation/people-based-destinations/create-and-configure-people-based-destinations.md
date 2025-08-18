@@ -22,4 +22,4 @@ ht-degree: 0%
 
 In diesem Video erhalten Sie zunächst einige Informationen zu den Voraussetzungen für die Erstellung Ihres personenbasierten Ziels und anschließend auch Informationen zur Konfiguration eines integrierten Kontos (Link zum Partner, z. B. [!DNL Facebook]). Anschließend werden Sie durch die produktinterne Einrichtung des Ziels selbst geführt.
 
->[!VIDEO](https://video.tv.adobe.com/v/32710/?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)

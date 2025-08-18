@@ -1,6 +1,6 @@
 ---
 title: So nehmen Sie dateibasierte Daten auf
-description: In diesem Video erfahren Sie, welche Schritte Sie ausführen müssen, wenn Sie Offline-Daten in den Audience Manager integrieren, einschließlich der Dateinamenanforderungen für die Datendatei.
+description: In diesem Video erfahren Sie, wie Sie Offline-Daten in Audience Manager integrieren, einschließlich der Dateinamenanforderungen für die Datendatei.
 feature: Onboarding Offline Data
 topics: null
 activity: use
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # Schritte für die Aufnahme dateibasierter Daten
 
-In diesem Video erfahren Sie, welche Schritte Sie ausführen müssen, wenn Sie Offline-Daten in den Audience Manager integrieren, einschließlich der Dateinamenanforderungen für die Datendatei.
+In diesem Video erfahren Sie, wie Sie Offline-Daten in Audience Manager integrieren, einschließlich der Dateinamenanforderungen für die Datendatei.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
 
 Für ein Video zur Datenformatierung für eingehende Dateien klicken Sie auf [HIER](formatting-and-ingesting-file-based-data.md).
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=de).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).

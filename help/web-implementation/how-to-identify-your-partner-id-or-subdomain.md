@@ -1,6 +1,6 @@
 ---
 title: So identifizieren Sie Ihre Partner-ID oder Subdomain
-description: Erfahren Sie, wie Sie Ihre Partner-ID oder Subdomain identifizieren, wenn Sie einige Experience Cloud-Funktionen implementieren, und an zwei Stellen, an denen Sie diese ID in der Audience Manager-Benutzeroberfläche erhalten.
+description: Erfahren Sie, wie Sie Ihre Partner-ID oder Subdomain identifizieren, wenn Sie einige Experience Cloud-Funktionen implementieren, und an zwei Stellen können Sie diese ID in der Audience Manager-Benutzeroberfläche erhalten.
 feature: Implementation Basics
 topics: null
 activity: implement
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Identifizieren der Audience Manager-Subdomain {#how-to-identify-your-audience-manager-partner-id-or-subdomain}
 
-Wenn Sie einige Experience Cloud-Funktionen implementieren, müssen Sie wissen, was Ihr Audience Manager-`Subdomain` ist (manchmal auch als Ihr `client ID` oder `Partner ID` bezeichnet). In diesem Video zeigen wir Ihnen zwei Stellen, an denen Sie diese Informationen in der Audience Manager-Benutzeroberfläche erhalten.
+Bei der Implementierung einiger Experience Cloud-Funktionen müssen Sie wissen, was Ihr Audience Manager-`Subdomain` ist (manchmal auch als Ihr `client ID` oder `Partner ID` bezeichnet). In diesem Video zeigen wir Ihnen zwei Orte, an denen Sie diese Informationen in der Audience Manager-Benutzeroberfläche erhalten.
 
 ## Das Ende verraten… {#giving-away-the-ending}
 
@@ -31,7 +31,7 @@ Wenn Sie lieber einfach hineinspringen und es finden möchten, ohne sich dieses 
 
 Wenn Sie es mit diesen Kurzverweisen nicht schnell finden können, ist das Video ein kurzer Zeitaufwand. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/40888/?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/25922/?quality=12)
 
 >[!IMPORTANT]
 >

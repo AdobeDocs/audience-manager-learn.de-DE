@@ -1,6 +1,6 @@
 ---
 title: setCustomerIDs() verwenden, um personenbezogene Daten als deklarierte ID aufzunehmen und zu hashen
-description: Erfahren Sie mehr über die Methode setCustomerIDs() des Experience Cloud-ID-Service zum Aufnehmen und Hashen einer E-Mail-Adresse. Erfahren Sie, wie Sie sie als deklarierte ID verwenden.
+description: Erfahren Sie mehr über die Methode setCustomerIDs() des Experience Cloud ID-Service zum Aufnehmen und Hashen einer E-Mail-Adresse. Erfahren Sie, wie Sie sie als deklarierte ID verwenden.
 feature: People-based Destinations
 topics: null
 activity: implement
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # setCustomerIDs() verwenden, um personenbezogene Daten als deklarierte ID aufzunehmen und zu hashen
 
-In diesem Video erfahren Sie, warum und wie Sie mit der `setCustomerIDs()` des Experience Cloud-ID-Service eine E-Mail-Adresse aufnehmen, hashen und als deklarierte ID verwenden können. Dadurch werden nicht nur die CRM-ID und die E-Mail-Adresse verknüpft, sondern auch mit der Adobe Audience Manager-UUID synchronisiert, z. B. die anonyme Geräte-ID. Diese gehashten E-Mail-Adressen können dann an personenbasierte Ziele gesendet werden.
+In diesem Video erfahren Sie, warum und wie Sie mit der `setCustomerIDs()`-Methode des Experience Cloud ID-Service eine E-Mail-Adresse aufnehmen, hashen und als deklarierte ID verwenden können. Dadurch werden nicht nur die CRM-ID und die E-Mail-Adresse verknüpft, sondern auch mit der Adobe Audience Manager-UUID synchronisiert, z. B. die anonyme Geräte-ID. Diese gehashten E-Mail-Adressen können dann an personenbasierte Ziele gesendet werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/30097/?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html?lang=de).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html).

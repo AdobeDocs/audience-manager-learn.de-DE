@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Bei der Erstellung von Marketing-Kampagnen, insbesondere von Kampagnen mit Reichweitenerweiterung/Zielgruppenerweiterung, sollten Sie Ihre aktuellen Kunden ausschließen, damit Sie sie auf andere Weise vermarkten können. In diesem Video werden Optionen zum Erstellen von Segmenten erläutert, um diejenigen auszuschließen, die bereits zum Kundenstatus konvertiert sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/41312/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/36494/?quality=12&learn=on)

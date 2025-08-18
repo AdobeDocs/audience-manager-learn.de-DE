@@ -1,6 +1,6 @@
 ---
 title: Audience Manager - Überblick über eine DMP
-description: Machen Sie sich mit den wichtigsten Herausforderungen bei der kanalübergreifenden Personalisierung vertraut und erfahren Sie, wie Adobe Audience Manager den Kunden-Journey unterstützt. Erfahren Sie außerdem, welche Datentypen in der Audience Manager integriert werden können, und identifizieren Sie die Ad-Tech-Ökosystempartner, die in Audience Manager integriert sind.
+description: Machen Sie sich mit den wichtigsten Herausforderungen bei der kanalübergreifenden Personalisierung vertraut und erfahren Sie, wie Adobe Audience Manager den Kunden-Journey unterstützt. Erfahren Sie außerdem, welche Datentypen in Audience Manager integriert werden können, und identifizieren Sie die in Audience Manager integrierten Ad-Tech-Ökosystempartner.
 feature: Overview
 topics: null
 activity: understand
@@ -21,8 +21,8 @@ ht-degree: 0%
 
 # Audience Manager - Überblick über eine DMP
 
-Machen Sie sich mit den wichtigsten Herausforderungen bei der kanalübergreifenden Personalisierung vertraut und erfahren Sie, wie Adobe Audience Manager den Kunden-Journey unterstützt. Erfahren Sie außerdem, welche Datentypen in der Audience Manager integriert werden können, und identifizieren Sie die Ad-Tech-Ökosystempartner, die in Audience Manager integriert sind.
+Machen Sie sich mit den wichtigsten Herausforderungen bei der kanalübergreifenden Personalisierung vertraut und erfahren Sie, wie Adobe Audience Manager den Kunden-Journey unterstützt. Erfahren Sie außerdem, welche Datentypen in Audience Manager integriert werden können, und identifizieren Sie die in Audience Manager integrierten Ad-Tech-Ökosystempartner.
 
->[!VIDEO](https://video.tv.adobe.com/v/37088/?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=de).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html).

@@ -1,6 +1,6 @@
 ---
 title: Importieren von Segmenten aus Adobe Analytics in Audience Manager
-description: Sie können Echtzeitdaten nicht nur aus Adobe Analytics in Audience Manager weiterleiten, sondern auch Segmente, die nachverarbeitete Daten aus Analytics enthalten, über den Experience Cloud in Audience Manager importieren. Dies ist eine leistungsstarke Funktion, mit der sich kein anderer DMP rühmen kann.
+description: Sie können Echtzeitdaten nicht nur aus Adobe Analytics an Audience Manager weiterleiten, sondern auch Segmente importieren, die nachverarbeitete Daten aus Analytics über Experience Cloud an Audience Manager enthalten. Dies ist eine leistungsstarke Funktion, mit der sich kein anderer DMP rühmen kann.
 feature: Segments
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Importieren von Segmenten aus Adobe Analytics in Audience Manager
 
-Sie können Echtzeitdaten nicht nur aus Adobe Analytics in Audience Manager weiterleiten, sondern auch Segmente, die nachverarbeitete Daten aus Analytics enthalten, über den Experience Cloud in Audience Manager importieren. Dies ist eine leistungsstarke Funktion, mit der sich kein anderer DMP rühmen kann.
+Sie können Echtzeitdaten nicht nur aus Adobe Analytics an Audience Manager weiterleiten, sondern auch Segmente importieren, die nachverarbeitete Daten aus Analytics über Experience Cloud an Audience Manager enthalten. Dies ist eine leistungsstarke Funktion, mit der sich kein anderer DMP rühmen kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/344722/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/330804/?quality=12&learn=on)

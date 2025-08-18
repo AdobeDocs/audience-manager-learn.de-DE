@@ -1,6 +1,6 @@
 ---
 title: Berichte zur Zielgruppenidentität
-description: Erfahren Sie mehr über das Reporting zur Zielgruppenidentität. Mit dieser Art von Berichten im Audience Manager können Sie die Gesamtpopulation einer Eigenschaft oder eines Segments nach Personen- oder Haushaltsdefinitionen für die Identität melden.
+description: Erfahren Sie mehr über das Reporting zur Zielgruppenidentität. Mit dieser Art von Berichten in Audience Manager können Sie die Gesamtpopulation einer Eigenschaft oder eines Segments nach Personen- oder Haushaltsdefinitionen für die Identität melden.
 feature: profile merge
 topics: null
 audience: marketer
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Berichte zur Zielgruppenidentität
 
-Das Reporting zu Zielgruppenidentitäten bietet Kundinnen und Kunden die Möglichkeit, über die Gesamtpopulation einer Eigenschaft oder eines Segments nach Personen-/Haushaltsdefinitionen von Identität zu berichten. Sehen Sie sich dieses Video an, um zu sehen, wie sich dies in den Audience Manager-Berichten manifestiert.
+Das Reporting zu Zielgruppenidentitäten bietet Kundinnen und Kunden die Möglichkeit, über die Gesamtpopulation einer Eigenschaft oder eines Segments nach Personen-/Haushaltsdefinitionen von Identität zu berichten. Sehen Sie sich dieses Video an, um zu sehen, wie dies in den Audience Manager-Berichten manifestiert wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/32712/?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)

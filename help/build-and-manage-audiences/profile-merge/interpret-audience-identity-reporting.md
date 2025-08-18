@@ -1,6 +1,6 @@
 ---
 title: Interpretieren der Berichte zur Zielgruppenidentität
-description: Das Reporting zu Zielgruppenidentitäten bietet Kundinnen und Kunden die Möglichkeit, über die Gesamtpopulation einer Eigenschaft oder eines Segments nach Personen-/Haushaltsdefinitionen von Identität zu berichten. Sehen Sie sich dieses Video an, um zu sehen, wie sich dies in den Audience Manager-Berichten manifestiert.
+description: Das Reporting zu Zielgruppenidentitäten bietet Kundinnen und Kunden die Möglichkeit, über die Gesamtpopulation einer Eigenschaft oder eines Segments nach Personen-/Haushaltsdefinitionen von Identität zu berichten. Sehen Sie sich dieses Video an, um zu sehen, wie dies in den Audience Manager-Berichten manifestiert wird.
 feature: Profile Merge
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Interpretieren der Berichte zur Zielgruppenidentität
 
-Das Reporting zu Zielgruppenidentitäten bietet Kundinnen und Kunden die Möglichkeit, über die Gesamtpopulation einer Eigenschaft oder eines Segments nach Personen-/Haushaltsdefinitionen von Identität zu berichten. Sehen Sie sich dieses Video an, um zu sehen, wie sich dies in den Audience Manager-Berichten manifestiert.
+Das Reporting zu Zielgruppenidentitäten bietet Kundinnen und Kunden die Möglichkeit, über die Gesamtpopulation einer Eigenschaft oder eines Segments nach Personen-/Haushaltsdefinitionen von Identität zu berichten. Sehen Sie sich dieses Video an, um zu sehen, wie dies in den Audience Manager-Berichten manifestiert wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/32166/?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Beim Erstellen von Segmenten in Audience Manager können Sie Eigenschaften aus verschiedenen Datenquellen hinzufügen. In diesem Video erfahren Sie, wie Sie dies tun können, und es werden andere Einstellungen erläutert, die berücksichtigt werden müssen.
 
->[!VIDEO](https://video.tv.adobe.com/v/327044/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/37713/?quality=12&learn=on)

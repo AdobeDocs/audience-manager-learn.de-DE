@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Eines der wichtigen Felder, die beim Erstellen von Eigenschaften ausgefüllt werden müssen, ist das Feld [!UICONTROL Data Source] . Hier erhalten Sie Tipps zur Auswahl der richtigen Datenquelle für regelbasierte und integrierte Eigenschaften.
 
->[!VIDEO](https://video.tv.adobe.com/v/330130/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/326660/?quality=12&learn=on)

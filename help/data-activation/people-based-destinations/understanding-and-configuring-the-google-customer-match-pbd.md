@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Dieses Video führt Sie durch die Details und den Anwendungsfall des auf Personen basierenden Ziels von Google Customer Match und beinhaltet eine exemplarische Vorgehensweise bei der Erstellung eines Segments und seiner Zuordnung zu einem Ziel. Außerdem wird die Zielgruppe für die Landingpage in der Google Ad Console angezeigt.
 
->[!VIDEO](https://video.tv.adobe.com/v/326461/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/38552/?quality=12&learn=on)

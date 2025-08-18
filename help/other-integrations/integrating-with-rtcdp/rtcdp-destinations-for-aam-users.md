@@ -1,6 +1,6 @@
 ---
-title: Grundlegendes zu Zielen in Real-Time CDP für Audience Manager-Benutzerinnen und -Benutzer
-description: Wenn Sie von Audience Manager zu Real-time Customer Data Platform (Real-Time CDP) wechseln, ist es zwingend erforderlich, die Ziele zu kennen, damit Sie wissen, wie Sie Ihre Zielgruppensegmente für die Zielpartner aktivieren können. In diesem Video werden die verschiedenen Zieltypen und deren Speicherort in Real-Time CDP erläutert.
+title: Grundlegendes zu Zielen in Real-Time CDP für Benutzende von Audience Manager
+description: Wenn Sie von Audience Manager zu Real-time Customer Data Platform (Real-time CDP) wechseln, ist es zwingend erforderlich, die Ziele zu kennen, damit Sie wissen, wie Sie Ihre Zielgruppensegmente für die Zielpartner aktivieren können. In diesem Video werden die verschiedenen Zieltypen und deren Speicherort in Real-Time CDP erläutert.
 feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Grundlegendes zu Zielen in Real-Time CDP für Audience Manager-Benutzerinnen und -Benutzer
+# Grundlegendes zu Zielen in Real-Time CDP für Benutzende von Audience Manager
 
-Wenn Sie von Audience Manager zu Real-time Customer Data Platform (Real-Time CDP) wechseln, ist es zwingend erforderlich, die Ziele zu kennen, damit Sie wissen, wie Sie Ihre Zielgruppensegmente für die Zielpartner aktivieren können. In diesem Video werden die verschiedenen Zieltypen und deren Speicherort in Real-Time CDP erläutert.
+Wenn Sie von Audience Manager zu Real-time Customer Data Platform (Real-time CDP) wechseln, ist es zwingend erforderlich, die Ziele zu kennen, damit Sie wissen, wie Sie Ihre Zielgruppensegmente für die Zielpartner aktivieren können. In diesem Video werden die verschiedenen Zieltypen und deren Speicherort in Real-Time CDP erläutert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332203/?quality=12&learn=on)

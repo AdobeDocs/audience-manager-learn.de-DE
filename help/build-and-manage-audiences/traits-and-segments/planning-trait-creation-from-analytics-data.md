@@ -1,6 +1,6 @@
 ---
 title: Planen der Erstellung von Eigenschaften aus Analytics-Daten
-description: Tipps und Tricks, die Ihnen helfen, wenn Sie planen, Adobe Analytics-Daten in Ihren Eigenschaften im Audience Manager zu verwenden.
+description: Tipps und Tricks, die Ihnen helfen, wenn Sie planen, Adobe Analytics-Daten in Ihren Eigenschaften in Audience Manager zu verwenden.
 feature: Traits
 topics: null
 activity: implement
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Planen der Erstellung von Eigenschaften aus Analytics-Daten
 
-Tipps und Tricks, die Ihnen helfen, wenn Sie planen, Adobe Analytics-Daten in Ihren Eigenschaften im Audience Manager zu verwenden.
+Tipps und Tricks, die Ihnen helfen, wenn Sie planen, Adobe Analytics-Daten in Ihren Eigenschaften in Audience Manager zu verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/330122/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/326780/?quality=12&learn=on)

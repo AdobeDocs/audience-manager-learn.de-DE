@@ -22,4 +22,4 @@ ht-degree: 0%
 
 In diesem Video erfahren Sie, wie Sie eine dateibasierte ID-Synchronisierung formatieren, um Ihre Kunden-IDs (CRM-IDs) mit Hash-E-Mail-Adressen zu verbinden. Auf diese Weise können Sie die gehashten E-Mail-Adressen an personenbasierte Ziele senden, z. B. [!DNL Facebook].
 
->[!VIDEO](https://video.tv.adobe.com/v/31578/?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)

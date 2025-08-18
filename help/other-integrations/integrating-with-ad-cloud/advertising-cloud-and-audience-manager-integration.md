@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie die Integration zwischen Adobe Audience Manager und [!DNL Adobe Advertising] funktioniert. Erhalten Sie auch Antworten zu Übereinstimmungsraten und der Synchronisierung von Drittanbieter-Cookies.
 
->[!VIDEO](https://video.tv.adobe.com/v/35540/?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/25894/?quality=12)

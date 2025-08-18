@@ -1,6 +1,6 @@
 ---
 title: IP-Verschleierung nach Land
-description: Erfahren Sie mehr über IP-Verschleierung nach Land in der Audience Manager. Diese Anwendung bietet Self-Service-Funktionen in der Benutzeroberfläche, mit denen Kunden die IP-Verschleierung global oder nach Land aktivieren können. Dieses Video führt Sie durch die Einrichtung.
+description: Erfahren Sie mehr über IP-Verschleierung nach Land in Audience Manager. Diese Anwendung bietet Self-Service-Funktionen in der Benutzeroberfläche, mit denen Kunden die IP-Verschleierung global oder nach Land aktivieren können. Dieses Video führt Sie durch die Einrichtung.
 feature: Data Governance & Privacy
 topics: null
 activity: use
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# IP-Verschleierung nach Land im Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
+# IP-Verschleierung nach Land in Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
 
 Audience Manager bietet Self-Service-Funktionen in der Benutzeroberfläche, mit denen Kunden die IP-Verschleierung global oder nach Land aktivieren können. Dieses Video führt Sie durch die Einrichtung.
 
->[!VIDEO](https://video.tv.adobe.com/v/34968/?quality=9&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experiencecloud.adobe.com/resources/help/de_DE/aam/ip-obfuscation.html).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html).

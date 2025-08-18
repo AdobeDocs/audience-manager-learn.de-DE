@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die Trend-Berichte in Audience Manager verwenden, um zu sehen, wie sich Eigenschaften und Segmente im Zeitverlauf entwickeln.
 
->[!VIDEO](https://video.tv.adobe.com/v/340796/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/328280/?quality=12&learn=on)

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Anstatt sich an die Adobe Consulting oder die Kundenunterstützung zu wenden, um Anmeldeinformationen für die Verwendung der REST-API zu erhalten, können Sie einfach developer.adobe.com in einem Browser aufrufen und Ihre eigenen Anmeldeinformationen abrufen oder registrieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/326843/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/37889/?quality=12&learn=on)
