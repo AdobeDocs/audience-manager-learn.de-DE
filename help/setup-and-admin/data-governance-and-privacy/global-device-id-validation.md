@@ -89,7 +89,7 @@ Wenn eine falsche globale Geräte-ID (IDFA, GAID usw.) in Echtzeit an Audience M
 
 ![Fehlerbild](assets/image_4_.png)
 
-Eine Liste der Fehlercodes finden [ in ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=de#api-and-sdk-code) Dokumentation.
+Eine Liste der Fehlercodes finden [&#x200B; in &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=de#api-and-sdk-code) Dokumentation.
 
 ## Onboarding von globalen Geräte-IDs {#onboarding-global-device-ids}
 

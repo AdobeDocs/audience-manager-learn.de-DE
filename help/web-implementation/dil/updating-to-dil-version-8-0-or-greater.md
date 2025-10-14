@@ -34,7 +34,7 @@ In früheren Versionen von DIL und ECID gab es doppelte Methoden (Methoden, die 
 Beispiel:
 
 * Bei Verwendung von [!DNL DIL.create] werden einige Elemente nicht mehr unterstützt, stattdessen sollten Sie die ECID-Elemente verwenden. Diese Elemente werden in der (Dokumentation[[!DNL DIL.create]  beschrieben](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html?lang=de).
-* Die Methode auf [!DNL idSync]-Instanzebene wird ebenfalls nicht mehr unterstützt, wie in der (Dokumentation[ der Methode ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-instance-methods.html?lang=de).
+* Die Methode auf [!DNL idSync]-Instanzebene wird ebenfalls nicht mehr unterstützt, wie in der (Dokumentation[&#x200B; der Methode &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-instance-methods.html?lang=de).
 
 ## ID mit einer Kunden-ID synchronisieren {#id-syncing-with-a-customer-id}
 
@@ -43,7 +43,7 @@ In AAM können Sie Ihre UUID (anonyme eindeutige Benutzer-ID) auf dem Computer m
 * Die Methode auf Instanzebene [!DNL idSync]
 * Das [!DNL declaredId] Element in [!DNL DIL.create]
 
-Wenn Sie eine dieser älteren Methoden zur Synchronisierung mit einer Kunden-ID verwendet haben, wird dringend empfohlen, auf die Verwendung der [!DNL setCustomerIDs]-Methode zu aktualisieren, die Teil des ECID-Service ist. Weitere Informationen zu [!DNL setCustomerIDs] finden Sie in der [ der Methode ](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html?lang=de).
+Wenn Sie eine dieser älteren Methoden zur Synchronisierung mit einer Kunden-ID verwendet haben, wird dringend empfohlen, auf die Verwendung der [!DNL setCustomerIDs]-Methode zu aktualisieren, die Teil des ECID-Service ist. Weitere Informationen zu [!DNL setCustomerIDs] finden Sie in der [&#x200B; der Methode &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html?lang=de).
 
 **Schnelltipp:** Sie zuvor eine der oben genannten Methoden verwendet haben, haben Sie auf den AAM-[!UICONTROL Data Source] mit der [!UICONTROL Data Source]-ID (auch „DPID“ genannt) verwiesen. Bei der Aktualisierung auf [!DNL setCustomerIDs] müssen Sie stattdessen das &quot;[!UICONTROL Data Source]&quot; des AAM-[!UICONTROL Integration Code] verwenden. Er verweist immer noch auf denselben [!UICONTROL Data Source], ist aber nur eine andere Kennung. Dies wird im folgenden Video gezeigt.
 
@@ -84,7 +84,7 @@ Wenn Sie Ihren Code direkt auf der Seite aktualisieren, können Sie ältere Elem
 Dasselbe gilt für Tag-Manager, die nicht mit Adobe arbeiten. Wenn Sie die alten Versionen in dieser Tag-Management-Lösung haben, ersetzen Sie sie durch den neuen Code, wie in den folgenden Schritten beschrieben.
 
 1. Aktualisieren Sie Ihre DIL-Bibliothek auf die neueste Version (8.0 oder höher). Sie benötigen den neuesten DIL-Code von der Adobe Consulting- oder Adobe-Kundenunterstützung, da er derzeit nicht an einem öffentlichen Speicherort verfügbar ist. Ersetzen Sie dann einfach den alten DIL-Bibliotheks-Code durch den neuen DIL-Bibliotheks-Code und fahren Sie mit dem nächsten Schritt fort (hören Sie jetzt nicht auf oder Sie stoßen auf Probleme, ha).
-1. Installieren Sie [!DNL ECID Service] oder aktualisieren Sie Ihre vorhandene Version auf 3.3.0 oder höher. Sie können die neueste Version des Experience Cloud ID-Service [von unserer GitHub-Seite) ](https://github.com/Adobe-Marketing-Cloud/id-service/releases). Wenn Sie dabei Hilfe benötigen, lesen Sie die [Dokumentation](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=de) oder wenden Sie sich an einen Adobe-Berater.
+1. Installieren Sie [!DNL ECID Service] oder aktualisieren Sie Ihre vorhandene Version auf 3.3.0 oder höher. Sie können die neueste Version des Experience Cloud ID-Service [von unserer GitHub-Seite) &#x200B;](https://github.com/Adobe-Marketing-Cloud/id-service/releases). Wenn Sie dabei Hilfe benötigen, lesen Sie die [Dokumentation](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=de) oder wenden Sie sich an einen Adobe-Berater.
 
 1. Stellen Sie sicher, dass veraltete Methoden oder Elemente, die sich in Ihrem benutzerdefinierten Code für DIL befinden, in die ECID-Methoden verschoben werden:
 
