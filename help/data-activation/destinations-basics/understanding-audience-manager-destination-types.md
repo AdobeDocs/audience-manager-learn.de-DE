@@ -5,10 +5,10 @@ feature: Destination Basics
 doc-type: presentation
 thumbnail: 29839.jpg
 kt: 4016
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 8e4026fb-6ee7-4f42-afb2-7600c87744d6
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -21,6 +21,6 @@ Dieses Video führt Sie durch die verschiedenen Zieltypen in Adobe Audience Mana
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-Eine Liste der verfügbaren Server-zu-Server-Zielpartner finden Sie in der Dokumentation zu [Audience Manager Device-based Destinations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html?lang=de).
+Eine Liste der verfügbaren Server-zu-Server-Zielpartner finden Sie in der Dokumentation zu [Audience Manager Device-based Destinations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html).
 
-Weitere Informationen zu Zielen finden Sie unter [Ziele](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=de) in der Produktdokumentation.
+Weitere Informationen zu Zielen finden Sie unter [Ziele](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html) in der Produktdokumentation.

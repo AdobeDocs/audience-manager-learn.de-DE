@@ -6,10 +6,10 @@ topics: null
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: d16c7e1164ee1e63e44d239f8bb3356ce0402246
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Audience Manager-Tutorials
 
-Willkommen auf der Tutorial-Site zu Audience Manager. Durch die Verwendung dieser Tutorials zusammen mit der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=de) erhalten Sie ein besseres Verständnis dafür, wie Sie mit Adobe Audience Manager mithilfe der erstklassigen [!DNL data management platform] von Adobe Zielgruppen auf jedem Kanal oder Gerät erstellen und aktivieren können.
+Willkommen auf der Tutorial-Site zu Audience Manager. Durch die Verwendung dieser Tutorials zusammen mit der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) erhalten Sie ein besseres Verständnis dafür, wie Sie mit Adobe Audience Manager mithilfe der erstklassigen [!DNL data management platform] von Adobe Zielgruppen auf jedem Kanal oder Gerät erstellen und aktivieren können.
 
 * **Favoriten** hebt einige unserer Lieblingsinhalte hervor
 * Erkunden des Inhalts nach Thema und Unterthema in der **linken Navigation**
@@ -38,11 +38,11 @@ Willkommen auf der Tutorial-Site zu Audience Manager. Durch die Verwendung diese
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=de">
+    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
       <img alt="Miniaturbild für das Tutorial „Implementieren von Adobe Experience Cloud mit Web SDK&quot;" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=de">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
     <strong>Tutorial zur Implementierung von Adobe Experience Cloud mit Web SDK</strong>
     </a>
     </div>
@@ -51,11 +51,11 @@ Willkommen auf der Tutorial-Site zu Audience Manager. Durch die Verwendung diese
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=de">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
       <img alt="Miniaturbild für das Tutorial „Grundlagen zu Segmenten in Real-Time CDP“" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=de">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
     <strong>Grundlegendes zu Segmenten in Real-Time CDP für Benutzende von Audience Manager</strong>
     </a>
     </div>
@@ -64,11 +64,11 @@ Willkommen auf der Tutorial-Site zu Audience Manager. Durch die Verwendung diese
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=de">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
       <img alt="Miniaturbild für das Tutorial „Konfigurieren von und Erstellen von Berichten zu prädiktiven Zielgruppen in Audience Manager&quot;" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=de">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
     <strong>Konfigurieren von und Erstellen von Berichten zu prädiktiven Zielgruppen in Audience Manager</strong>
     </a>
     </div>

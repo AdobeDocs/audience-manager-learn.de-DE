@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 25148.jpg
 kt: 1760
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 3a9b135f-033f-4beb-a4f8-65df1b34e9f9
-source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -22,8 +22,8 @@ ht-degree: 0%
 
 Bei der täglichen Arbeit in Audience Manager müssen Sie möglicherweise schnell herausfinden, ob ein Merkmal aus einem bestimmten Schlüssel/Wert-Paar erstellt wurde. In diesem Video erfahren Sie, wie Sie [!UICONTROL Data Explorer] nutzen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/330358/?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/25148/?quality=12)
 
 Um herauszufinden, ob ein Signal in eine Eigenschaft erzeugt wurde, müssen Sie nicht mehr eine BAAAM-Datei und auch den [!UICONTROL Unused Signals]-Bericht herunterladen. Jetzt können Sie in AAM einfach nach diesem Schlüssel/Wert-Paar in [!DNL Data Explorer], auch bekannt als [!UICONTROL Signals] App, suchen und Schlüssel/Wert-Paare finden, die sich in Eigenschaften befinden und solche, die es nicht sind, alle in derselben Liste. Großartige Zeitersparnis!
 
-Weitere Informationen zu [!UICONTROL Data Explorer] finden Sie unter [Data Explorer - Übersicht, Vorteile und Anwendungsfälle](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=de)).
+Weitere Informationen zu [!UICONTROL Data Explorer] finden Sie unter [Data Explorer - Übersicht, Vorteile und Anwendungsfälle](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).

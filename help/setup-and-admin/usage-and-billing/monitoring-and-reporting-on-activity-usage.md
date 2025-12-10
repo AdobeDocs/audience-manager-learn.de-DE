@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 kt: 4168
 topic: Administration
-role: Developer, Data Engineer, Admin
+role: Developer, Admin
 level: Beginner
 exl-id: 1a71ad6e-6583-4228-8a40-59501cb414b0
-source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 In diesem Video erfahren Sie, wie Sie die [!UICONTROL Activity Usage Report] verwenden, einschließlich der Anzeige- und Download-Optionen.
 
->[!VIDEO](https://video.tv.adobe.com/v/33612/?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html?lang=de).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html).

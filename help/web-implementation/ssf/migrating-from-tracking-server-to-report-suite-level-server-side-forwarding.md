@@ -8,10 +8,10 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: Developer, Data Engineer
+role: Developer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-source-git-commit: 4adaade180545bcf5f911b7453a7e9939e2ed178
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Wenn Sie sich nicht sicher sind, ob [!DNL tracking server forwarding] für Sie a
 
 ## Server-seitige Weiterleitung auf [!UICONTROL Report-suite] {#report-suite-level-server-side-forwarding}
 
-Einer der größten Vorteile beim Übergang von der [!UICONTROL report suite] zur [!UICONTROL tracking server] besteht darin, dass Sie jetzt &quot;Audience Analytics&quot; verwenden können. Damit können Sie Audience Manager-[!UICONTROL segments] zur detaillierten Segmentanalyse zurück an Adobe Analytics weiterleiten. Diese großartige Funktion wird NICHT unterstützt, wenn Sie sich noch in der [!UICONTROL tracking server] und nicht in der [!UICONTROL report suite] befinden. Weitere Informationen zu Audience Analytics finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=de).
+Einer der größten Vorteile beim Übergang von der [!UICONTROL report suite] zur [!UICONTROL tracking server] besteht darin, dass Sie jetzt &quot;Audience Analytics&quot; verwenden können. Damit können Sie Audience Manager-[!UICONTROL segments] zur detaillierten Segmentanalyse zurück an Adobe Analytics weiterleiten. Diese großartige Funktion wird NICHT unterstützt, wenn Sie sich noch in der [!UICONTROL tracking server] und nicht in der [!UICONTROL report suite] befinden. Weitere Informationen zu Audience Analytics finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

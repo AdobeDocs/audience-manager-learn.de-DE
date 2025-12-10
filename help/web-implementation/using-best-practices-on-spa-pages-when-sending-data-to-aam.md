@@ -8,10 +8,10 @@ doc-type: technical video
 team: Technical Marketing
 kt: 1390
 topic: SPA
-role: Developer, Data Engineer
+role: Developer
 level: Experienced
 exl-id: 99ec723a-dd56-4355-a29f-bd6d2356b402
-source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 0%
@@ -56,7 +56,7 @@ Wenn Sie zur oben aufgeführten Demo-Site gehen und sich die Seitenquelle ansehe
 * Die Datenschicht befindet sich im Kopf der Seite, vor dem Aufruf von Platform-Tags
 * Der JavaScript im simulierten SPA-Link ändert die [!UICONTROL Data Layer] und ruft dann Platform-Tags auf (den `_satellite.track()`-Aufruf). Wenn Sie benutzerdefinierte JavaScript-Ereignisse anstelle dieses [!UICONTROL Direct Call Rule] verwenden, ist die Lektion dieselbe. Ändern Sie zunächst die [!DNL data layer] und rufen Sie dann Platform-Tags auf.
 
->[!VIDEO](https://video.tv.adobe.com/v/38108/?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
 
 ## Zusätzliche Ressourcen {#additional-resources}
 

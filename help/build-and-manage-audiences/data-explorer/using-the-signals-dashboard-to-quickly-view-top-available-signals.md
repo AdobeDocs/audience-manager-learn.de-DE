@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 25151.jpg
 kt: 2140
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: f7d50b2f-52a3-465d-89ba-337a10c26a1c
-source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -22,8 +22,8 @@ ht-degree: 0%
 
 Durch die Verwendung integrierter und benutzerdefinierter Tabellen im [!UICONTROL Signals Dashboard] in [!DNL Data Explorer] können Sie die neuesten Daten schnell in Audience Manager einsehen und sogar bei Bedarf durchklicken, um Eigenschaften zu erstellen. Willkommen bei Ihrem neuen, effizienteren Workflow!
 
->[!VIDEO](https://video.tv.adobe.com/v/327522/?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/25151/?quality=12)
 
 Wenn Sie sich durch klicken, um die [!UICONTROL Data Explorer] App zu [!UICONTROL Signals], erhalten Sie ein Standard-Dashboard mit den wichtigsten Signalen sowie neuen Signalen. Zusätzlich zu diesen beiden Standardwerten können Sie Suchvorgänge speichern und dem Dashboard hinzufügen, sodass Sie Ihre wichtigsten Daten sehr schnell direkt auf der Startseite der Funktion anzeigen können.
 
-Weitere Informationen zu [!UICONTROL Data Explorer] finden Sie unter [Data Explorer - Übersicht, Vorteile und Anwendungsfälle](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=de)).
+Weitere Informationen zu [!UICONTROL Data Explorer] finden Sie unter [Data Explorer - Übersicht, Vorteile und Anwendungsfälle](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).

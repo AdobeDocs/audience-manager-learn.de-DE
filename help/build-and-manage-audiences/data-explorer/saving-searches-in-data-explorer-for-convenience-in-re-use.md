@@ -9,10 +9,10 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 25147.jpg
 kt: 1763
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: aff58324-52f6-438d-8aae-4f2e8cd16ae0
-source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -23,6 +23,6 @@ ht-degree: 0%
 
 In diesem Video erfahren Sie, wie Sie eine Suche in [!DNL Data Explorer] konfigurieren, ausführen und dann zur späteren Wiederverwendung speichern. Sie können die gespeicherte Suche auch im Dashboard platzieren, sodass sie sofort beim Aufrufen der [!UICONTROL Signals]-App verfügbar ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/30171/?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-Weitere Informationen zu [!UICONTROL Data Explorer] finden Sie unter [Data Explorer - Übersicht, Vorteile und Anwendungsfälle](https://experiencecloud.adobe.com/resources/help/de_DE/aam/data-explorer.html).
+Weitere Informationen zu [!UICONTROL Data Explorer] finden Sie unter [Data Explorer - Übersicht, Vorteile und Anwendungsfälle](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

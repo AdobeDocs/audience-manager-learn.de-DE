@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 28955.jpg
 kt: 3343
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 08a1c74a-fd7f-46ab-b4c5-a2a05adfe7c1
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 In diesem Video erhalten Sie zunächst einige Informationen zu den Voraussetzungen für die Erstellung Ihres personenbasierten Ziels und anschließend auch Informationen zur Konfiguration eines integrierten Kontos (Link zum Partner, z. B. [!DNL Facebook]). Anschließend werden Sie durch die produktinterne Einrichtung des Ziels selbst geführt.
 
->[!VIDEO](https://video.tv.adobe.com/v/32710/?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)
