@@ -156,7 +156,7 @@ Basierend auf diesen technischen Details finden Sie hier die Empfehlungen für d
 
    1. Aktualisieren Sie Ihren Code so bald wie möglich von Client-seitiger DIL zu einseitiger Weiterleitung (dies kann sich in Platform-Tags oder auf der Seite befinden, wie in einem anderen Abschnitt oben beschrieben).
 
-      1. Sie sollten eine geeignete JSON-Antwort auf Ihr [!DNL Analytics]-Beacon erhalten (weitere Informationen finden Sie [ Abschnitt „Validierung und ](#validation-and-troubleshooting)&quot; weiter unten).
+      1. Sie sollten eine geeignete JSON-Antwort auf Ihr [!DNL Analytics]-Beacon erhalten (weitere Informationen finden Sie [&#x200B; Abschnitt „Validierung und &#x200B;](#validation-and-troubleshooting)&quot; weiter unten).
 
 >[!NOTE]
 >
