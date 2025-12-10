@@ -26,4 +26,4 @@ Wenn Sie [!UICONTROL Trait Recommendations] ein Segment in [!UICONTROL Segments]
 
 [!UICONTROL Trait Recommendations] arbeiten sowohl an Erstanbieter- als auch an Drittanbieterdaten, sodass Sie zusätzliche empfohlene [!UICONTROL Traits] einbeziehen und Ihre Zielgruppe vergrößern können.
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).
+Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experiencecloud.adobe.com/resources/help/de_DE/aam/trait-recommendations.html).

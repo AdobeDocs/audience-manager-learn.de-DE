@@ -74,7 +74,7 @@ Die folgenden Schritte beschreiben die Implementierung.
 
 Die wichtigste Voraussetzung für die Umstellung auf die Server-seitige Weiterleitung ist die Implementierung des Experience Cloud ID-Service. Dies ist am einfachsten, wenn Sie Experience Platform Launch verwenden. In diesem Fall installieren Sie einfach die ECID-Erweiterung und sie erledigt den Rest.
 
-Wenn Sie ein Nicht-Adobe-TMS oder gar kein TMS verwenden, implementieren Sie ECID, um (**)** anderen Adobe-Lösungen auszuführen. Weitere Informationen finden Sie in [ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html)Dokumentation. Die einzige weitere Voraussetzung betrifft die Code-Versionen. Wenn Sie also in den folgenden Schritten einfach die neuesten Versionen des Codes anwenden, ist alles in Ordnung.
+Wenn Sie ein Nicht-Adobe-TMS oder gar kein TMS verwenden, implementieren Sie ECID, um (**)** anderen Adobe-Lösungen auszuführen. Weitere Informationen finden Sie in [ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=de)Dokumentation. Die einzige weitere Voraussetzung betrifft die Code-Versionen. Wenn Sie also in den folgenden Schritten einfach die neuesten Versionen des Codes anwenden, ist alles in Ordnung.
 
 >[!NOTE]
 >
@@ -202,4 +202,4 @@ Wenn Sie keine Server-seitige Weiterleitung von Daten von [!DNL Analytics] an Au
 
 ![Erfolg](assets/falsesuccess.png)
 
-Weitere Informationen zur Server-seitigen Weiterleitung finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
+Weitere Informationen zur Server-seitigen Weiterleitung finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=de).

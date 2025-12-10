@@ -25,6 +25,6 @@ Wenn Sie Ihre Zweit- und Drittanbieterdatennutzung im [!UICONTROL Audience Marke
 >[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
 
 Zusätzlich zu diesem Tool für den Massen-Upload, mit dem Sie die Berichterstellung zur Datennutzung vereinfachen und Zeit sparen können, profitieren Kunden, die Zweit- oder Drittanbieterdaten von [!UICONTROL Audience Marketplace] erwerben, von einer verbesserten Kostenzuordnungsrichtlinie. Diese neue Richtlinie schreibt den Datenanbietern Kosten auf der Grundlage der eindeutigen Anzahl der Benutzenden von Eigenschaften in einem regelbasierten Segment zu, was zu mehr Transparenz und einer gerechteren Abrechnung der Nutzung führt.
-Weitere Informationen zum Abrechnungsalgorithmus finden Sie unter [Kostenzuordnung für CPM-Daten-Feeds](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html) in der Produktdokumentation.
+Weitere Informationen zum Abrechnungsalgorithmus finden Sie unter [Kostenzuordnung für CPM-Daten-Feeds](https://experiencecloud.adobe.com/resources/help/de_DE/aam/marketplace_cpm_billing.html) in der Produktdokumentation.
 
-Weitere Informationen zur Berichterstellung zur Nutzung von CPM finden Sie unter [So melden Sie die Nutzung von CPM](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html) in der Produktdokumentation.
+Weitere Informationen zur Berichterstellung zur Nutzung von CPM finden Sie unter [So melden Sie die Nutzung von CPM](https://experiencecloud.adobe.com/resources/help/de_DE/aam/t_marketplace_report_cpm_usage.html) in der Produktdokumentation.

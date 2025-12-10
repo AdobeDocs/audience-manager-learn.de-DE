@@ -26,4 +26,4 @@ Durch die Verwendung integrierter und benutzerdefinierter Tabellen im [!UICONTRO
 
 Wenn Sie sich durch klicken, um die [!UICONTROL Data Explorer] App zu [!UICONTROL Signals], erhalten Sie ein Standard-Dashboard mit den wichtigsten Signalen sowie neuen Signalen. Zusätzlich zu diesen beiden Standardwerten können Sie Suchvorgänge speichern und dem Dashboard hinzufügen, sodass Sie Ihre wichtigsten Daten sehr schnell direkt auf der Startseite der Funktion anzeigen können.
 
-Weitere Informationen zu [!UICONTROL Data Explorer] finden Sie unter [Data Explorer - Übersicht, Vorteile und Anwendungsfälle](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).
+Weitere Informationen zu [!UICONTROL Data Explorer] finden Sie unter [Data Explorer - Übersicht, Vorteile und Anwendungsfälle](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=de)).
