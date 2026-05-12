@@ -3,10 +3,12 @@ user-guide-title: Adobe Audience Manager-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analytics.
 breadcrumb-title: Audience Manager-Tutorials
 solution: Audience Manager
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
 type: Tutorial
-source-git-commit: f9708e705d95b43084ff11e342dc54ff11d6326c
+source-git-commit: 73d16f8b9fda736f962ca4317d04aa93dcbe216c
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: 1089
 ht-degree: 2%
 
 ---
@@ -29,7 +31,7 @@ ht-degree: 2%
    + [10 Überlegungen zum verantwortungsvollen Kundendaten-Management](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=de)
    + [Eine Geschichte zweier Wahrnehmungen - Marken vs. Verbraucher](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html?lang=de)
    + [Weiterentwicklung Ihres Audience Center of Excellence](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html?lang=de)
-   + [Erstellen besserer Erlebnisse mit Kundenprofilen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html?lang=de)
+   + [Erstellen besserer Erlebnisse für Kundenprofile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html?lang=de)
 + Setup und Admin {#setup-and-admin}
    + Datenquellen {#data-sources}
       + [Erstellen einer Datenquelle für Analytics-Daten](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
@@ -56,9 +58,9 @@ ht-degree: 2%
    + [Formatieren und Aufnehmen dateibasierter Daten](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Schritte für die Aufnahme dateibasierter Daten](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Mobile-Implementierung {#mobile-implementation}
-   + [Implementierung in iOS Swift-Anwendungen](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=de)
-   + [Implementieren von in iOS Objective-C-Anwendungen](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=de)
-   + [Implementierung in Android-Anwendungen](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=de)
+   + [Implementieren in iOS Swift-Anwendungen](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=de)
+   + [Implementieren in iOS Objective-C-Anwendungen](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=de)
+   + [Implementieren in Android-Anwendungen](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=de)
 + Audience Marketplace {#audience-marketplace}
    + Kaufdaten {#buying-data}
       + [Reporting zur Datennutzung von Zweit- und Drittanbietern in Audience Marketplace auf Segmentebene](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
@@ -150,7 +152,7 @@ ht-degree: 2%
    + [Audience Optimization-Berichte zum besseren Verständnis der Medienleistung verwenden](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Andere Integrationen {#other-integrations}
    + Integration mit Real-time Customer Data Platform {#integrating-with-rtcdp}
-      + [Aufnehmen von Daten über den Adobe Audience Manager Data Connector](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=de#sources)
+      + [Aufnehmen von Daten mit dem Adobe Audience Manager Data Connector](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=de#sources)
       + [Grundlegendes zur Erfassung von First-Party-Daten in Real-Time CDP](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [Grundlegendes zur Erfassung von Web-Daten in Real-Time CDP](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
       + [Grundlegendes zu Schemas und XDM in Real-Time CDP](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)
