@@ -10,10 +10,25 @@ kt: 1841
 role: Developer
 level: Intermediate
 exl-id: 8c1e6ed5-0f21-427b-a681-0ecb020a0e60
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/uM1GY5cQLRo0qsxnsfrbAuEB-1EJhDyCMyvbmCSbBbQ
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+subfeature_v2:
+  - id: d7e573ad-4eda-46ec-90c4-239e75362af9
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '1074'
-ht-degree: 0%
+source-wordcount: 1196
+ht-degree: 1%
 
 ---
 
@@ -45,7 +60,7 @@ In AAM können Sie Ihre UUID (anonyme eindeutige Benutzer-ID) auf dem Computer m
 
 Wenn Sie eine dieser älteren Methoden zur Synchronisierung mit einer Kunden-ID verwendet haben, wird dringend empfohlen, auf die Verwendung der [!DNL setCustomerIDs]-Methode zu aktualisieren, die Teil des ECID-Service ist. Weitere Informationen zu [!DNL setCustomerIDs] finden Sie in der [&#x200B; der Methode &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html?lang=de).
 
-**Schnelltipp:** Sie zuvor eine der oben genannten Methoden verwendet haben, haben Sie auf den AAM-[!UICONTROL Data Source] mit der [!UICONTROL Data Source]-ID (auch „DPID“ genannt) verwiesen. Bei der Aktualisierung auf [!DNL setCustomerIDs] müssen Sie stattdessen das &quot;[!UICONTROL Data Source]&quot; des AAM-[!UICONTROL Integration Code] verwenden. Er verweist immer noch auf denselben [!UICONTROL Data Source], ist aber nur eine andere Kennung. Dies wird im folgenden Video gezeigt.
+**Schnelltipp:** Sie zuvor eine der oben genannten Methoden verwendet haben, haben Sie auf den AAM-[!UICONTROL Data Source] mit der [!UICONTROL Data Source]-ID (auch „DPID“ genannt) verwiesen. Bei der Aktualisierung auf [!DNL setCustomerIDs] müssen Sie stattdessen das &quot;[!UICONTROL Integration Code]&quot; des AAM-[!UICONTROL Data Source] verwenden. Er verweist immer noch auf denselben [!UICONTROL Data Source], ist aber nur eine andere Kennung. Dies wird im folgenden Video gezeigt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33835/?captions=ger&quality=12)
 

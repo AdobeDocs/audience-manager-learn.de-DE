@@ -5,13 +5,20 @@ feature: Traits
 doc-type: feature video
 thumbnail: 330749.jpg
 kt: 6621
-last-substantial-update: 2025-04-18T00:00:00Z
+last-substantial-update: 2025-04-18T00:00:00.000Z
 role: User
 level: Beginner
 exl-id: 5a1fb5f5-45cd-4ede-924b-1d2b92cfec92
-source-git-commit: b85100e7ad39468ba6bea2da77068ed37685c84d
+TQID: https://experienceleague.adobe.com/V6zGqHaFkLFPYC2PwjuMf4HnryqNq1euXvaIt-UiruY
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: 183
 ht-degree: 0%
 
 ---
@@ -20,7 +27,7 @@ ht-degree: 0%
 
 Beim Erstellen, Bearbeiten oder Löschen von Eigenschaften kann es ineffizient und zeitaufwendig sein, die Benutzeroberfläche einzeln zu verwenden. In diesem Video erfahren Sie, wie Sie mit BAAAM, dem Bulk-Management-Tool von Audience Manager, Eigenschaften mithilfe einer einfachen Microsoft-Tabelle als Schnittstelle zur REST-API stapelweise erstellen, bearbeiten und löschen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/344712/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/344712/?captions=ger&quality=12&learn=on)
 
 Weitere Informationen, auch zum Herunterladen des BAAAM-Arbeitsblatts, finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=de#reference).
 
