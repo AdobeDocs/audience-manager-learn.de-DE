@@ -37,4 +37,4 @@ Machen Sie sich mit den wichtigsten Herausforderungen bei der kanalübergreifend
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=de).

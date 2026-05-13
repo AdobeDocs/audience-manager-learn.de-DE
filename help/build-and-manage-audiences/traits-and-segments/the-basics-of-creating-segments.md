@@ -33,4 +33,4 @@ Durchlaufen Sie die Felder in der Benutzeroberfläche, um ein Segment in Audienc
 
 >[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
 
-Weitere Informationen zu Segmenten finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html).
+Weitere Informationen zu Segmenten finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=de).

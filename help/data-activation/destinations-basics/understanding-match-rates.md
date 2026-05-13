@@ -33,4 +33,4 @@ In diesem Video erfahren Sie, wie Übereinstimmungsraten in Adobe Audience Manag
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=de).

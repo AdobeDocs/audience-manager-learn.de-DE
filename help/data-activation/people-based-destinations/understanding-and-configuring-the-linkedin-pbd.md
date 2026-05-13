@@ -33,6 +33,6 @@ Dieses Video führt Sie durch die Konzepte und Schritte zum Erstellen eines [!UI
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=de).
 
 Weitere Videos zu personenbasierten Zielen finden Sie [HIER](https://adobe.ly/aamlearnpbd).
