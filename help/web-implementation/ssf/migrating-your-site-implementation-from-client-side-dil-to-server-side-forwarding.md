@@ -11,9 +11,16 @@ kt: 1778
 role: Developer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/Ot1-VgP7kGzBnYguaSGlH0BVwThc1yyA2GH31gnYnFs
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+subfeature_v2: id: d7e573ad-4eda-46ec-90c4-239e75362af9
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: d3cdead0-685a-4489-9250-4bb709942f66id: df401a2a-327d-468c-a5e4-b7b7ccd071a0id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '2333'
+source-wordcount: 2419
 ht-degree: 0%
 
 ---
@@ -74,7 +81,7 @@ Die folgenden Schritte beschreiben die Implementierung.
 
 Die wichtigste Voraussetzung für die Umstellung auf die Server-seitige Weiterleitung ist die Implementierung des Experience Cloud ID-Service. Dies ist am einfachsten, wenn Sie Experience Platform Launch verwenden. In diesem Fall installieren Sie einfach die ECID-Erweiterung und sie erledigt den Rest.
 
-Wenn Sie ein Nicht-Adobe-TMS oder gar kein TMS verwenden, implementieren Sie ECID, um (**)** anderen Adobe-Lösungen auszuführen. Weitere Informationen finden Sie in [ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=de)Dokumentation. Die einzige weitere Voraussetzung betrifft die Code-Versionen. Wenn Sie also in den folgenden Schritten einfach die neuesten Versionen des Codes anwenden, ist alles in Ordnung.
+Wenn Sie ein Nicht-Adobe-TMS oder gar kein TMS verwenden, implementieren Sie ECID, um (**)** anderen Adobe-Lösungen auszuführen. Weitere Informationen finden Sie in [ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html)Dokumentation. Die einzige weitere Voraussetzung betrifft die Code-Versionen. Wenn Sie also in den folgenden Schritten einfach die neuesten Versionen des Codes anwenden, ist alles in Ordnung.
 
 >[!NOTE]
 >
@@ -156,7 +163,7 @@ Basierend auf diesen technischen Details finden Sie hier die Empfehlungen für d
 
    1. Aktualisieren Sie Ihren Code so bald wie möglich von Client-seitiger DIL zu einseitiger Weiterleitung (dies kann sich in Platform-Tags oder auf der Seite befinden, wie in einem anderen Abschnitt oben beschrieben).
 
-      1. Sie sollten eine geeignete JSON-Antwort auf Ihr [!DNL Analytics]-Beacon erhalten (weitere Informationen finden Sie [&#x200B; Abschnitt „Validierung und &#x200B;](#validation-and-troubleshooting)&quot; weiter unten).
+      1. Sie sollten eine geeignete JSON-Antwort auf Ihr [!DNL Analytics]-Beacon erhalten (weitere Informationen finden Sie [ Abschnitt „Validierung und ](#validation-and-troubleshooting)&quot; weiter unten).
 
 >[!NOTE]
 >
@@ -202,4 +209,4 @@ Wenn Sie keine Server-seitige Weiterleitung von Daten von [!DNL Analytics] an Au
 
 ![Erfolg](assets/falsesuccess.png)
 
-Weitere Informationen zur Server-seitigen Weiterleitung finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=de).
+Weitere Informationen zur Server-seitigen Weiterleitung finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
