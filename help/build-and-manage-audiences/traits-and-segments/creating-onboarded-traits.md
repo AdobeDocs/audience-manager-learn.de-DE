@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Tipps zum Erstellen von integrierten Eigenschaften in Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/40267/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328518/?captions=ger&quality=12&learn=on)

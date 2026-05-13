@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Verwenden Sie [!UICONTROL Recency] und [!UICONTROL Frequency], um Ihre Segmentparameter anzugeben, wie oft ein Besucher sich innerhalb eines bestimmten Zeitraums für eine Eigenschaft qualifizieren muss. Ideal für Anwendungsfälle wie Content-Affinität und Frequenzlimitierung .
 
->[!VIDEO](https://video.tv.adobe.com/v/37698/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327048/?captions=ger&quality=12&learn=on)

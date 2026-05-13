@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Dieses Video führt Sie durch den Prozess der Definition Ihrer Segmente und ihrer anschließenden Aufschlüsselung nach den Eigenschaften/Signalen, die Sie zum Erstellen benötigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/37391/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326717/?captions=ger&quality=12&learn=on)

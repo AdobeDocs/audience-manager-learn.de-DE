@@ -34,4 +34,4 @@ ht-degree: 85%
 
 In diesem Video werden wir über einige der grundlegenden Begriffe und Konzepte sprechen, auf die Sie im Audience Manager treffen werden, darunter Signale, Eigenschaften, Segmente usw.
 
->[!VIDEO](https://video.tv.adobe.com/v/33887/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37090/?captions=ger&quality=12)

@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Im Bildschirm „Eigenschafteninformationen“ erhalten Sie Tipps zum Verständnis der gemeldeten Zahlen für Eigenschaften.
 
->[!VIDEO](https://video.tv.adobe.com/v/327171/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340521/?captions=ger&quality=12&learn=on)

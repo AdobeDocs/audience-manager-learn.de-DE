@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Erfahren Sie mehr über die verschiedenen Zieltypen in Audience Manager und die Details der Zuordnung von Segmenten zu jedem Zieltyp.
 
->[!VIDEO](https://video.tv.adobe.com/v/39158/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327387/?captions=ger&quality=12&learn=on)

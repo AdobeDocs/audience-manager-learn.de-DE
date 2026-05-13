@@ -34,4 +34,4 @@ ht-degree: 0%
 
 In diesem Video erhalten Sie einen Überblick über personenbasierte Ziele und über den Datenfluss durch den Prozess.
 
->[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32169/?captions=ger&quality=12)

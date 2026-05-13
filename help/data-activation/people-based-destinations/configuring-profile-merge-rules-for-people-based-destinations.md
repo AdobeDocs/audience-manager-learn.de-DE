@@ -34,4 +34,4 @@ ht-degree: 0%
 
 In diesem Video erfahren Sie, wie Sie eine [!UICONTROL Profile Merge Rule] einrichten, die für personenbasierte Ziele verwendet werden soll, einschließlich der Verwendung einer brandneuen geräteübergreifenden Option.
 
->[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31576/?captions=ger&quality=12)
