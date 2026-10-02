@@ -11,24 +11,30 @@ topic: SPA
 role: Developer
 level: Experienced
 exl-id: 99ec723a-dd56-4355-a29f-bd6d2356b402
-TQID: https://experienceleague.adobe.com/ohlywv3vjuOMj2nD6Kv1OlcG-hcumfj-qzRCcdup9Ew
+TQID: 'https://experienceleague.adobe.com/ohlywv3vjuOMj2nD6Kv1OlcG-hcumfj-qzRCcdup9Ew'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
 subfeature_v2:
   - id: f0bb1502-9f96-4d5e-a596-06876fe34ea0
+    internal-label: Implementation basics
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Implementation
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 593
+source-wordcount: '593'
 ht-degree: 0%
-
 ---
-
 # Verwenden Sie Best Practices auf SPA-Seiten, wenn Sie Daten an AAM senden {#using-best-practices-on-spa-pages-when-sending-data-to-aam}
 
 In diesem Dokument werden mehrere Best Practices für das Senden von Daten von Single Page Applications (SPA) an Adobe Audience Manager (AAM) beschrieben. Dieser Artikel konzentriert sich auf die Verwendung von [!UICONTROL Experience Platform tags], der empfohlenen Implementierungsmethode.
@@ -67,7 +73,7 @@ Wenn Sie zur oben aufgeführten Demo-Site gehen und sich die Seitenquelle ansehe
 * Die Datenschicht befindet sich im Kopf der Seite, vor dem Aufruf von Platform-Tags
 * Der JavaScript im simulierten SPA-Link ändert die [!UICONTROL Data Layer] und ruft dann Platform-Tags auf (den `_satellite.track()`-Aufruf). Wenn Sie benutzerdefinierte JavaScript-Ereignisse anstelle dieses [!UICONTROL Direct Call Rule] verwenden, ist die Lektion dieselbe. Ändern Sie zunächst die [!DNL data layer] und rufen Sie dann Platform-Tags auf.
 
->[!VIDEO](https://video.tv.adobe.com/v/38108/?captions=ger&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
 
 ## Zusätzliche Ressourcen {#additional-resources}
 
